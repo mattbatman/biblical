@@ -9,31 +9,28 @@ const url = new URL(Astro.request.url);
 <header id="main-header" class="group relative mb-28 flex items-center sm:ps-[4.5rem]">
 	<div class="flex sm:flex-col">
 		<a
-			href="/"
+			href="/biblical/"
 			class="inline-flex items-center grayscale hover:filter-none sm:relative sm:inline-block"
-			aria-current={url.pathname === "/" ? "page" : false}
+			aria-current={url.pathname === "/biblical/" ? "page" : false}
 		>
-			<svg
+			<svg 
 				class="me-3 h-10 w-6 sm:absolute sm:start-[-4.5rem] sm:me-0 sm:h-20 sm:w-12"
 				aria-hidden="true"
 				focusable="false"
-				fill="none"
+				viewBox="0 0 273 480" 
+				fill="none" 
 				xmlns="http://www.w3.org/2000/svg"
-				viewBox="0 0 272 480"
 			>
-				<title>Logo</title>
-				<path
-					d="M181.334 93.333v-40L226.667 80v40l-45.333-26.667ZM136.001 53.333 90.667 26.667v426.666L136.001 480V53.333Z"
-					fill="#B04304"></path>
-				<path
-					d="m136.001 119.944 45.333-26.667 45.333 26.667-45.333 26.667-45.333-26.667ZM90.667 26.667 136.001 0l45.333 26.667-45.333 26.666-45.334-26.666ZM181.334 53.277l45.333-26.666L272 53.277l-45.333 26.667-45.333-26.667ZM0 213.277l45.333-26.667 45.334 26.667-45.334 26.667L0 213.277ZM136 239.944l-45.333-26.667v53.333L136 239.944Z"
-					fill="#FF5D01"></path>
-				<path
-					d="m136 53.333 45.333-26.666v120L226.667 120V80L272 53.333V160l-90.667 53.333v240L136 480V306.667L45.334 360V240l45.333-26.667v53.334L136 240V53.333Z"
-					fill="#53C68C"></path>
-				<path d="M45.334 240 0 213.334v120L45.334 360V240Z" fill="#B04304"></path>
+				<path d="M92 28L138 55L135.5 480L92 454V28Z" fill="#B04304"/>
+				<path d="M48 225.5L1.5 194.5V266L48 290.5V225.5Z" fill="#B04304"/>
+				<path d="M137 480V55L183 28.5V453.5L137 480Z" fill="#53C68C"/>
+				<path d="M183 147V213L272.5 161.5V94.5L183 147Z" fill="#53C68C"/>
+				<path d="M48 225.5V291.5L137.5 240V173L48 225.5Z" fill="#53C68C"/>
+				<path d="M183 28.5L138 55L92.5 28.5L138 0.5L183 28.5Z" fill="#FF5D01"/>
+				<path d="M0 195L48 225L136.5 173.5L91.5 146L0 195Z" fill="#FF5D01"/>
+				<path d="M183.5 145.5V102.5L232.5 75L272.5 95L183.5 145.5Z" fill="#FF5D01"/>
 			</svg>
-			<span class="text-xl font-bold sm:text-2xl">Astro Cactus</span>
+			<span class="text-xl font-bold sm:text-2xl">Biblical</span>
 		</a>
 		<nav
 			id="navigation-menu"

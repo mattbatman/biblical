@@ -213,7 +213,6 @@ span.add {
 .x,
 .notemark {
 	color: hsl(var(--theme-accent) / 1);
-	font-size: 14pt;
 }
 
 .ib,

@@ -140,8 +140,7 @@ span.add {
 	margin-left: 0.16em;
 	line-height: 0;
 	position: relative;
-	text-decoration: none;
-	color: rgb(0, 0, 128);
+	color: hsl(var(--theme-accent) / 1);
 }
 
 .fp {
@@ -153,14 +152,12 @@ span.add {
 .glo {
 	display: block;
 	margin: 0.5em 0 0.5em 0;
-	color: rgb(0, 0, 128);
+	color: hsl(var(--theme-accent) / 1);
 }
 
 .f,
 .x {
-	margin: 2em;
-	text-size: 0.7em;
-	color: rgb(0, 0, 128);
+	color: hsl(var(--theme-accent) / 1);
 }
 
 .fv {

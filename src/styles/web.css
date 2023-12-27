@@ -1,26 +1,26 @@
 a.xx {
-	background-color: #333333 !important
+	background-color: #333333 !important;
 }
 
 a.nn {
-	background-color: #202050 !important
+	background-color: #202050 !important;
 }
 
 a.oo {
-	background-color: #205030 !important
+	background-color: #205030 !important;
 }
 
 a.aa {
-	background-color: #333300 !important
+	background-color: #333300 !important;
 }
 
-html[dir=rtl] body {
+html[dir="rtl"] body {
 	text-align: right;
-	direction: rtl
+	direction: rtl;
 }
 
 span.add {
-	font-style: italic
+	font-style: italic;
 }
 
 .popup,
@@ -29,37 +29,37 @@ span.add {
 	bottom: 0;
 	display: none;
 	background-color: #ffffd0;
-	border: .1em solid #333;
+	border: 0.1em solid #333;
 	width: 15em;
 	height: auto;
 	padding: 1em;
 	line-height: 1em;
 	text-indent: 0em;
-	margin: 0.5em 0.5em 0.5em 0.5em
+	margin: 0.5em 0.5em 0.5em 0.5em;
 }
 
 .notemark:hover .popup {
-	display: block
+	display: block;
 }
 
 .notemark:hover .crpopup {
-	display: block
+	display: block;
 }
 
 .b {
 	display: block;
 	margin-left: 12em;
-	text-indent: -2em
+	text-indent: -2em;
 }
 
 .bdit,
 .bk {
 	font-weight: bold;
-	font-style: italic
+	font-style: italic;
 }
 
 .fw {
-	font-weight: bold
+	font-weight: bold;
 }
 
 .ebm,
@@ -72,47 +72,47 @@ span.add {
 .conc,
 .cls {
 	display: block;
-	margin: .5em 0 .5em 0
+	margin: 0.5em 0 0.5em 0;
 }
 
 .cd,
 .conc,
 .cls {
-	text-align: justify
+	text-align: justify;
 }
 
 .cd,
 .conc {
-	color: rgb(0, 0, 128)
+	color: rgb(0, 0, 128);
 }
 
 .cov {
-	text-align: center
+	text-align: center;
 }
 
 .d {
 	font-weight: bold;
 	display: block;
-	margin-top: 1.4em
+	margin-top: 1.4em;
 }
 
 .ebp {
-	text-indent: 2em
+	text-indent: 2em;
 }
 
 .ebq1 {
 	margin-left: 12em;
-	text-indent: -4em
+	text-indent: -4em;
 }
 
 .ebq2 {
 	margin-left: 8em;
-	text-indent: -4em
+	text-indent: -4em;
 }
 
 .ebq3 {
 	margin-left: 6em;
-	text-indent: -4em
+	text-indent: -4em;
 }
 
 .ebs,
@@ -121,55 +121,55 @@ span.add {
 .ebs3 {
 	font-weight: bold;
 	display: block;
-	margin: .5em 0 .5em 0;
+	margin: 0.5em 0 0.5em 0;
 	text-indent: 2em;
-	color: rgb(0, 0, 128)
+	color: rgb(0, 0, 128);
 }
 
 .ebs1 {
-	font-size: 1.2em
+	font-size: 1.2em;
 }
 
 .ebs3 {
-	font-size: 0.9em
+	font-size: 0.9em;
 }
 
 .fm,
 .notemark {
 	vertical-align: super;
-	margin-left: .16em;
+	margin-left: 0.16em;
 	line-height: 0;
 	position: relative;
 	text-decoration: none;
-	color: rgb(0, 0, 128)
+	color: rgb(0, 0, 128);
 }
 
 .fp {
 	display: block;
-	margin: .5em 0 .5em 12em
+	margin: 0.5em 0 0.5em 12em;
 }
 
 .f,
 .glo {
 	display: block;
-	margin: .5em 0 .5em 0;
-	color: rgb(0, 0, 128)
+	margin: 0.5em 0 0.5em 0;
+	color: rgb(0, 0, 128);
 }
 
 .f,
 .x {
 	margin: 2em;
 	text-size: 0.7em;
-	color: rgb(0, 0, 128)
+	color: rgb(0, 0, 128);
 }
 
 .fv {
-	color: maroon
+	color: maroon;
 }
 
 .glo {
 	font-weight: bold;
-	text-indent: 2em
+	text-indent: 2em;
 }
 
 .ib,
@@ -213,7 +213,7 @@ span.add {
 .x,
 .notemark {
 	color: blue;
-	font-size: 14pt
+	font-size: 14pt;
 }
 
 .ib,
@@ -223,9 +223,9 @@ span.add {
 .intro,
 .ip,
 .zp {
-	margin: .5em 0 .5em 0;
+	margin: 0.5em 0 0.5em 0;
 	text-indent: 2em;
-	display: block
+	display: block;
 }
 
 .ili,
@@ -235,9 +235,9 @@ span.add {
 .io2,
 .io3,
 .io4 {
-	margin: .5em 0 .5em 2em;
+	margin: 0.5em 0 0.5em 2em;
 	list-style-type: square;
-	display: list-item
+	display: list-item;
 }
 
 .io,
@@ -245,36 +245,36 @@ span.add {
 .io2,
 .io3,
 .io4 {
-	list-style-type: none
+	list-style-type: none;
 }
 
 .io2 {
-	margin-left: 4em
+	margin-left: 4em;
 }
 
 .io3 {
-	margin-left: 6em
+	margin-left: 6em;
 }
 
 .io4 {
-	margin-left: 8em
+	margin-left: 8em;
 }
 
 .im,
 .imi,
 .imq {
 	display: block;
-	margin-bottom: .5em
+	margin-bottom: 0.5em;
 }
 
 .imi {
 	text-indent: 2em;
-	margin: .5em 12em 0 12em
+	margin: 0.5em 12em 0 12em;
 }
 
 .imq {
 	text-indent: 2em;
-	margin: .5em 0 0 12em
+	margin: 0.5em 0 0 12em;
 }
 
 .imt,
@@ -285,13 +285,13 @@ span.add {
 .iot {
 	font-weight: bold;
 	display: block;
-	margin: .5em 0 .5em 0;
-	text-indent: 2em
+	margin: 0.5em 0 0.5em 0;
+	text-indent: 2em;
 }
 
 .imt2,
 .iot {
-	text-indent: 2em
+	text-indent: 2em;
 }
 
 .ipi,
@@ -306,8 +306,8 @@ span.add {
 .iq2,
 .iq3 {
 	display: block;
-	margin: .5em 0 .5em 2em;
-	text-indent: 2em
+	margin: 0.5em 0 0.5em 2em;
+	text-indent: 2em;
 }
 
 .iq,
@@ -315,15 +315,15 @@ span.add {
 .iq2,
 .iq3 {
 	text-indent: -8em;
-	margin-left: 12em
+	margin-left: 12em;
 }
 
 .iq2 {
-	text-indent: -4em
+	text-indent: -4em;
 }
 
 .iq3 {
-	text-indent: -2em
+	text-indent: -2em;
 }
 
 .is,
@@ -332,17 +332,17 @@ span.add {
 .is3 {
 	font-weight: bold;
 	display: block;
-	margin: .5em 0 .5em 0;
-	color: rgb(0, 0, 128)
+	margin: 0.5em 0 0.5em 0;
+	color: rgb(0, 0, 128);
 }
 
 .is,
 .is1 {
-	font-size: 1.2em
+	font-size: 1.2em;
 }
 
 .is3 {
-	font-size: 0.9em
+	font-size: 0.9em;
 }
 
 .keyword,
@@ -351,16 +351,16 @@ span.add {
 .keyword3 {
 	font-weight: bold;
 	display: block;
-	margin: .5em 12em .5em 0;
-	text-indent: -12em
+	margin: 0.5em 12em 0.5em 0;
+	text-indent: -12em;
 }
 
 .keyword2 {
-	text-indent: -4em
+	text-indent: -4em;
 }
 
 .keyword3 {
-	text-indent: -2em
+	text-indent: -2em;
 }
 
 .li,
@@ -369,7 +369,7 @@ span.add {
 .ph1 {
 	display: list-item;
 	list-style-type: none;
-	text-indent: 2em
+	text-indent: 2em;
 }
 
 .li2,
@@ -379,42 +379,42 @@ span.add {
 .ph3 {
 	display: list-item;
 	list-style-type: none;
-	text-indent: 4em
+	text-indent: 4em;
 }
 
 .li3,
 .ph3 {
-	text-indent: 12em
+	text-indent: 12em;
 }
 
 .m {
-	margin-top: 0
+	margin-top: 0;
 }
 
 .mainindex {
 	background: rgb(240, 255, 244);
-	max-width: 40em
+	max-width: 40em;
 }
 
 .mi {
 	text-indent: 2em;
-	margin-top: 0
+	margin-top: 0;
 }
 
 .mr {
 	display: block;
-	margin: .5em 0 .5em 0;
+	margin: 0.5em 0 0.5em 0;
 	text-align: center;
-	text-indent: 2em
+	text-indent: 2em;
 }
 
 .ms2,
 .ms3 {
 	font-weight: bold;
 	display: block;
-	margin: .5em 0 .5em 0;
+	margin: 0.5em 0 0.5em 0;
 	text-align: center;
-	text-indent: 2em
+	text-indent: 2em;
 }
 
 .mt,
@@ -427,19 +427,19 @@ span.add {
 .mte3 {
 	font-weight: bold;
 	font-size: 1.2em;
-	text-align: center
+	text-align: center;
 }
 
 .mt,
 .mt1,
 .mte,
 .mte1 {
-	font-size: 1.4em
+	font-size: 1.4em;
 }
 
 .mt2,
 mte2 {
-	font-size: 1.2em
+	font-size: 1.2em;
 }
 
 .qac,
@@ -450,17 +450,17 @@ mte2 {
 .k,
 .ior,
 .bd {
-	font-weight: bold
+	font-weight: bold;
 }
 
 .qs {
-	text-align: right
+	text-align: right;
 }
 
 .ndx,
 .no,
 .ft {
-	font-weight: normal
+	font-weight: normal;
 }
 
 .rr,
@@ -472,7 +472,7 @@ mte2 {
 .em,
 .sls,
 .sp {
-	font-style: italic
+	font-style: italic;
 }
 
 .w,
@@ -480,26 +480,26 @@ mte2 {
 .wh,
 .wr,
 .zc {
-	font-style: normal
+	font-style: normal;
 }
 
 .wj {
-	color: rgb(128, 0, 0)
+	color: rgb(128, 0, 0);
 }
 
 .qt {
-	font-style: oblique
+	font-style: oblique;
 }
 
 .ord {
 	vertical-align: super;
-	text-decoration: underline
+	text-decoration: underline;
 }
 
 .nb,
 .ps {
 	text-indent: 0em;
-	margin-top: 0em
+	margin-top: 0em;
 }
 
 .p,
@@ -508,18 +508,18 @@ mte2 {
 .pde,
 .pdi {
 	text-indent: 2em;
-	margin-top: .5em
+	margin-top: 0.5em;
 }
 
 .p,
 .nb {
 	display: block;
-	font-size: 1em
+	font-size: 1em;
 }
 
 .pc {
-	margin-top: .5em;
-	text-align: center
+	margin-top: 0.5em;
+	text-align: center;
 }
 
 .pm,
@@ -532,20 +532,20 @@ mte2 {
 .pi3,
 .pmr,
 .pr {
-	text-indent: 2em
+	text-indent: 2em;
 }
 
 .pi,
 .pi1 {
-	margin: .5em 0 0 2em
+	margin: 0.5em 0 0 2em;
 }
 
 .pi2 {
-	margin: .5em 0 0 4em
+	margin: 0.5em 0 0 4em;
 }
 
 .pi3 {
-	margin: .5em 0 0 12em
+	margin: 0.5em 0 0 12em;
 }
 
 .pm,
@@ -554,64 +554,64 @@ mte2 {
 .psi,
 .pmr,
 .pr {
-	margin: .5em 2em 0 2em
+	margin: 0.5em 2em 0 2em;
 }
 
 .q,
 .q1,
 .q2,
 .q3 {
-	margin-top: 0pt
+	margin-top: 0pt;
 }
 
 .q,
 .q1,
 .q2,
 .q3 {
-	margin-top: 0pt
+	margin-top: 0pt;
 }
 
-html[dir=ltr] .q,
+html[dir="ltr"] .q,
 .q1 {
 	text-indent: -2em;
-	margin-left: 2em
+	margin-left: 2em;
 }
 
-html[dir=ltr] .q2 {
+html[dir="ltr"] .q2 {
 	text-indent: -1em;
-	margin-left: 2em
+	margin-left: 2em;
 }
 
-html[dir=ltr] .q3 {
+html[dir="ltr"] .q3 {
 	text-indent: -1em;
-	margin-left: 3em
+	margin-left: 3em;
 }
 
-html[dir=rtl] .q,
+html[dir="rtl"] .q,
 .q1 {
 	text-indent: -2em;
-	margin-right: 2em
+	margin-right: 2em;
 }
 
-html[dir=rtl] .q2 {
+html[dir="rtl"] .q2 {
 	text-indent: -1em;
-	margin-right: 2em
+	margin-right: 2em;
 }
 
-html[dir=rtl] .q3 {
+html[dir="rtl"] .q3 {
 	text-indent: -1em;
-	margin-right: 3em
+	margin-right: 3em;
 }
 
 .qa {
-	margin: .5em 0 .5em 0;
+	margin: 0.5em 0 0.5em 0;
 	font-weight: bold;
 	display: block;
-	text-align: center
+	text-align: center;
 }
 
 .qc {
-	text-align: center
+	text-align: center;
 }
 
 .qm,
@@ -621,66 +621,66 @@ html[dir=rtl] .q3 {
 	margin-top: 0;
 	text-indent: -8em;
 	margin-left: 6em;
-	margin-right: 6em
+	margin-right: 6em;
 }
 
 .qm2 {
-	text-indent: -6em
+	text-indent: -6em;
 }
 
 .qm3 {
-	text-indent: -2em
+	text-indent: -2em;
 }
 
 .r,
 .sr {
 	font-style: italic;
 	text-align: center;
-	margin-bottom: .5em
+	margin-bottom: 0.5em;
 }
 
 .s2,
 .s3 {
 	font-weight: bold;
-	text-align: center
+	text-align: center;
 }
 
 .s,
 .s1 {
 	font-weight: bold;
 	text-align: center;
-	margin-top: .6em
+	margin-top: 0.6em;
 }
 
 .toc,
 .toc1,
 .toc2 {
 	display: block;
-	font-size: 1em
+	font-size: 1em;
 }
 
 .toc {
 	margin-left: 1em;
-	margin-right: 1em
+	margin-right: 1em;
 }
 
 .toc1 {
 	margin-left: 2em;
-	margin-right: 2em
+	margin-right: 2em;
 }
 
 .toc2 {
 	font-size: 0.9em;
 	margin-left: 3em;
-	margin-right: 3em
+	margin-right: 3em;
 }
 
 .chapter {
 	font-size: 1.5em;
 	font-weight: bold;
 	float: left;
-	margin-right: .3em;
-	vertical-align: top
+	margin-right: 0.3em;
+	vertical-align: top;
 }
 
 .p .chapter,
@@ -688,78 +688,78 @@ html[dir=rtl] .q3 {
 .q1 .chapter .q2 .chapter,
 .q3 .chapter,
 .poetry .chapter {
-	margin-right: 1em
+	margin-right: 1em;
 }
 
 .verse {
 	white-space: nowrap;
 	vertical-align: super;
-	font-size: .6em;
-	line-height: 0
+	font-size: 0.6em;
+	line-height: 0;
 }
 
 .footnote,
 .crossRefNote {
 	display: block;
-	margin-top: .5em;
-	margin-left: 0em
+	margin-top: 0.5em;
+	margin-left: 0em;
 }
 
 .notebackref {
-	margin: 1em
+	margin: 1em;
 }
 
 .fine,
 .copyright,
 .figcopr {
 	font-size: 10pt;
-	color: #333333
+	color: #333333;
 }
 
 .figref {
 	font-style: italic;
 	font-size: 10pt;
-	color: #000040
+	color: #000040;
 }
 
 .figCaption {
 	font-size: 11pt;
-	color: #000040
+	color: #000040;
 }
 
 ul.tnav {
 	list-style-type: none;
 	padding: 5;
 	margin-left: 0;
-	text-align: center
+	text-align: center;
 }
 
 .tnav li {
-	display: inline
+	display: inline;
 }
 
 .tnav a {
 	display: inline-block;
 	border: 1px solid #000;
 	padding: 5px;
-	background-color: #00CFFF;
+	background-color: #00cfff;
 	text-decoration: none;
 	color: #000;
 	border-radius: 5px;
-	min-width: 1.5em
+	min-width: 1.5em;
 }
 
 .tnav a:visited {
-	color: #404000
+	color: #404000;
 }
 
 .tnav a:link {
-	color: #000040
+	color: #000040;
 }
 
 .tnav a:hover {
-	color: #FFFFFF;
-	background-color: #204880
+	color: #ffffff;
+	background-color: #204880;
 }
 
 ul.vnav {
@@ -767,11 +767,11 @@ ul.vnav {
 	padding: 5;
 	margin-left: 0;
 	text-align: center;
-	float: left
+	float: left;
 }
 
 .vnav li {
-	list-style-type: none
+	list-style-type: none;
 }
 
 .vnav a {
@@ -780,20 +780,20 @@ ul.vnav {
 	background-color: #036;
 	border-bottom: 1px solid #eee;
 	text-decoration: none;
-	width: 12em
+	width: 12em;
 }
 
 .vnav a:visited {
-	color: #ffff66
+	color: #ffff66;
 }
 
 .vnav a:link {
-	color: #ffffff
+	color: #ffffff;
 }
 
 .vnav a:hover {
 	background-color: #0520ff !important;
-	color: #ffffff
+	color: #ffffff;
 }
 
 div.bookList {
@@ -801,5 +801,5 @@ div.bookList {
 	margin: 0px;
 	padding: 3px;
 	width: 13em;
-	background: rgb(223, 255, 255)
+	background: rgb(223, 255, 255);
 }

@@ -33,10 +33,15 @@ const post = defineCollection({
 				.array(
 					z.object({
 						text: z.string(),
-						start: z.string(),
+						start: z.object({
+							book: z.string(),
+							chapter: z.number(),
+							verse: z.number(),
+						}),
 					}),
 				)
 				.optional(),
+			people: z.array(z.string()).default([]),
 			ogImage: z.string().optional(),
 		}),
 });

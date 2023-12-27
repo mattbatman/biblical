@@ -2,14 +2,23 @@
 title: "Genesis"
 publishDate: "22 Dec 2023"
 tags: ["genesis"]
+people: []
 outline: [
 	{
 		text: "Creation story",
-		start: "GEN1V1"
+		start: {
+			book: "Genesis",
+			chapter: 1,
+			verse: 1
+		}
 	},
 	{
 		text: "Garden of Eden",
-		start: "GEN2V4"
+		start: {
+			book: "Genesis",
+			chapter: 2,
+			verse: 4
+		}
 	}
 ]
 ---

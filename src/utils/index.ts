@@ -4,3 +4,4 @@ export { getAllPosts, sortMDByDate, getUniqueTags, getUniqueTagsWithCount } from
 export { generateToc } from "./generateToc";
 export type { TocItem } from "./generateToc";
 export { getWebmentionsForUrl } from "./webmentions";
+export { convertReferenceObjectToId } from "./reference";

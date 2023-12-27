@@ -5,6 +5,7 @@ import BaseLayout from "./Base.astro";
 import BlogHero from "@/components/blog/Hero";
 import TOC from "@/components/blog/TOC";
 import WebMentions from "@/components/blog/webmentions/index";
+import { convertReferenceObjectToId } from "@/utils";
 
 interface Props {
 	post: CollectionEntry<"post">;
@@ -35,7 +36,7 @@ const { headings } = await post.render();
 							<ol>
 								{outline?.map(({ text, start }) => (
 									<li>
-										<a href={`#${start}`}>{text}</a>
+										<a href={`#${convertReferenceObjectToId(start)}`}>{text}</a>
 									</li>
 								))}
 							</ol>

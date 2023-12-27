@@ -2,36 +2,17 @@
 title: "Genesis"
 publishDate: "22 Dec 2023"
 tags: ["genesis"]
+outline: [
+	{
+		text: "Creation story",
+		start: "GEN1V1"
+	},
+	{
+		text: "Garden of Eden",
+		start: "GEN2V4"
+	}
+]
 ---
-
-## Stats
-
-- 50 chapters
-
-## Outline
-
-1. [Creation story](#GEN1V1)
-2. [Garden of Eden](#GEN2V4)
-3. Cain killing Abel
-4. Noah's Ark
-5. Tower of Babel
-6. Sodom and Gomorrah
-7. Abraham and the sacrifice of Isaac
-8. Isaac's blessing of Jacob instead of Esau
-9. Jacob's dream of a stairway
-10. Jacob, Rachel, and Leah
-11. Jacob wrestles with God
-12. Jacob reconciles with Esau
-13. Dinah, Shechem, circumcision, and slaughter
-14. Joseph thrown in a well and sold into slavery by his brothers
-15. Judah diversion
-16. Joseph and Pharaoh's wife
-17. Joseph interprets the dreams of the cupbearer and baker
-18. Joseph interprets Pharaoh's dreams, put in charge of Egypt
-19. Joseph, grain, and the silver cup
-20. Famine in Egypt, Joseph buys everything
-21. Joseph's sons receive Jacob's blessing
-22. Jacob and then Joseph die
 
 ## Points of Interest
 

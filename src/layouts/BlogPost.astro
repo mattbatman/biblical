@@ -12,7 +12,7 @@ interface Props {
 
 const { post } = Astro.props;
 const {
-	data: { title, description, ogImage, publishDate, updatedDate },
+	data: { title, description, ogImage, publishDate, updatedDate, outline },
 	slug,
 } = post;
 const socialImage = ogImage ?? `/og-image/${slug}.png`;
@@ -22,12 +22,26 @@ const { headings } = await post.render();
 
 <BaseLayout meta={{ title, description, articleDate, ogImage: socialImage }}>
 	<div class="gap-x-10 lg:flex lg:items-start">
-		{!!headings.length && <TOC headings={headings} />}
+		{!!headings.length && <TOC headings={headings} outline={!!outline?.length} />}
 		<article class="flex-grow break-words" data-pagefind-body>
 			<div id="blog-hero"><BlogHero content={post} /></div>
 			<div
 				class="prose prose-sm prose-cactus mt-12 prose-headings:font-semibold prose-headings:text-accent-2 prose-headings:before:absolute prose-headings:before:-ms-4 prose-headings:before:text-accent prose-headings:before:content-['#'] prose-th:before:content-none"
 			>
+				{
+					!!outline?.length && (
+						<>
+							<h2 id="outline">Outline</h2>
+							<ol>
+								{outline?.map(({ text, start }) => (
+									<li>
+										<a href={`#${start}`}>{text}</a>
+									</li>
+								))}
+							</ol>
+						</>
+					)
+				}
 				<slot />
 				<WebMentions />
 			</div>

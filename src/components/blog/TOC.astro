@@ -6,9 +6,10 @@ import TOCHeading from "./TOCHeading.astro";
 
 interface Props {
 	headings: Array<MarkdownHeading>;
+	outline: boolean;
 }
 
-const { headings } = Astro.props;
+const { headings, outline } = Astro.props;
 
 const toc = generateToc(headings);
 ---
@@ -16,6 +17,19 @@ const toc = generateToc(headings);
 <aside class="sticky top-20 order-2 -me-32 hidden basis-64 lg:block">
 	<h2 class="font-semibold">Table of Contents</h2>
 	<ul class="mt-4 text-xs">
+		{
+			outline && (
+				<li>
+					<a
+						class="mt-3 line-clamp-2 block hover:text-accent"
+						href="#outline"
+						aria-label="Scroll to section: outline"
+					>
+						<span class="me-0.5">#</span>Outline
+					</a>
+				</li>
+			)
+		}
 		{toc.map((heading) => <TOCHeading heading={heading} />)}
 	</ul>
 </aside>

@@ -29,6 +29,14 @@ const post = defineCollection({
 				.optional(),
 			draft: z.boolean().default(false),
 			tags: z.array(z.string()).default([]).transform(removeDupsAndLowerCase),
+			outline: z
+				.array(
+					z.object({
+						text: z.string(),
+						start: z.string(),
+					}),
+				)
+				.optional(),
 			ogImage: z.string().optional(),
 		}),
 });

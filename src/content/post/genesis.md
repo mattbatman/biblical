@@ -10,8 +10,8 @@ tags: ["genesis"]
 
 ## Outline
 
-1. Creation story
-2. Garden of Eden
+1. [Creation story](#GEN1V1)
+2. [Garden of Eden](#GEN2V4)
 3. Cain killing Abel
 4. Noah's Ark
 5. Tower of Babel

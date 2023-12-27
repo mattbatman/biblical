@@ -39,6 +39,13 @@ tags: ["genesis"]
 * [Genesis 1:14](#GEN1V14) suggests that night and day weren't made until the fourth day, yet somehow "evening" and "morning" had been passing for the previous three days. What, then, is morning and evening?
 * [Genesis 1:26](#GEN1V26) Who is the "us" that God would refer to?
 * [Genesis 1:29](#GEN1V29) God gave every seed-bearing plant as food for all creatures with life. I was expecting God to also give all creatures to men and woman as food.
+* [Genesis 2:2](#GEN2V2) Why does God need to rest? What does he do to relax?
+* [Genesis 2:5](#GEN2V5) It seems weird that God created vegetation on the third day, but this verse states (in the NIV version) that "no shrub of the field had yet appeared on earth and no plant of the field had yet sprung up, for the LORD God had not sent rain on the earth..."
+* [Genesis 2:7](#GEN2V7) Man was made from a combination of dust and "breath of life"
+* [Genesis 2:9](#GEN2V9) The tree of Life and the tree of the knowledge of good and evil were two separate trees.
+* [Genesis 2:10-2:14](#GEN2V10) Can these rivers be identified today to reveal the location of the location of the Garden of Eden?
+* [Genesis 2:22](#GEN2V22) A woman was made from the rib of man while he was in a deep sleep, like it was a surgical operation.
+* [Genesis 2:25](#GEN2V25) Famous nudity and shame verse. 
 
 ## World English Bible Text
 

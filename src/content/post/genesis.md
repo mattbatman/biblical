@@ -33,6 +33,13 @@ tags: ["genesis"]
 21. Joseph's sons receive Jacob's blessing
 22. Jacob and then Joseph die
 
+## Points of Interest
+
+* [Genesis 1:6-8](#GEN1V6) seems to suggest that there is water below us and above us. It seems to describe God creating a tunnel between waters.
+* [Genesis 1:14](#GEN1V14) suggests that night and day weren't made until the fourth day, yet somehow "evening" and "morning" had been passing for the previous three days. What, then, is morning and evening?
+* [Genesis 1:26](#GEN1V26) Who is the "us" that God would refer to?
+* [Genesis 1:29](#GEN1V29) God gave every seed-bearing plant as food for all creatures with life. I was expecting God to also give all creates to men and woman as food.
+
 ## World English Bible Text
 
 ### 1

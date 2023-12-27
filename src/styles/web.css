@@ -28,7 +28,7 @@ span.add {
 	position: absolute;
 	bottom: 0;
 	display: none;
-	background-color: #ffffd0;
+	background-color: hsl(var(--theme-bg) / var(--tw-bg-opacity));;
 	border: 0.1em solid #333;
 	width: 15em;
 	height: auto;

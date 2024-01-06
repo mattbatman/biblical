@@ -8786,6 +8786,20 @@ outline: [
 
 ### 50
 
+<div class="nb">
+  <span class="verse" id="GEN50V1">
+    1
+  </span>
+  Joseph fell on his father’s face, wept on him, and kissed him.
+  <span class="verse" id="GEN50V2">
+    2
+  </span>
+  Joseph commanded his servants, the physicians, to embalm his father; and the physicians embalmed Israel.
+  <span class="verse" id="GEN50V3">
+    3
+  </span>
+  Forty days were used for him, for that is how many days it takes to embalm. The Egyptians wept for Israel for seventy days.
+</div>
 <div class="p">
   <span class="verse" id="GEN50V4">
     4

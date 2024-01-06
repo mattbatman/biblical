@@ -39,7 +39,6 @@ outline: [
 
 ## World English Bible Text
 
-
 ### 1
 
 <div class="p">
@@ -475,17 +474,98 @@ outline: [
   </span>
   Yahweh God said to the serpent,
 </div>
+<div class="q">
+  “Because you have done this,
+</div>
+<div class="q2">
+  you are cursed above all livestock,
+</div>
+<div class="q2">
+  and above every animal of the field.
+</div>
+<div class="q">
+  You shall go on your belly
+</div>
+<div class="q2">
+  and you shall eat dust all the days of your life.
+</div>
+<div class="q">
+  <span class="verse" id="GEN3V15">
+    15
+  </span>
+  I will put hostility between you and the woman,
+</div>
+<div class="q2">
+  and between your offspring and her offspring.
+</div>
+<div class="q">
+  He will bruise your head,
+</div>
+<div class="q2">
+  and you will bruise his heel.”
+</div>
 <div class="p">
   <span class="verse" id="GEN3V16">
     16
   </span>
   To the woman he said,
 </div>
+<div class="q">
+  “I will greatly multiply your pain in childbirth.
+</div>
+<div class="q2">
+  You will bear children in pain.
+</div>
+<div class="q">
+  Your desire will be for your husband,
+</div>
+<div class="q2">
+  and he will rule over you.”
+</div>
 <div class="p">
   <span class="verse" id="GEN3V17">
     17
   </span>
   To Adam he said,
+</div>
+<div class="q">
+  “Because you have listened to your wife’s voice,
+</div>
+<div class="q2">
+  and have eaten from the tree,
+</div>
+<div class="q2">
+  about which I commanded you, saying, ‘You shall not eat of it,’
+</div>
+<div class="q2">
+  the ground is cursed for your sake.
+</div>
+<div class="q">
+  You will eat from it with much labor all the days of your life.
+</div>
+<div class="q2">
+  <span class="verse" id="GEN3V18">
+    18
+  </span>
+  It will yield thorns and thistles to you;
+</div>
+<div class="q2">
+  and you will eat the herb of the field.
+</div>
+<div class="q">
+  <span class="verse" id="GEN3V19">
+    19
+  </span>
+  You will eat bread by the sweat of your face until you return to the ground,
+</div>
+<div class="q2">
+  for you were taken out of it.
+</div>
+<div class="q">
+  For you are dust,
+</div>
+<div class="q2">
+  and you shall return to dust.”
 </div>
 <div class="p">
   <span class="verse" id="GEN3V20">
@@ -657,6 +737,27 @@ outline: [
     23
   </span>
   Lamech said to his wives,
+</div>
+<div class="q">
+  “Adah and Zillah, hear my voice.
+</div>
+<div class="q2">
+  You wives of Lamech, listen to my speech,
+</div>
+<div class="q">
+  for I have slain a man for wounding me,
+</div>
+<div class="q2">
+  a young man for bruising me.
+</div>
+<div class="q">
+  <span class="verse" id="GEN4V24">
+    24
+  </span>
+  If Cain will be avenged seven times,
+</div>
+<div class="q2">
+  truly Lamech seventy-seven times.”
 </div>
 <div class="p">
   <span class="verse" id="GEN4V25">
@@ -1356,11 +1457,35 @@ outline: [
   </span>
   He said,
 </div>
+<div class="q">
+  “Canaan is cursed.
+</div>
+<div class="q2">
+  He will be a servant of servants to his brothers.”
+</div>
 <div class="p">
   <span class="verse" id="GEN9V26">
     26
   </span>
   He said,
+</div>
+<div class="q">
+  “Blessed be Yahweh, the God of Shem.
+</div>
+<div class="q2">
+  Let Canaan be his servant.
+</div>
+<div class="q">
+  <span class="verse" id="GEN9V27">
+    27
+  </span>
+  May God enlarge Japheth.
+</div>
+<div class="q2">
+  Let him dwell in the tents of Shem.
+</div>
+<div class="q2">
+  Let Canaan be his servant.”
 </div>
 <div class="p">
   <span class="verse" id="GEN9V28">
@@ -3833,6 +3958,18 @@ outline: [
   </span>
   Yahweh said to her,
 </div>
+<div class="q">
+  “Two nations are in your womb.
+</div>
+<div class="q">
+  Two peoples will be separated from your body.
+</div>
+<div class="q">
+  The one people will be stronger than the other people.
+</div>
+<div class="q">
+  The elder will serve the younger.”
+</div>
 <div class="p">
   <span class="verse" id="GEN25V24">
     24
@@ -4346,6 +4483,45 @@ outline: [
   </span>
   He came near, and kissed him. He smelled the smell of his clothing, and blessed him, and said,
 </div>
+<div class="q">
+  “Behold, the smell of my son
+</div>
+<div class="q2">
+  is as the smell of a field which Yahweh has blessed.
+</div>
+<div class="q">
+  <span class="verse" id="GEN27V28">
+    28
+  </span>
+  God give you of the dew of the sky,
+</div>
+<div class="q2">
+  of the fatness of the earth,
+</div>
+<div class="q2">
+  and plenty of grain and new wine.
+</div>
+<div class="q">
+  <span class="verse" id="GEN27V29">
+    29
+  </span>
+  Let peoples serve you,
+</div>
+<div class="q2">
+  and nations bow down to you.
+</div>
+<div class="q">
+  Be lord over your brothers.
+</div>
+<div class="q2">
+  Let your mother’s sons bow down to you.
+</div>
+<div class="q">
+  Cursed be everyone who curses you.
+</div>
+<div class="q2">
+  Blessed be everyone who blesses you.”
+</div>
 <div class="p">
   <span class="verse" id="GEN27V30">
     30
@@ -4406,6 +4582,24 @@ outline: [
     39
   </span>
   Isaac his father answered him,
+</div>
+<div class="q">
+  “Behold, your dwelling will be of the fatness of the earth,
+</div>
+<div class="q">
+  and of the dew of the sky from above.
+</div>
+<div class="q">
+  <span class="verse" id="GEN27V40">
+    40
+  </span>
+  You will live by your sword, and you will serve your brother.
+</div>
+<div class="q">
+  It will happen, when you will break loose,
+</div>
+<div class="q">
+  that you will shake his yoke from off your neck.”
 </div>
 <div class="p">
   <span class="verse" id="GEN27V41">
@@ -8163,6 +8357,27 @@ outline: [
   </span>
   He blessed Joseph, and said,
 </div>
+<div class="q">
+  “The God before whom my fathers Abraham and Isaac walked,
+</div>
+<div class="q">
+  the God who has fed me all my life long to this day,
+</div>
+<div class="q">
+  <span class="verse" id="GEN48V16">
+    16
+  </span>
+  the angel who has redeemed me from all evil, bless the lads,
+</div>
+<div class="q">
+  and let my name be named on them,
+</div>
+<div class="q">
+  and the name of my fathers Abraham and Isaac.
+</div>
+<div class="q">
+  Let them grow into a multitude upon the earth.”
+</div>
 <div class="p">
   <span class="verse" id="GEN48V17">
     17
@@ -8203,6 +8418,340 @@ outline: [
     1
   </span>
   Jacob called to his sons, and said: “Gather yourselves together, that I may tell you that which will happen to you in the days to come.
+</div>
+<div class="q">
+  <span class="verse" id="GEN49V2">
+    2
+  </span>
+  Assemble yourselves, and hear, you sons of Jacob.
+</div>
+<div class="q2">
+  Listen to Israel, your father.
+</div>
+<div class="b">
+</div>
+<div class="q">
+  <span class="verse" id="GEN49V3">
+    3
+  </span>
+  “Reuben, you are my firstborn, my might, and the beginning of my strength,
+</div>
+<div class="q2">
+  excelling in dignity, and excelling in power.
+</div>
+<div class="q">
+  <span class="verse" id="GEN49V4">
+    4
+  </span>
+  Boiling over like water, you shall not excel,
+</div>
+<div class="q2">
+  because you went up to your father’s bed,
+</div>
+<div class="q2">
+  then defiled it. He went up to my couch.
+</div>
+<div class="b">
+</div>
+<div class="q">
+  <span class="verse" id="GEN49V5">
+    5
+  </span>
+  “Simeon and Levi are brothers.
+</div>
+<div class="q2">
+  Their swords are weapons of violence.
+</div>
+<div class="q">
+  <span class="verse" id="GEN49V6">
+    6
+  </span>
+  My soul, don’t come into their council.
+</div>
+<div class="q2">
+  My glory, don’t be united to their assembly;
+</div>
+<div class="q">
+  for in their anger they killed men.
+</div>
+<div class="q2">
+  In their self-will they hamstrung cattle.
+</div>
+<div class="q">
+  <span class="verse" id="GEN49V7">
+    7
+  </span>
+  Cursed be their anger, for it was fierce;
+</div>
+<div class="q2">
+  and their wrath, for it was cruel.
+</div>
+<div class="q">
+  I will divide them in Jacob,
+</div>
+<div class="q2">
+  and scatter them in Israel.
+</div>
+<div class="b">
+</div>
+<div class="q">
+  <span class="verse" id="GEN49V8">
+    8
+  </span>
+  “Judah, your brothers will praise you.
+</div>
+<div class="q2">
+  Your hand will be on the neck of your enemies.
+</div>
+<div class="q2">
+  Your father’s sons will bow down before you.
+</div>
+<div class="q">
+  <span class="verse" id="GEN49V9">
+    9
+  </span>
+  Judah is a lion’s cub.
+</div>
+<div class="q2">
+  From the prey, my son, you have gone up.
+</div>
+<div class="q">
+  He stooped down, he crouched as a lion,
+</div>
+<div class="q2">
+  as a lioness.
+</div>
+<div class="q2">
+  Who will rouse him up?
+</div>
+<div class="q">
+  <span class="verse" id="GEN49V10">
+    10
+  </span>
+  The scepter will not depart from Judah,
+</div>
+<div class="q2">
+  nor the ruler’s staff from between his feet,
+</div>
+<div class="q">
+  until he comes to whom it belongs.
+</div>
+<div class="q2">
+  The obedience of the peoples will be to him.
+</div>
+<div class="q">
+  <span class="verse" id="GEN49V11">
+    11
+  </span>
+  Binding his foal to the vine,
+</div>
+<div class="q2">
+  his donkey’s colt to the choice vine,
+</div>
+<div class="q">
+  he has washed his garments in wine,
+</div>
+<div class="q2">
+  his robes in the blood of grapes.
+</div>
+<div class="q">
+  <span class="verse" id="GEN49V12">
+    12
+  </span>
+  His eyes will be red with wine,
+</div>
+<div class="q2">
+  his teeth white with milk.
+</div>
+<div class="b">
+</div>
+<div class="q">
+  <span class="verse" id="GEN49V13">
+    13
+  </span>
+  “Zebulun will dwell at the haven of the sea.
+</div>
+<div class="q2">
+  He will be for a haven of ships.
+</div>
+<div class="q2">
+  His border will be on Sidon.
+</div>
+<div class="b">
+</div>
+<div class="q">
+  <span class="verse" id="GEN49V14">
+    14
+  </span>
+  “Issachar is a strong donkey,
+</div>
+<div class="q2">
+  lying down between the saddlebags.
+</div>
+<div class="q">
+  <span class="verse" id="GEN49V15">
+    15
+  </span>
+  He saw a resting place, that it was good,
+</div>
+<div class="q2">
+  the land, that it was pleasant.
+</div>
+<div class="q">
+  He bows his shoulder to the burden,
+</div>
+<div class="q2">
+  and becomes a servant doing forced labor.
+</div>
+<div class="b">
+</div>
+<div class="q">
+  <span class="verse" id="GEN49V16">
+    16
+  </span>
+  “Dan will judge his people,
+</div>
+<div class="q2">
+  as one of the tribes of Israel.
+</div>
+<div class="q">
+  <span class="verse" id="GEN49V17">
+    17
+  </span>
+  Dan will be a serpent on the trail,
+</div>
+<div class="q2">
+  an adder in the path,
+</div>
+<div class="q">
+  that bites the horse’s heels,
+</div>
+<div class="q2">
+  so that his rider falls backward.
+</div>
+<div class="q">
+  <span class="verse" id="GEN49V18">
+    18
+  </span>
+  I have waited for your salvation, Yahweh.
+</div>
+<div class="b">
+</div>
+<div class="q">
+  <span class="verse" id="GEN49V19">
+    19
+  </span>
+  “A troop will press on Gad,
+</div>
+<div class="q2">
+  but he will press on their heel.
+</div>
+<div class="b">
+</div>
+<div class="q">
+  <span class="verse" id="GEN49V20">
+    20
+  </span>
+  “Asher’s food will be rich.
+</div>
+<div class="q2">
+  He will produce royal dainties.
+</div>
+<div class="b">
+</div>
+<div class="q">
+  <span class="verse" id="GEN49V21">
+    21
+  </span>
+  “Naphtali is a doe set free,
+</div>
+<div class="q2">
+  who bears beautiful fawns.
+</div>
+<div class="b">
+</div>
+<div class="q">
+  <span class="verse" id="GEN49V22">
+    22
+  </span>
+  “Joseph is a fruitful vine,
+</div>
+<div class="q2">
+  a fruitful vine by a spring.
+</div>
+<div class="q2">
+  His branches run over the wall.
+</div>
+<div class="q">
+  <span class="verse" id="GEN49V23">
+    23
+  </span>
+  The archers have severely grieved him,
+</div>
+<div class="q2">
+  shot at him, and persecuted him:
+</div>
+<div class="q">
+  <span class="verse" id="GEN49V24">
+    24
+  </span>
+  But his bow remained strong.
+</div>
+<div class="q2">
+  The arms of his hands were made strong,
+</div>
+<div class="q2">
+  by the hands of the Mighty One of Jacob,
+</div>
+<div class="q2">
+  (from there is the shepherd, the stone of Israel),
+</div>
+<div class="q">
+  <span class="verse" id="GEN49V25">
+    25
+  </span>
+  even by the God of your father, who will help you,
+</div>
+<div class="q2">
+  by the Almighty, who will bless you,
+</div>
+<div class="q">
+  with blessings of heaven above,
+</div>
+<div class="q2">
+  blessings of the deep that lies below,
+</div>
+<div class="q2">
+  blessings of the breasts, and of the womb.
+</div>
+<div class="q">
+  <span class="verse" id="GEN49V26">
+    26
+  </span>
+  The blessings of your father have prevailed above the blessings of my ancestors,
+</div>
+<div class="q2">
+  above the boundaries of the ancient hills.
+</div>
+<div class="q">
+  They will be on the head of Joseph,
+</div>
+<div class="q2">
+  on the crown of the head of him who is separated from his brothers.
+</div>
+<div class="b">
+</div>
+<div class="q">
+  <span class="verse" id="GEN49V27">
+    27
+  </span>
+  “Benjamin is a ravenous wolf.
+</div>
+<div class="q2">
+  In the morning he will devour the prey.
+</div>
+<div class="q2">
+  At evening he will divide the plunder.”
 </div>
 <div class="p">
   <span class="verse" id="GEN49V28">

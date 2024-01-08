@@ -1,8 +1,8 @@
 ---
 title: "Genesis"
 publishDate: "22 Dec 2023"
-tags: ["genesis"]
-people: []
+tags: ["genesis", "firmament", "creation"]
+people: ["Adam", "Eve", "The serpent"]
 outline: [
 	{
 		text: "Creation story",
@@ -25,17 +25,31 @@ outline: [
 
 ## Points of Interest
 
-* [Genesis 1:6-8](#GEN1V6) seems to suggest that there is water below us and above us. It seems to describe God creating a tunnel between waters.
+* [Genesis 1:6-8](#GEN1V6) seems to suggest that there is water below us and above us. It seems to describe God creating a tunnel between waters. I believe some people site this as "the firmament."
 * [Genesis 1:14](#GEN1V14) suggests that night and day weren't made until the fourth day, yet somehow "evening" and "morning" had been passing for the previous three days. What, then, is morning and evening?
 * [Genesis 1:26](#GEN1V26) Who is the "us" that God would refer to?
-* [Genesis 1:29](#GEN1V29) God gave every seed-bearing plant as food for all creatures with life. I was expecting God to also give all creatures to men and woman as food.
+* [Genesis 1:29](#GEN1V29) God gave every seed-bearing plant as food for all creatures with life. I was expecting God to also give all creatures to men and woman as food, as well.
 * [Genesis 2:2](#GEN2V2) Why does God need to rest? What does he do to relax?
 * [Genesis 2:5](#GEN2V5) It seems weird that God created vegetation on the third day, but this verse states (in the NIV version) that "no shrub of the field had yet appeared on earth and no plant of the field had yet sprung up, for the LORD God had not sent rain on the earth..."
-* [Genesis 2:7](#GEN2V7) Man was made from a combination of dust and "breath of life"
-* [Genesis 2:9](#GEN2V9) The tree of Life and the tree of the knowledge of good and evil were two separate trees.
+* [Genesis 2:7](#GEN2V7) Man was made from a combination of dust and "breath of life."
+* [Genesis 2:9](#GEN2V9) The tree of life and the tree of the knowledge of good and evil were two separate trees.
+* [Genesis 2:16-17](#GEN2V16) This is "the lie."
 * [Genesis 2:10-2:14](#GEN2V10) Can these rivers be identified today to reveal the location of the location of the Garden of Eden?
+* [Genesis 2:19](#GEN2V19) Man got to name every living creature.
 * [Genesis 2:22](#GEN2V22) A woman was made from the rib of man while he was in a deep sleep, like it was a surgical operation.
-* [Genesis 2:25](#GEN2V25) Famous nudity and shame verse. 
+* [Genesis 2:25](#GEN2V25) Famous nudity and shame verse.
+* [Genesis 3:4](#GEN3V4) I guess this suggests that knowledge of good and evil is innate.
+* [Genesis 3:6](#GEN3V6) It's not clear that Adam knew what he was eating.
+* [Genesis 3:7](#GEN3V7) The first thing they felt guilt for was being naked. 
+* [Genesis 3:8](#GEN3V8) God was just walking around, talking.
+* [Genesis 3:12](#GEN3V12) Adam does not take responsibility. 
+* [Genesis 3:13](#GEN3V13) The woman says the serpent deceived her, but it seems like he just convinced her.
+* [Genesis 3:14](#GEN3V14) Did the serpent have legs before this? 
+* [Genesis 3:15](#GEN3V15) Are serpents and humans destined to be the worst of enemies? 
+* [Genesis 3:16](#GEN3V16) Women were curses with painful child birth and to be ruled over by their husband.
+* [Genesis 3:17-19](#GEN3V17) Man's curse just seems to be to have to work more, to farm.
+* [Genesis 3:22](#GEN3V22) Who's the "us" that God refers to? Why shouldn't man live forever?
+* [Genesis 3:24](#GEN3V24) When were "cherubim" created? 
 
 ## World English Bible Text
 

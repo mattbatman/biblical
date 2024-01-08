@@ -1,7 +1,7 @@
 ---
 title: "Genesis"
 publishDate: "22 Dec 2023"
-tags: ["genesis", "firmament", "creation"]
+tags: ["genesis", "firmament", "creation", "cherubim", "tree of life", "tree of the knowledge of good and evil"]
 people: ["Adam", "Eve", "The serpent"]
 outline: [
 	{

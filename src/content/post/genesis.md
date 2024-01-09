@@ -2,7 +2,7 @@
 title: "Genesis"
 publishDate: "22 Dec 2023"
 tags: ["genesis", "firmament", "creation", "cherubim", "tree of life", "tree of the knowledge of good and evil"]
-people: ["Adam", "Eve", "The serpent"]
+people: ["Adam", "Eve", "The serpent", "Cain", "Abel"]
 outline: [
 	{
 		text: "Creation story",
@@ -19,7 +19,15 @@ outline: [
 			chapter: 2,
 			verse: 4
 		}
-	}
+	},
+  {
+    text: "Cain and Abel",
+    start: {
+      book: "Genesis",
+      chapter: 4,
+      verse: 1
+    }
+  }
 ]
 ---
 
@@ -50,6 +58,12 @@ outline: [
 * [Genesis 3:17-19](#GEN3V17) Man's curse just seems to be to have to work more, to farm.
 * [Genesis 3:22](#GEN3V22) Who's the "us" that God refers to? Why shouldn't man live forever?
 * [Genesis 3:24](#GEN3V24) When were "cherubim" created? 
+* [Genesis 4:2-5](#GEN4V2) Cain and Abel were able to just walk up to God to give him offerings. God preferred fat to fruit.
+* [Genesis 4:6-7](#GEN4V6) It seems like God thinks Cain should know that jealousy or envy is a sin. The Bible doesn't mention, yet, what exactly constitutes sin, or what training any of the humans have yet had.
+* [Genesis 4:9](#GEN4V9) Similar to when God called out Adam, he first asked him a question, and let Cain respond. This is the brother's keeper verse.
+* [Genesis 4:14](#GEN4V14) Who are the people that may find Cain?
+* [Genesis 4:15](#GEN4V15) Mark of Cain.
+* [Genesis 4:17](#GEN4V17) Who was to be Cain's wife that was not his sister? What concept did Cain have of a city?
 
 ## World English Bible Text
 

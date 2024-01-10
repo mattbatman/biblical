@@ -85,3 +85,42 @@ const dateTimeOptions: Intl.DateTimeFormatOptions = {
 		</div>
 	)
 }
+{
+	!!data.people?.length && (
+		<div class="mt-3">
+			<svg
+				aria-hidden="true"
+				focusable="false"
+				class="me-1 inline-block h-6 w-6"
+				width="15"
+				height="20"
+				viewBox="0 0 15 20"
+				fill="none"
+				xmlns="http://www.w3.org/2000/svg"
+			>
+				<path
+					d="M10.283 18.814L13.117 15.98C13.3051 15.792 13.4543 15.5687 13.556 15.323C13.6578 15.0773 13.7102 14.814 13.7102 14.548C13.7102 14.282 13.6578 14.0187 13.556 13.773C13.4543 13.5273 13.3051 13.304 13.117 13.116L6 6"
+					stroke="currentColor"
+					stroke-width="1"
+					stroke-linecap="round"
+					stroke-linejoin="round"
+				/>
+				<circle cx="2" cy="2" r="2" fill="currentColor" />
+				<circle cx="7" cy="2" r="2" fill="currentColor" />
+			</svg>
+			{data.people.map((person, i) => (
+				<>
+					<a
+						class="cactus-link inline-block before:content-['#']"
+						aria-label={`View more blogs with ${person}`}
+						href="{`/biblical/tags/${tag}/`}"
+						data-pagefind-filter="tag"
+					>
+						{person}
+					</a>
+					{i < data.people.length - 1 && ", "}
+				</>
+			))}
+		</div>
+	)
+}

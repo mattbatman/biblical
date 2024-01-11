@@ -1,8 +1,8 @@
 ---
 title: "Genesis"
 publishDate: "22 Dec 2023"
-tags: ["genesis", "firmament", "creation", "cherubim", "tree of life", "tree of the knowledge of good and evil"]
-people: ["Adam", "Eve", "The serpent", "Cain", "Abel", "Enoch", "Methuselah"]
+tags: ["firmament", "creation", "cherubim", "tree of life", "tree of the knowledge of good and evil", "nephilim", "Noah's Ark", "Eden"]
+people: ["Adam", "Eve", "The serpent", "Cain", "Abel", "Seth", "Enoch", "Methuselah", "Noah"]
 outline: [
 	{
 		text: "Creation story",
@@ -25,6 +25,14 @@ outline: [
     start: {
       book: "Genesis",
       chapter: 4,
+      verse: 1
+    }
+  },
+  {
+    text: "Noah's Ark",
+    start: {
+      book: "Genesis",
+      chapter: 6,
       verse: 1
     }
   }
@@ -64,8 +72,10 @@ outline: [
 * [Genesis 4:14](#GEN4V14) Who are the people that may find Cain?
 * [Genesis 4:15](#GEN4V15) Mark of Cain.
 * [Genesis 4:17](#GEN4V17) Who was to be Cain's wife that was not his sister? What concept did Cain have of a city?
-* [Genesis 4:21-24](#GEN4V21) It seems Enoch lived 365 years and then was taken somewhere by God.
-* [Genesis 4:25](#GEN4V25) Methuselah is often cited as the longest living person at 969 years.
+* [Genesis 5:21-24](#GEN5V21) It seems Enoch lived 365 years and then was taken somewhere by God.
+* [Genesis 5:25](#GEN5V25) Methuselah is often cited as the longest living person at 969 years.
+* [Genesis 6:1-6:4](#GEN6V1) God's sons mated with women. Who, or what, were God's sons?
+* [Genesis 6:4](#GEN6V4) Nephilim.
 
 ## World English Bible Text
 

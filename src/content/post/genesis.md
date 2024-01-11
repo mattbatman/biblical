@@ -1,8 +1,8 @@
 ---
 title: "Genesis"
 publishDate: "22 Dec 2023"
-tags: ["firmament", "creation", "cherubim", "tree of life", "tree of the knowledge of good and evil", "nephilim", "Noah's Ark", "Eden"]
-people: ["Adam", "Eve", "The serpent", "Cain", "Abel", "Seth", "Enoch", "Methuselah", "Noah"]
+tags: ["firmament", "creation", "cherubim", "tree of life", "tree of the knowledge of good and evil", "nephilim", "Noah's Ark", "Garden of Eden"]
+people: ["Adam", "Eve", "The serpent", "Cain", "Abel", "Seth", "Enoch", "Methuselah", "Noah", "Shem", "Ham", "Japheth"]
 outline: [
 	{
 		text: "Creation story",
@@ -76,6 +76,7 @@ outline: [
 * [Genesis 5:25](#GEN5V25) Methuselah is often cited as the longest living person at 969 years.
 * [Genesis 6:1-6:4](#GEN6V1) God's sons mated with women. Who, or what, were God's sons?
 * [Genesis 6:4](#GEN6V4) Nephilim.
+* [Genesis 7:2](#GEN7V2) This is the numbers of animals for Noah's Ark. I think just remember two of every animal from this story as a kid. Was is a clean animal?
 
 ## World English Bible Text
 

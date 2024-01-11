@@ -21,9 +21,17 @@ export function getAllTags(posts: Array<CollectionEntry<"post">>) {
 	return posts.flatMap((post) => [...post.data.tags]);
 }
 
+export function getAllPeople(posts: Array<CollectionEntry<"post">>) {
+	return posts.flatMap((post) => [...post.data.people]);
+}
+
 /** Note: This function doesn't filter draft posts, pass it the result of getAllPosts above to do so. */
 export function getUniqueTags(posts: Array<CollectionEntry<"post">>) {
 	return [...new Set(getAllTags(posts))];
+}
+
+export function getUniquePeople(posts: Array<CollectionEntry<"post">>) {
+	return [...new Set(getAllPeople(posts))];
 }
 
 /** Note: This function doesn't filter draft posts, pass it the result of getAllPosts above to do so. */
@@ -32,6 +40,17 @@ export function getUniqueTagsWithCount(
 ): Array<[string, number]> {
 	return [
 		...getAllTags(posts).reduce(
+			(acc, t) => acc.set(t, (acc.get(t) || 0) + 1),
+			new Map<string, number>(),
+		),
+	].sort((a, b) => b[1] - a[1]);
+}
+
+export function getUniquePeopleWithCount(
+	posts: Array<CollectionEntry<"post">>,
+): Array<[string, number]> {
+	return [
+		...getAllPeople(posts).reduce(
 			(acc, t) => acc.set(t, (acc.get(t) || 0) + 1),
 			new Map<string, number>(),
 		),

@@ -1,29 +1,29 @@
 ---
 import PageLayout from "@/layouts/Base";
-import { getAllPosts, getUniqueTagsWithCount } from "@/utils";
+import { getAllPosts, getUniquePeopleWithCount } from "@/utils";
 
 const allPosts = await getAllPosts();
-const allTags = getUniqueTagsWithCount(allPosts);
+const allPeople = getUniquePeopleWithCount(allPosts);
 
 const meta = {
-	title: "All Tags",
-	description: "A list of all tags",
+	title: "All People",
+	description: "A list of all people tagged",
 };
 ---
 
 <PageLayout meta={meta}>
-	<h1 class="title mb-6">Tags</h1>
+	<h1 class="title mb-6">People</h1>
 	<ul class="space-y-4">
 		{
-			allTags.map(([tag, val]) => (
+			allPeople.map(([person, val]) => (
 				<li class="flex items-center gap-x-2">
 					<a
 						class="cactus-link inline-block"
-						href={`/biblical/tags/${tag}/`}
-						title={`View posts with the tag: ${tag}`}
+						href={`/biblical/people/${person}/`}
+						title={`View posts with the tag: ${person}`}
 						data-astro-prefetch
 					>
-						&#35;{tag}
+						&#35;{person}
 					</a>
 					<span class="inline-block">
 						- {val} Post{val > 1 && "s"}

@@ -1,7 +1,7 @@
 ---
 title: "Genesis"
 publishDate: "22 Dec 2023"
-tags: ["firmament", "creation", "cherubim", "tree of life", "tree of the knowledge of good and evil", "nephilim", "Noah's Ark", "Garden of Eden"]
+tags: ["firmament", "creation", "cherubim", "tree of life", "tree of the knowledge of good and evil", "nephilim", "Noah's Ark", "Garden of Eden", "rainbows", "flood"]
 people: ["Adam", "Eve", "The serpent", "Cain", "Abel", "Seth", "Enoch", "Methuselah", "Noah", "Shem", "Ham", "Japheth"]
 outline: [
 	{
@@ -77,6 +77,10 @@ outline: [
 * [Genesis 6:1-6:4](#GEN6V1) God's sons mated with women. Who, or what, were God's sons?
 * [Genesis 6:4](#GEN6V4) Nephilim.
 * [Genesis 7:2](#GEN7V2) This is the numbers of animals for Noah's Ark. I think just remember two of every animal from this story as a kid. Was is a clean animal?
+* [Genesis 9:1-4](#GEN9V1) It seems like people were supposed to be vegetarians before the flood, but were permitted to eat animals after the flood.
+* [Genesis 9:6](#GEN9V6) It seems a curse was placed, that any man who kills another will be killed.
+* [Genesis 9:12-17](#GEN9V12) God created rainbows as a reminder to himself not to kill every living creature on the Earth via flood again.
+* [Genesis 9:20-28](#GEN9V20) Where is Noah's sense of personal accountability? How was this the only redeeming man at the time of the flood? It seems drastic to curse the lineage of your own son because you got drunk and passed out naked.
 
 ## World English Bible Text
 

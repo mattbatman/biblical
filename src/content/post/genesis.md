@@ -1,7 +1,7 @@
 ---
 title: "Genesis"
 publishDate: "22 Dec 2023"
-tags: ["firmament", "creation", "cherubim", "tree of life", "tree of the knowledge of good and evil", "nephilim", "Noah's Ark", "Garden of Eden", "rainbows", "flood", "Tower of Babel", "Egypt"]
+tags: ["firmament", "creation", "cherubim", "tree of life", "tree of the knowledge of good and evil", "nephilim", "Noah's Ark", "Garden of Eden", "rainbows", "flood", "Tower of Babel", "Egypt", "Sodom and Gomorrah"]
 people: ["Adam", "Eve", "The serpent", "Cain", "Abel", "Seth", "Enoch", "Methuselah", "Noah", "Shem", "Ham", "Japheth", "Abram", "Sarai", "Lot"]
 outline: [
 	{
@@ -44,10 +44,26 @@ outline: [
       verse: 1
     }
   }, {
-    text: "Abram Travels East",
+    text: "Abram Travels East with Lot",
     start: {
       book: "Genesis",
       chapter: 12,
+      verse: 1
+    }
+  },
+  {
+    text: "Abram and Lot Part Ways",
+    start: {
+      book: "Genesis",
+      chapter: 13,
+      verse: 1
+    }
+  },
+  {
+    text: "Abram Saves Lot from Captivity",
+    start: {
+      book: "Genesis",
+      chapter: 14,
       verse: 1
     }
   }
@@ -98,6 +114,7 @@ outline: [
 * [Genesis 9:20-28](#GEN9V20) Where is Noah's sense of personal accountability? How was this the only redeeming man at the time of the flood? It seems drastic to curse the lineage of your own son because you got drunk and passed out naked.
 * [Genesis 11:1-9](#GEN11V1) I remembered the Tower of Babel as being about the sinful pride of a ruler, but it just kind of seems like God was concerned that men working together would be able to achieve too much. It also seems strange that God is using plural language again ("let's go down...").
 * [Genesis 12:12-20](#GEN12V12) No comment is made on whether Abram's lie is a sin.
+* [Genesis 15:9-11](#GEN15V9) Why are animals sacrifices necessary, and why at specific ages?
 
 ## World English Bible Text
 

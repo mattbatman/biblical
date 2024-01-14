@@ -1,8 +1,8 @@
 ---
 title: "Genesis"
 publishDate: "22 Dec 2023"
-tags: ["firmament", "creation", "cherubim", "tree of life", "tree of the knowledge of good and evil", "nephilim", "Noah's Ark", "Garden of Eden", "rainbows", "flood", "Tower of Babel"]
-people: ["Adam", "Eve", "The serpent", "Cain", "Abel", "Seth", "Enoch", "Methuselah", "Noah", "Shem", "Ham", "Japheth"]
+tags: ["firmament", "creation", "cherubim", "tree of life", "tree of the knowledge of good and evil", "nephilim", "Noah's Ark", "Garden of Eden", "rainbows", "flood", "Tower of Babel", "Egypt"]
+people: ["Adam", "Eve", "The serpent", "Cain", "Abel", "Seth", "Enoch", "Methuselah", "Noah", "Shem", "Ham", "Japheth", "Abram", "Sarai", "Lot"]
 outline: [
 	{
 		text: "Creation story",
@@ -41,6 +41,13 @@ outline: [
     start: {
       book: "Genesis",
       chapter: 11,
+      verse: 1
+    }
+  }, {
+    text: "Abram Travels East",
+    start: {
+      book: "Genesis",
+      chapter: 12,
       verse: 1
     }
   }
@@ -90,6 +97,7 @@ outline: [
 * [Genesis 9:12-17](#GEN9V12) God created rainbows as a reminder to himself not to kill every living creature on the Earth via flood again.
 * [Genesis 9:20-28](#GEN9V20) Where is Noah's sense of personal accountability? How was this the only redeeming man at the time of the flood? It seems drastic to curse the lineage of your own son because you got drunk and passed out naked.
 * [Genesis 11:1-9](#GEN11V1) I remembered the Tower of Babel as being about the sinful pride of a ruler, but it just kind of seems like God was concerned that men working together would be able to achieve too much. It also seems strange that God is using plural language again ("let's go down...").
+* [Genesis 12:12-20](#GEN12V12) No comment is made on whether Abram's lie is a sin.
 
 ## World English Bible Text
 

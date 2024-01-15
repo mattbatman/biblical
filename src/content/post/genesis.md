@@ -2,7 +2,7 @@
 title: "Genesis"
 publishDate: "22 Dec 2023"
 tags: ["firmament", "creation", "cherubim", "tree of life", "tree of the knowledge of good and evil", "nephilim", "Noah's Ark", "Garden of Eden", "rainbows", "flood", "Tower of Babel", "Egypt", "Sodom and Gomorrah"]
-people: ["Adam", "Eve", "The serpent", "Cain", "Abel", "Seth", "Enoch", "Methuselah", "Noah", "Shem", "Ham", "Japheth", "Abram", "Sarai", "Lot"]
+people: ["Adam", "Eve", "The serpent", "Cain", "Abel", "Seth", "Enoch", "Methuselah", "Noah", "Shem", "Ham", "Japheth", "Abram", "Sarai", "Lot", "Hagar", "Ishmael"]
 outline: [
 	{
 		text: "Creation story",
@@ -64,6 +64,14 @@ outline: [
     start: {
       book: "Genesis",
       chapter: 14,
+      verse: 1
+    }
+  },
+  {
+    text: "Sarai offers Hagar to Abram",
+    start: {
+      book: "Genesis",
+      chapter: 16,
       verse: 1
     }
   }

@@ -1,8 +1,8 @@
 ---
 title: "Genesis"
 publishDate: "22 Dec 2023"
-tags: ["firmament", "creation", "cherubim", "tree of life", "tree of the knowledge of good and evil", "nephilim", "Noah's Ark", "Garden of Eden", "rainbows", "flood", "Tower of Babel", "Egypt", "Sodom and Gomorrah"]
-people: ["Adam", "Eve", "The serpent", "Cain", "Abel", "Seth", "Enoch", "Methuselah", "Noah", "Shem", "Ham", "Japheth", "Abram", "Sarai", "Lot", "Hagar", "Ishmael"]
+tags: ["firmament", "creation", "cherubim", "tree of life", "tree of the knowledge of good and evil", "nephilim", "Noah's Ark", "Garden of Eden", "rainbows", "flood", "Tower of Babel", "Egypt", "Sodom and Gomorrah", "covenant", "circumcision"]
+people: ["Adam", "Eve", "The serpent", "Cain", "Abel", "Seth", "Enoch", "Methuselah", "Noah", "Shem", "Ham", "Japheth", "Abraham (Abram)", "Sarah (Sarai)", "Lot", "Hagar", "Ishmael", "Isaac"]
 outline: [
 	{
 		text: "Creation story",
@@ -74,6 +74,14 @@ outline: [
       chapter: 16,
       verse: 1
     }
+  },
+  {
+    text: "God makes a covenant with Abram",
+    start: {
+      book: "Genesis",
+      chapter: 17,
+      verse: 1
+    }
   }
 ]
 ---
@@ -123,6 +131,9 @@ outline: [
 * [Genesis 11:1-9](#GEN11V1) I remembered the Tower of Babel as being about the sinful pride of a ruler, but it just kind of seems like God was concerned that men working together would be able to achieve too much. It also seems strange that God is using plural language again ("let's go down...").
 * [Genesis 12:12-20](#GEN12V12) No comment is made on whether Abram's lie is a sin.
 * [Genesis 15:9-11](#GEN15V9) Why are animals sacrifices necessary, and why at specific ages?
+* [Genesis 17:8](#GEN17V8) Was God not their God before the covenant? 
+* [Genesis 17:10](#GEN17V10) Why does God want them circumcized?
+* [Genesis 17:22](#GEN17V22) "God went up from Abraham," like, back into the sky/heavens? He physically descended to appear to him? 
 
 ## World English Bible Text
 

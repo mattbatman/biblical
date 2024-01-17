@@ -82,6 +82,22 @@ outline: [
       chapter: 17,
       verse: 1
     }
+  },
+  {
+    text: "God promises Sarah she will have a child",
+    start: {
+      book: "Genesis",
+      chapter: 18,
+      verse: 1
+    }
+  },
+  {
+    text: "Abraham seeks mercy for Sodom and Gomorrah",
+    start: {
+      book: "Genesis",
+      chapter: 18,
+      verse: 16
+    }
   }
 ]
 ---

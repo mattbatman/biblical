@@ -98,6 +98,14 @@ outline: [
       chapter: 18,
       verse: 16
     }
+  },
+  {
+    text: "Sodom and Gomorrah",
+    start: {
+      book: "Genesis",
+      chapter: 19,
+      verse: 1
+    }
   }
 ]
 ---
@@ -119,16 +127,16 @@ outline: [
 * [Genesis 2:25](#GEN2V25) Famous nudity and shame verse.
 * [Genesis 3:4](#GEN3V4) I guess this suggests that knowledge of good and evil is innate.
 * [Genesis 3:6](#GEN3V6) It's not clear that Adam knew what he was eating.
-* [Genesis 3:7](#GEN3V7) The first thing they felt guilt for was being naked. 
+* [Genesis 3:7](#GEN3V7) The first thing they felt guilt for was being naked.
 * [Genesis 3:8](#GEN3V8) God was just walking around, talking.
-* [Genesis 3:12](#GEN3V12) Adam does not take responsibility. 
+* [Genesis 3:12](#GEN3V12) Adam does not take responsibility.
 * [Genesis 3:13](#GEN3V13) The woman says the serpent deceived her, but it seems like he just convinced her.
-* [Genesis 3:14](#GEN3V14) Did the serpent have legs before this? 
-* [Genesis 3:15](#GEN3V15) Are serpents and humans destined to be the worst of enemies? 
+* [Genesis 3:14](#GEN3V14) Did the serpent have legs before this?
+* [Genesis 3:15](#GEN3V15) Are serpents and humans destined to be the worst of enemies?
 * [Genesis 3:16](#GEN3V16) Women were curses with painful child birth and to be ruled over by their husband.
 * [Genesis 3:17-19](#GEN3V17) Man's curse just seems to be to have to work more, to farm.
 * [Genesis 3:22](#GEN3V22) Who's the "us" that God refers to? Why shouldn't man live forever?
-* [Genesis 3:24](#GEN3V24) When were "cherubim" created? 
+* [Genesis 3:24](#GEN3V24) When were "cherubim" created?
 * [Genesis 4:2-5](#GEN4V2) Cain and Abel were able to just walk up to God to give him offerings. God preferred fat to fruit.
 * [Genesis 4:6-7](#GEN4V6) It seems like God thinks Cain should know that jealousy or envy is a sin. The Bible doesn't mention, yet, what exactly constitutes sin, or what training any of the humans have yet had.
 * [Genesis 4:9](#GEN4V9) Similar to when God called out Adam, he first asked him a question, and let Cain respond. This is the brother's keeper verse.
@@ -147,9 +155,16 @@ outline: [
 * [Genesis 11:1-9](#GEN11V1) I remembered the Tower of Babel as being about the sinful pride of a ruler, but it just kind of seems like God was concerned that men working together would be able to achieve too much. It also seems strange that God is using plural language again ("let's go down...").
 * [Genesis 12:12-20](#GEN12V12) No comment is made on whether Abram's lie is a sin.
 * [Genesis 15:9-11](#GEN15V9) Why are animals sacrifices necessary, and why at specific ages?
-* [Genesis 17:8](#GEN17V8) Was God not their God before the covenant? 
+* [Genesis 17:8](#GEN17V8) Was God not their God before the covenant?
 * [Genesis 17:10](#GEN17V10) Why does God want them circumcized?
-* [Genesis 17:22](#GEN17V22) "God went up from Abraham," like, back into the sky/heavens? He physically descended to appear to him? 
+* [Genesis 17:22](#GEN17V22) "God went up from Abraham," like, back into the sky/heavens? He physically descended to appear to him?
+* [Genesis 19:5](#GEN19V5) The men of Sodom immediately want to have sex with any new, strange men that enter their land.
+* [Genesis 19:6-8](#GEN19V6) Is it righteous for Lot to offer his daughters to be raped in place of two strangers that he's housing?
+* [Genesis 19:11](#GEN19V11) It's easy to imagine the two Angels as Navy Seals in a primitive land with technology that lets them blind others within the vicinity.
+* [Genesis 19:23](#GEN19V23) It's easy to image the destruction of Sodom and Gomorrah as a primitive description of the deployment of a nuclear weapon or missiles.
+* [Genesis 19:26](#GEN19V26) Lot's wife is turned to a pillar of salt.
+* [Genesis 19:17-26](#GEN19V17) As a child in Sunday School, I was told this story demonstrated the lack of faith or obedience by Lot's wife. I had to reread this chapter to even catch that Lot and his wife were actually told not to look back.
+* [Genesis 19:30-38](#GEN19V30-38) It's strange to read a story of two daughters getting their father drunk and sleeping with him to get pregnant without any moral judgment or explicit lessons.
 
 ## World English Bible Text
 

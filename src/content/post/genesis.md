@@ -106,6 +106,14 @@ outline: [
       chapter: 19,
       verse: 1
     }
+  },
+  {
+    text: "Abraham travels south",
+    start: {
+      book: "Genesis",
+      chapter: 20,
+      verse: 1
+    }
   }
 ]
 ---
@@ -164,7 +172,9 @@ outline: [
 * [Genesis 19:23](#GEN19V23) It's easy to image the destruction of Sodom and Gomorrah as a primitive description of the deployment of a nuclear weapon or missiles.
 * [Genesis 19:26](#GEN19V26) Lot's wife is turned to a pillar of salt.
 * [Genesis 19:17-26](#GEN19V17) As a child in Sunday School, I was told this story demonstrated the lack of faith or obedience by Lot's wife. I had to reread this chapter to even catch that Lot and his wife were actually told not to look back.
-* [Genesis 19:30-38](#GEN19V30-38) It's strange to read a story of two daughters getting their father drunk and sleeping with him to get pregnant without any moral judgment or explicit lessons.
+* [Genesis 19:30-38](#GEN19V30) It's strange to read a story of two daughters getting their father drunk and sleeping with him to get pregnant without any moral judgment or explicit lessons.
+* [Genesis 20:1-18](#GEN20V1) It seems like Abimelech would have spared Abraham's life, yet he again lied that Sarah was his sister. Again, the Bible seems to pass no explicit judgment.
+* [Genesis 20:12](#GEN20V12) Abraham and Sarah were half-siblings. They shared a father.
 
 ## World English Bible Text
 

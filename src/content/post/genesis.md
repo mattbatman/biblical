@@ -1,7 +1,7 @@
 ---
 title: "Genesis"
 publishDate: "22 Dec 2023"
-tags: ["firmament", "creation", "cherubim", "tree of life", "tree of the knowledge of good and evil", "nephilim", "Noah's Ark", "Garden of Eden", "rainbows", "flood", "Tower of Babel", "Egypt", "Sodom and Gomorrah", "covenant", "circumcision", "sacrifice"]
+tags: ["firmament", "creation", "cherubim", "tree of life", "tree of the knowledge of good and evil", "nephilim", "Noah's Ark", "Garden of Eden", "rainbows", "flood", "Tower of Babel", "Egypt", "Sodom and Gomorrah", "covenant", "circumcision", "sacrifice", "blessings"]
 people: ["Adam", "Eve", "The serpent", "Cain", "Abel", "Seth", "Enoch", "Methuselah", "Noah", "Shem", "Ham", "Japheth", "Abraham (Abram)", "Sarah (Sarai)", "Lot", "Hagar", "Ishmael", "Isaac", "Abimelech", "Rebekah", "Esau", "Jacob"]
 outline: [
 	{
@@ -162,6 +162,22 @@ outline: [
       chapter: 25,
       verse: 24
     }
+  },
+  {
+    text: "Isaac settles in Gerar and has success",
+    start: {
+      book: "Genesis",
+      chapter: 26,
+      verse: 1
+    }
+  },
+  {
+    text: "Jacob takes Esau's blessing",
+    start: {
+      book: "Genesis",
+      chapter: 27,
+      verse: 1
+    }
   }
 ]
 ---
@@ -223,6 +239,9 @@ outline: [
 * [Genesis 19:30-38](#GEN19V30) It's strange to read a story of two daughters getting their father drunk and sleeping with him to get pregnant without any moral judgment or explicit lessons.
 * [Genesis 20:1-18](#GEN20V1) It seems like Abimelech would have spared Abraham's life, yet he again lied that Sarah was his sister. Again, the Bible seems to pass no explicit judgment.
 * [Genesis 20:12](#GEN20V12) Abraham and Sarah were half-siblings. They shared a father.
+* [Genesis 26:6](#GEN26V6) Isaac lies about Rebekah being his wife, saying she's his sisiter, just like his father.
+* [Genesis 27:26](#GEN27V26) How and why is a blessing like this so powerful and coveted? Why is it not reversible?
+* [Genesis 27:40](#GEN27V40) Per this blessing and intent, it seems Esau should destroy Jacob in the future.
 
 ## World English Bible Text
 

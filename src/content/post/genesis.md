@@ -178,6 +178,22 @@ outline: [
       chapter: 27,
       verse: 1
     }
+  },
+  {
+    text: "Isaac sends Jacob to Paddan Aram and Laban to find a wife",
+    start: {
+      book: "Genesis",
+      chapter: 28,
+      verse: 1
+    }
+  },
+  {
+    text: "Jacob's ladder, or the stairway to heaven",
+    start: {
+      book: "Genesis",
+      chapter: 28,
+      verse: 10
+    }
   }
 ]
 ---
@@ -242,6 +258,7 @@ outline: [
 * [Genesis 26:6](#GEN26V6) Isaac lies about Rebekah being his wife, saying she's his sisiter, just like his father.
 * [Genesis 27:26](#GEN27V26) How and why is a blessing like this so powerful and coveted? Why is it not reversible?
 * [Genesis 27:40](#GEN27V40) Per this blessing and intent, it seems Esau should destroy Jacob in the future.
+* [Genesis 28:22](#GEN28V22) Is this where the idea of tithing 10% comes from?
 
 ## World English Bible Text
 

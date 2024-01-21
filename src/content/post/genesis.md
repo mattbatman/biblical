@@ -2,7 +2,7 @@
 title: "Genesis"
 publishDate: "22 Dec 2023"
 tags: ["firmament", "creation", "cherubim", "tree of life", "tree of the knowledge of good and evil", "nephilim", "Noah's Ark", "Garden of Eden", "rainbows", "flood", "Tower of Babel", "Egypt", "Sodom and Gomorrah", "covenant", "circumcision", "sacrifice", "blessings"]
-people: ["Adam", "Eve", "The serpent", "Cain", "Abel", "Seth", "Enoch", "Methuselah", "Noah", "Shem", "Ham", "Japheth", "Abraham (Abram)", "Sarah (Sarai)", "Lot", "Hagar", "Ishmael", "Isaac", "Abimelech", "Rebekah", "Esau", "Jacob"]
+people: ["Adam", "Eve", "The serpent", "Cain", "Abel", "Seth", "Enoch", "Methuselah", "Noah", "Shem", "Ham", "Japheth", "Abraham (Abram)", "Sarah (Sarai)", "Lot", "Hagar", "Ishmael", "Isaac", "Abimelech", "Rebekah", "Esau", "Jacob", "Rachel", "Leah", "Laban"]
 outline: [
 	{
 		text: "Creation story",
@@ -193,6 +193,22 @@ outline: [
       book: "Genesis",
       chapter: 28,
       verse: 10
+    }
+  },
+  {
+    text: "Jacob meets Rachel, offers to work 7 years to marry her",
+    start: {
+      book: "Genesis",
+      chapter: 29,
+      verse: 1
+    }
+  },
+  {
+    text: "Laban tricks Jacob, marrying Leah to him, and requiring 7 more years of service for Rachel",
+    start: {
+      book: "Genesis",
+      chapter: 29,
+      verse: 22
     }
   }
 ]

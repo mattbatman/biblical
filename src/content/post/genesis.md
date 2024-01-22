@@ -2,7 +2,7 @@
 title: "Genesis"
 publishDate: "22 Dec 2023"
 tags: ["firmament", "creation", "cherubim", "tree of life", "tree of the knowledge of good and evil", "nephilim", "Noah's Ark", "Garden of Eden", "rainbows", "flood", "Tower of Babel", "Egypt", "Sodom and Gomorrah", "covenant", "circumcision", "sacrifice", "blessings"]
-people: ["Adam", "Eve", "The serpent", "Cain", "Abel", "Seth", "Enoch", "Methuselah", "Noah", "Shem", "Ham", "Japheth", "Abraham (Abram)", "Sarah (Sarai)", "Lot", "Hagar", "Ishmael", "Isaac", "Abimelech", "Rebekah", "Esau", "Jacob", "Rachel", "Leah", "Laban"]
+people: ["Adam", "Eve", "The serpent", "Cain", "Abel", "Seth", "Enoch", "Methuselah", "Noah", "Shem", "Ham", "Japheth", "Abraham (Abram)", "Sarah (Sarai)", "Lot", "Hagar", "Ishmael", "Isaac", "Abimelech", "Rebekah", "Esau", "Jacob (Israel)", "Rachel", "Leah", "Laban"]
 outline: [
 	{
 		text: "Creation story",
@@ -228,11 +228,19 @@ outline: [
     }
   },
   {
-    text: "Jacob flees Laban",
+    text: "Jacob flees Laban, prepares for a confrontation with Esau",
     start: {
       book: "Genesis",
       chapter: 31,
       verse: 1
+    }
+  },
+  {
+    text: "Jacob wrestles with a man, possibly God",
+    start: {
+      book: "Genesis",
+      chapter: 32,
+      verse: 22
     }
   }
 ]
@@ -300,6 +308,7 @@ outline: [
 * [Genesis 27:40](#GEN27V40) Per this blessing and intent, it seems Esau should destroy Jacob in the future.
 * [Genesis 28:22](#GEN28V22) Is this where the idea of tithing 10% comes from?
 * [Genesis 31:19](#GEN31V19) It seems strange to for the Bible not to comment on whether stealing these household gods was ethical.
+* [Genesis 32:24](#GEN32V24) Jacob physically wrestles with God and God doesn't win.
 
 ## World English Bible Text
 

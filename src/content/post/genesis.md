@@ -236,11 +236,19 @@ outline: [
     }
   },
   {
-    text: "Jacob wrestles with a man, possibly God",
+    text: "Jacob wrestles with a man, possibly an angel, possibly God",
     start: {
       book: "Genesis",
       chapter: 32,
       verse: 22
+    }
+  },
+  {
+    text: "Jacob and Esau meet again, amicably",
+    start: {
+      book: "Genesis",
+      chapter: 33,
+      verse: 1
     }
   }
 ]

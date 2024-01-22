@@ -210,6 +210,22 @@ outline: [
       chapter: 29,
       verse: 22
     }
+  },
+  {
+    text: "Rachel offers her servant for children with Jacob, followed by Leah",
+    start: {
+      book: "Genesis",
+      chapter: 30,
+      verse: 1
+    }
+  },
+  {
+    text: "Rachel gave birth to Joseph, and Jacob and Laban strike a deal for him to part with certain colored flock",
+    start: {
+      book: "Genesis",
+      chapter: 30,
+      verse: 22
+    }
   }
 ]
 ---

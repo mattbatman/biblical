@@ -2,7 +2,7 @@
 title: "Genesis"
 publishDate: "22 Dec 2023"
 tags: ["firmament", "creation", "cherubim", "tree of life", "tree of the knowledge of good and evil", "nephilim", "Noah's Ark", "Garden of Eden", "rainbows", "flood", "Tower of Babel", "Egypt", "Sodom and Gomorrah", "covenant", "circumcision", "sacrifice", "blessings", "Bethel", "Canaan", "dreams", "Ishmaelites", "prostitution"]
-people: ["Adam", "Eve", "The serpent", "Cain", "Abel", "Seth", "Enoch", "Methuselah", "Noah", "Shem", "Ham", "Japheth", "Abraham (Abram)", "Sarah (Sarai)", "Lot", "Hagar", "Ishmael", "Isaac", "Abimelech", "Rebekah", "Esau", "Jacob (Israel)", "Rachel", "Leah", "Laban", "Dinah", "Sechem", "Hamor", "Joseph"]
+people: ["Adam", "Eve", "The serpent", "Cain", "Abel", "Seth", "Enoch", "Methuselah", "Noah", "Shem", "Ham", "Japheth", "Abraham (Abram)", "Sarah (Sarai)", "Lot", "Hagar", "Ishmael", "Isaac", "Abimelech", "Rebekah", "Esau", "Jacob (Israel)", "Rachel", "Leah", "Laban", "Dinah", "Sechem", "Hamor", "Joseph", "Potiphar"]
 outline: [
 	{
 		text: "Creation story",
@@ -298,7 +298,16 @@ outline: [
       chapter: 38,
       verse: 1
     }
+  },
+  {
+    text: "Joseph was promoted by Potiphar for handling his affairs well. Joseph refuses to sleep with Potiphar's wife, is falsely accused of rape, and is jailed. Joseph was promoted by the jailers for good behavior and wisdom.",
+    start: {
+      book: "Genesis",
+      chapter: 39,
+      verse: 1
+    }
   }
+
 ]
 ---
 

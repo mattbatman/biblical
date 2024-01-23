@@ -1,8 +1,8 @@
 ---
 title: "Genesis"
 publishDate: "22 Dec 2023"
-tags: ["firmament", "creation", "cherubim", "tree of life", "tree of the knowledge of good and evil", "nephilim", "Noah's Ark", "Garden of Eden", "rainbows", "flood", "Tower of Babel", "Egypt", "Sodom and Gomorrah", "covenant", "circumcision", "sacrifice", "blessings"]
-people: ["Adam", "Eve", "The serpent", "Cain", "Abel", "Seth", "Enoch", "Methuselah", "Noah", "Shem", "Ham", "Japheth", "Abraham (Abram)", "Sarah (Sarai)", "Lot", "Hagar", "Ishmael", "Isaac", "Abimelech", "Rebekah", "Esau", "Jacob (Israel)", "Rachel", "Leah", "Laban", "Dinah", "Sechem", "Hamor"]
+tags: ["firmament", "creation", "cherubim", "tree of life", "tree of the knowledge of good and evil", "nephilim", "Noah's Ark", "Garden of Eden", "rainbows", "flood", "Tower of Babel", "Egypt", "Sodom and Gomorrah", "covenant", "circumcision", "sacrifice", "blessings", "Bethel", "Canaan", "dreams", "Ishmaelites"]
+people: ["Adam", "Eve", "The serpent", "Cain", "Abel", "Seth", "Enoch", "Methuselah", "Noah", "Shem", "Ham", "Japheth", "Abraham (Abram)", "Sarah (Sarai)", "Lot", "Hagar", "Ishmael", "Isaac", "Abimelech", "Rebekah", "Esau", "Jacob (Israel)", "Rachel", "Leah", "Laban", "Dinah", "Sechem", "Hamor", "Joseph"]
 outline: [
 	{
 		text: "Creation story",
@@ -257,6 +257,38 @@ outline: [
       book: "Genesis",
       chapter: 34,
       verse: 1
+    }
+  },
+  {
+    text: "Jacob travels to Bethel",
+    start: {
+      book: "Genesis",
+      chapter: 35,
+      verse: 1
+    }
+  },
+  {
+    text: "An account of the lineage of Easu",
+    start: {
+      book: "Genesis",
+      chapter: 36,
+      verse: 1
+    }
+  },
+{
+    text: "Joseph dreams of ruling over his family",
+    start: {
+      book: "Genesis",
+      chapter: 37,
+      verse: 1
+    }
+  },
+  {
+    text: "Joseph is thrown down a well and sold into slavery by his brothers",
+    start: {
+      book: "Genesis",
+      chapter: 37,
+      verse: 17
     }
   }
 ]

@@ -306,8 +306,15 @@ outline: [
       chapter: 39,
       verse: 1
     }
+  },
+  {
+    text: "Joseph interprets the dreams of the butler and baker of the king of Egypt in prison",
+    start: {
+      book: "Genesis",
+      chapter: 40,
+      verse: 1
+    }
   }
-
 ]
 ---
 

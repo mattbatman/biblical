@@ -1,7 +1,7 @@
 ---
 title: "Genesis"
 publishDate: "22 Dec 2023"
-tags: ["firmament", "creation", "cherubim", "tree of life", "tree of the knowledge of good and evil", "nephilim", "Noah's Ark", "Garden of Eden", "rainbows", "flood", "Tower of Babel", "Egypt", "Sodom and Gomorrah", "covenant", "circumcision", "sacrifice", "blessings", "Bethel", "Canaan", "dreams", "Ishmaelites", "prostitution"]
+tags: ["firmament", "creation", "cherubim", "tree of life", "tree of the knowledge of good and evil", "nephilim", "Noah's Ark", "Garden of Eden", "rainbows", "flood", "Tower of Babel", "Egypt", "Sodom and Gomorrah", "covenant", "circumcision", "sacrifice", "blessings", "Bethel", "Canaan", "dreams", "Ishmaelites", "prostitution", "famine"]
 people: ["Adam", "Eve", "The serpent", "Cain", "Abel", "Seth", "Enoch", "Methuselah", "Noah", "Shem", "Ham", "Japheth", "Abraham (Abram)", "Sarah (Sarai)", "Lot", "Hagar", "Ishmael", "Isaac", "Abimelech", "Rebekah", "Esau", "Jacob (Israel)", "Rachel", "Leah", "Laban", "Dinah", "Sechem", "Hamor", "Joseph", "Potiphar"]
 outline: [
 	{
@@ -313,6 +313,22 @@ outline: [
       book: "Genesis",
       chapter: 40,
       verse: 1
+    }
+  },
+  {
+    text: "Joseph interprets Pharaoh's dreams of plenty and famine",
+    start: {
+      book: "Genesis",
+      chapter: 41,
+      verse: 1
+    }
+  },
+  {
+    text: "Pharaoh appoints Joseph from prison to rule his house",
+    start: {
+      book: "Genesis",
+      chapter: 41,
+      verse: 37
     }
   }
 ]

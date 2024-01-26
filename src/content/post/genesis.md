@@ -346,6 +346,14 @@ outline: [
       chapter: 43,
       verse: 1
     }
+  },
+  {
+    text: "Joseph sends his brothers on their way after a feast, but hides his cup in their sacks",
+    start: {
+      book: "Genesis",
+      chapter: 44,
+      verse: 1
+    }
   }
 ]
 ---

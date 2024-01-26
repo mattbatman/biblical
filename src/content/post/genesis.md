@@ -1,7 +1,7 @@
 ---
 title: "Genesis"
 publishDate: "22 Dec 2023"
-tags: ["firmament", "creation", "cherubim", "tree of life", "tree of the knowledge of good and evil", "nephilim", "Noah's Ark", "Garden of Eden", "rainbows", "flood", "Tower of Babel", "Egypt", "Sodom and Gomorrah", "covenant", "circumcision", "sacrifice", "blessings", "Bethel", "Canaan", "dreams", "Ishmaelites", "prostitution", "famine", "twelve tribes of Israel", "silver cup"]
+tags: ["firmament", "creation", "cherubim", "tree of life", "tree of the knowledge of good and evil", "nephilim", "Noah's Ark", "Garden of Eden", "rainbows", "flood", "Tower of Babel", "Egypt", "Sodom and Gomorrah", "covenant", "circumcision", "sacrifice", "blessings", "Bethel", "Canaan", "dreams", "Ishmaelites", "prostitution", "famine", "twelve tribes of Israel", "silver cup", "slavery"]
 people: ["Adam", "Eve", "The serpent", "Cain", "Abel", "Seth", "Enoch", "Methuselah", "Noah", "Shem", "Ham", "Japheth", "Abraham (Abram)", "Sarah (Sarai)", "Lot", "Hagar", "Ishmael", "Isaac", "Abimelech", "Rebekah", "Esau", "Jacob (Israel)", "Rachel", "Leah", "Laban", "Dinah", "Sechem", "Hamor", "Joseph", "Potiphar"]
 outline: [
 	{
@@ -386,6 +386,30 @@ outline: [
       chapter: 48,
       verse: 1
     }
+  },
+  {
+    text: "Joseph buries Jacob",
+    start: {
+      book: "Genesis",
+      chapter: 50,
+      verse: 1
+    }
+  },
+  {
+    text: "Joseph forgives his brothers",
+    start: {
+      book: "Genesis",
+      chapter: 50,
+      verse: 19
+    }
+  },
+  {
+    text: "Joseph tells his brother God will take them out of Egypt, and passes",
+    start: {
+      book: "Genesis",
+      chapter: 50,
+      verse: 24
+    }
   }
 ]
 ---
@@ -456,6 +480,7 @@ outline: [
 * [Genesis 34:1](#GEN34V1) This is a fascinating story to have presented with no explicit moral judgment. Hamor seems to have loved Dinah, and perhaps attempted to do the "right" thing as he saw it. Jacob's sons lie to Hamor, to have all of them circumcise themselves, then come and kill them while they're weak.
 * [Genesis 38:9](#GEN38V9) "Pulling out"
 * [Genesis 46:34](#GEN46V34) Why would Egyptians hate sheperds?
+* [Genesis 50:19](#GEN50V19) Joseph has a stoic attitude in forgiving his brothers
 
 ## World English Bible Text
 

@@ -1,7 +1,7 @@
 ---
 title: "Genesis"
 publishDate: "22 Dec 2023"
-tags: ["firmament", "creation", "cherubim", "tree of life", "tree of the knowledge of good and evil", "nephilim", "Noah's Ark", "Garden of Eden", "rainbows", "flood", "Tower of Babel", "Egypt", "Sodom and Gomorrah", "covenant", "circumcision", "sacrifice", "blessings", "Bethel", "Canaan", "dreams", "Ishmaelites", "prostitution", "famine"]
+tags: ["firmament", "creation", "cherubim", "tree of life", "tree of the knowledge of good and evil", "nephilim", "Noah's Ark", "Garden of Eden", "rainbows", "flood", "Tower of Babel", "Egypt", "Sodom and Gomorrah", "covenant", "circumcision", "sacrifice", "blessings", "Bethel", "Canaan", "dreams", "Ishmaelites", "prostitution", "famine", "twelve tribes of Israel", "silver cup"]
 people: ["Adam", "Eve", "The serpent", "Cain", "Abel", "Seth", "Enoch", "Methuselah", "Noah", "Shem", "Ham", "Japheth", "Abraham (Abram)", "Sarah (Sarai)", "Lot", "Hagar", "Ishmael", "Isaac", "Abimelech", "Rebekah", "Esau", "Jacob (Israel)", "Rachel", "Leah", "Laban", "Dinah", "Sechem", "Hamor", "Joseph", "Potiphar"]
 outline: [
 	{
@@ -369,6 +369,22 @@ outline: [
       book: "Genesis",
       chapter: 46,
       verse: 28
+    }
+  },
+  {
+    text: "All the people in Egypt besides the priests sell their land to Pharaoh for grain",
+    start: {
+      book: "Genesis",
+      chapter: 47,
+      verse: 13
+    }
+  },
+  {
+    text: "Jacob blesses Joseph's children, and then his own",
+    start: {
+      book: "Genesis",
+      chapter: 48,
+      verse: 1
     }
   }
 ]

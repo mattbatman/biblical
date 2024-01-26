@@ -362,6 +362,14 @@ outline: [
       chapter: 45,
       verse: 1
     }
+  },
+  {
+    text: "Jacob and Joseph are reunited",
+    start: {
+      book: "Genesis",
+      chapter: 46,
+      verse: 28
+    }
   }
 ]
 ---
@@ -431,6 +439,7 @@ outline: [
 * [Genesis 32:24](#GEN32V24) Jacob physically wrestles with God or a representative of God and God or the angel doesn't win.
 * [Genesis 34:1](#GEN34V1) This is a fascinating story to have presented with no explicit moral judgment. Hamor seems to have loved Dinah, and perhaps attempted to do the "right" thing as he saw it. Jacob's sons lie to Hamor, to have all of them circumcise themselves, then come and kill them while they're weak.
 * [Genesis 38:9](#GEN38V9) "Pulling out"
+* [Genesis 46:34](#GEN46V34) Why would Egyptians hate sheperds?
 
 ## World English Bible Text
 

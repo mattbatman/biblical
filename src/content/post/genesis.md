@@ -338,6 +338,14 @@ outline: [
       chapter: 42,
       verse: 1
     }
+  },
+  {
+    text: "Joseph's brothers run out of grain and return to buy more",
+    start: {
+      book: "Genesis",
+      chapter: 43,
+      verse: 1
+    }
   }
 ]
 ---

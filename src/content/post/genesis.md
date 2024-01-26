@@ -330,6 +330,14 @@ outline: [
       chapter: 41,
       verse: 37
     }
+  },
+  {
+    text: "Joseph's brothers come to Egypt to buy grain. They do not recognize him. He tricks them.",
+    start: {
+      book: "Genesis",
+      chapter: 42,
+      verse: 1
+    }
   }
 ]
 ---

@@ -354,6 +354,14 @@ outline: [
       chapter: 44,
       verse: 1
     }
+  },
+{
+    text: "Joseph reveals his identity",
+    start: {
+      book: "Genesis",
+      chapter: 45,
+      verse: 1
+    }
   }
 ]
 ---

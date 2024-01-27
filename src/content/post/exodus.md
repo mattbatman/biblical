@@ -1,7 +1,7 @@
 ---
 title: "Exodus"
 publishDate: "26 Jan 2024"
-tags: []
+tags: ["Egypt"]
 people: []
 outline: [
 	{

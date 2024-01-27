@@ -484,6 +484,10 @@ outline: [
 
 ## World English Bible Text
 
+The First Book of Moses,
+Commonly Called
+Genesis
+
 ### 1
 
 <div class="p">

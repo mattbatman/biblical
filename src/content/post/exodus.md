@@ -8,6 +8,9 @@ outline: []
 
 ## World English Bible Text
 
+The Second Book of Moses,
+Commonly Called
+Exodus
 
 ### 1
 

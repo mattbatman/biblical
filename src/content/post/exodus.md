@@ -3,7 +3,16 @@ title: "Exodus"
 publishDate: "26 Jan 2024"
 tags: []
 people: []
-outline: []
+outline: [
+	{
+		text: "The descendants of Jacob multiplied, and the Pharoah feared their numbers and relative success, so he ordered all midwives to throw their newborn males in the river",
+		start: {
+			book: "Exodus",
+			chapter: 1,
+			verse: 1
+		}
+	}
+]
 ---
 
 ## World English Bible Text

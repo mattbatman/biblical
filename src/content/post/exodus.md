@@ -2,7 +2,7 @@
 title: "Exodus"
 publishDate: "26 Jan 2024"
 tags: ["Egypt"]
-people: []
+people: ["Moses", "Zipporah", "Gershom"]
 outline: [
 	{
 		text: "The descendants of Jacob multiplied, and the Pharoah feared their numbers and relative success, so he ordered all midwives to throw their newborn males in the river",
@@ -10,6 +10,38 @@ outline: [
 			book: "Exodus",
 			chapter: 1,
 			verse: 1
+		}
+	},
+	{
+		text: "Moses is hid in the reeds by the river",
+		start: {
+			book: "Exodus",
+			chapter: 2,
+			verse: 1
+		}
+	},
+	{
+		text: "Moses is hid in the reeds by the river, and adopted by Pharaoh's daughter",
+		start: {
+			book: "Exodus",
+			chapter: 2,
+			verse: 1
+		}
+	},
+	{
+		text: "Moses kills an Egyptian for striking a Hebrew, and flees to Midian",
+		start: {
+			book: "Exodus",
+			chapter: 2,
+			verse: 11
+		}
+	},
+	{
+		text: "Moses defends the daughts of Midian from sheperds, and takes Zipporah as a wife",
+		start: {
+			book: "Exodus",
+			chapter: 2,
+			verse: 16
 		}
 	}
 ]

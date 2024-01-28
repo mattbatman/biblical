@@ -1,7 +1,7 @@
 ---
 title: "Exodus"
 publishDate: "26 Jan 2024"
-tags: ["Egypt"]
+tags: ["Egypt", "Horeb", "God's mountain", "burning bush"]
 people: ["Moses", "Zipporah", "Gershom"]
 outline: [
 	{
@@ -43,7 +43,15 @@ outline: [
 			chapter: 2,
 			verse: 16
 		}
-	}
+	},
+  {
+    text: "Moses speaks to God through a burning bush",
+    start: {
+      book: "Exodus",
+      chapter: 3,
+      verse: 1
+    }
+  }
 ]
 ---
 

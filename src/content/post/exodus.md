@@ -2,7 +2,7 @@
 title: "Exodus"
 publishDate: "26 Jan 2024"
 tags: ["Egypt", "Horeb", "God's mountain", "burning bush"]
-people: ["Moses", "Zipporah", "Gershom"]
+people: ["Moses", "Zipporah", "Gershom", "Aaron", "Jethro"]
 outline: [
 	{
 		text: "The descendants of Jacob multiplied, and the Pharoah feared their numbers and relative success, so he ordered all midwives to throw their newborn males in the river",
@@ -45,15 +45,43 @@ outline: [
 		}
 	},
   {
-    text: "Moses speaks to God through a burning bush",
+    text: "Moses speaks to God through a burning bush, and is told to go to Egypt to liberate the Hebrews",
     start: {
       book: "Exodus",
       chapter: 3,
       verse: 1
     }
+  },
+  {
+    text: "Moses questions God, doubts anyone will listen to him, and is given signs of the rod turning to a snake and his hand of leprosy",
+    start: {
+      book: "Exodus",
+      chapter: 4,
+      verse: 1
+    }
+  },
+  {
+    text: "God sends Aaron with Moses",
+    start: {
+      book: "Exodus",
+      chapter: 4,
+      verse: 14
+    }
+  },
+  {
+    text: "Moses returns to Egypt",
+    start: {
+      book: "Exodus",
+      chapter: 4,
+      verse: 20
+    }
   }
 ]
 ---
+
+## Points of Interest
+
+* [Genesis 4:24](#GEN4V24) What does this mean? Why does God suddenly want to kill Moses? Why does Zipporah know that circumcising their son will lessen God's anger?
 
 ## World English Bible Text
 

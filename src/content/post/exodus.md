@@ -75,6 +75,14 @@ outline: [
       chapter: 4,
       verse: 20
     }
+  },
+  {
+    text: "Moses and Aaron approach Pharaoh to allow the Hebrews to go into the wilderness for three days of sacrifice to Yahweh. Pharaoh denies the request, and makes the Hebrews collect their own straw while making bricks.",
+    start: {
+      book: "Exodus",
+      chapter: 5,
+      verse: 1
+    }
   }
 ]
 ---

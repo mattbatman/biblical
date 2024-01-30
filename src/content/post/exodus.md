@@ -1,7 +1,7 @@
 ---
 title: "Exodus"
 publishDate: "26 Jan 2024"
-tags: ["Egypt", "Horeb", "God's mountain", "burning bush"]
+tags: ["Egypt", "Horeb", "God's mountain", "burning bush", "magicians"]
 people: ["Moses", "Zipporah", "Gershom", "Aaron", "Jethro"]
 outline: [
 	{
@@ -82,6 +82,22 @@ outline: [
       book: "Exodus",
       chapter: 5,
       verse: 1
+    }
+  },
+  {
+    text: "Moses and Aaron turned their rods into serpents to prove to Egypt that their God was powerful. Pharaoh's magicians did the same thing, but then the serpents from Moses and Aaron ate those of the magicians.",
+    start: {
+      book: "Exodus",
+      chapter: 7,
+      verse: 8
+    }
+  },
+  {
+    text: "Moses and Aaron turned the river to blood",
+    start: {
+      book: "Exodus",
+      chapter: 7,
+      verse: 14
     }
   }
 ]

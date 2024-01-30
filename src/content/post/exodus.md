@@ -99,6 +99,62 @@ outline: [
       chapter: 7,
       verse: 14
     }
+  },
+  {
+    text: "Moses and Aaron bring a plague of frogs",
+    start: {
+      book: "Exodus",
+      chapter: 8,
+      verse: 1
+    }
+  },
+  {
+     text: "Pharaoh relents, if God will take away the frogs",
+    start: {
+      book: "Exodus",
+      chapter: 8,
+      verse: 8
+    }   
+  },
+  {
+     text: "God allows the frogs to die, but Pharaoh goes back on his word",
+    start: {
+      book: "Exodus",
+      chapter: 8,
+      verse: 12
+    }   
+  },
+  {
+     text: "Moses and Aaron bring a plague of lice",
+    start: {
+      book: "Exodus",
+      chapter: 8,
+      verse: 16
+    }   
+  },
+  {
+    text: "Moses and Aaron bring a swarm of flies",
+    start: {
+      book: "Exodus",
+      chapter: 8,
+      verse: 20
+    }   
+  },
+  {
+    text: "Pharaoh relents, and tells Moses and Aaron to take the Hebrews into the wilderness to sacrifice to God",
+    start: {
+      book: "Exodus",
+      chapter: 8,
+      verse: 25
+    }   
+  },
+  {
+    text: "Pharaoh goes back on his word",
+    start: {
+      book: "Exodus",
+      chapter: 8,
+      verse: 32
+    }   
   }
 ]
 ---

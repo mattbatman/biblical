@@ -1,7 +1,7 @@
 ---
 title: "Exodus"
 publishDate: "26 Jan 2024"
-tags: ["Egypt", "Horeb", "God's mountain", "burning bush", "magicians"]
+tags: ["Egypt", "Horeb", "God's mountain", "burning bush", "magicians", "Goshen"]
 people: ["Moses", "Zipporah", "Gershom", "Aaron", "Jethro"]
 outline: [
 	{
@@ -114,7 +114,7 @@ outline: [
       book: "Exodus",
       chapter: 8,
       verse: 8
-    }   
+    }
   },
   {
      text: "God allows the frogs to die, but Pharaoh goes back on his word",
@@ -122,7 +122,7 @@ outline: [
       book: "Exodus",
       chapter: 8,
       verse: 12
-    }   
+    }
   },
   {
      text: "Moses and Aaron bring a plague of lice",
@@ -130,7 +130,7 @@ outline: [
       book: "Exodus",
       chapter: 8,
       verse: 16
-    }   
+    }
   },
   {
     text: "Moses and Aaron bring a swarm of flies",
@@ -138,7 +138,7 @@ outline: [
       book: "Exodus",
       chapter: 8,
       verse: 20
-    }   
+    }
   },
   {
     text: "Pharaoh relents, and tells Moses and Aaron to take the Hebrews into the wilderness to sacrifice to God",
@@ -146,7 +146,7 @@ outline: [
       book: "Exodus",
       chapter: 8,
       verse: 25
-    }   
+    }
   },
   {
     text: "Pharaoh goes back on his word",
@@ -154,7 +154,39 @@ outline: [
       book: "Exodus",
       chapter: 8,
       verse: 32
-    }   
+    }
+  },
+  {
+    text: "God killed all the livestock of the Egyptians, but not the children of Israel",
+    start: {
+      book: "Exodus",
+      chapter: 9,
+      verse: 1
+    }
+  },
+  {
+    text: "God gave all the Egyptians boils and blisters",
+    start: {
+      book: "Exodus",
+      chapter: 9,
+      verse: 8
+    }
+  },
+  {
+    text: "God caused it to hail on Egypt",
+    start: {
+      book: "Exodus",
+      chapter: 9,
+      verse: 13
+    }
+  },
+  {
+    text: "Pharaoh relented again to let the children of Israel go, then changed his mind and went back on his word once the hail stopped",
+    start: {
+      book: "Exodus",
+      chapter: 9,
+      verse: 27
+    }
   }
 ]
 ---

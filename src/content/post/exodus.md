@@ -1,7 +1,7 @@
 ---
 title: "Exodus"
 publishDate: "26 Jan 2024"
-tags: ["Egypt", "Horeb", "God's mountain", "burning bush", "magicians", "Goshen"]
+tags: ["Egypt", "Horeb", "God's mountain", "burning bush", "magicians", "Goshen", "locust", "plague"]
 people: ["Moses", "Zipporah", "Gershom", "Aaron", "Jethro"]
 outline: [
 	{
@@ -186,6 +186,30 @@ outline: [
       book: "Exodus",
       chapter: 9,
       verse: 27
+    }
+  },
+  {
+    text: "Moses and Aaron brough a plague of locust. Pharaoh agrees to let them go and changes his mind again.",
+    start: {
+      book: "Exodus",
+      chapter: 10,
+      verse: 1
+    }
+  },
+  {
+    text: "Moses brought darkness over Egypt for three days",
+    start: {
+      book: "Exodus",
+      chapter: 10,
+      verse: 21
+    }
+  },
+  {
+    text: "Moses warned Pharaoh he would bring a plague to kill all firstborns in Egypt",
+    start: {
+      book: "Exodus",
+      chapter: 11,
+      verse: 1
     }
   }
 ]

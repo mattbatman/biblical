@@ -222,7 +222,7 @@ outline: [
   },
   {
     text: "Pharaoh lets the children of Israel go",
-    text: {
+    start: {
       book: "Exodus",
       chapter: 12,
       verse: 29
@@ -230,7 +230,7 @@ outline: [
   },
   {
     text: "God commands the children of Israel to sacrifice a lamb for all firstborn livestock and sons",
-    text: {
+    start: {
       book: "Exodus",
       chapter: 13,
       verse: 1
@@ -238,10 +238,18 @@ outline: [
   },
   {
     text: "Moses took the bones of Joseph and the children of Israel followed Yahweh as a pillar of cloud by day and a pillar of fire by night",
-    text: {
+    start: {
       book: "Exodus",
       chapter: 13,
       verse: 17
+    }
+  },
+  {
+    text: "Pharaoh pursues the children of Israel",
+    start: {
+      book: "Exodus",
+      chapter: 14,
+      verse: 1
     }
   }
 ]

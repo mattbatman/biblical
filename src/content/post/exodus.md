@@ -1,7 +1,7 @@
 ---
 title: "Exodus"
 publishDate: "26 Jan 2024"
-tags: ["Egypt", "Horeb", "God's mountain", "burning bush", "magicians", "Goshen", "locust", "plague"]
+tags: ["Egypt", "Horeb", "God's mountain", "burning bush", "magicians", "Goshen", "locust", "plague", "Passover"]
 people: ["Moses", "Zipporah", "Gershom", "Aaron", "Jethro"]
 outline: [
 	{
@@ -210,6 +210,22 @@ outline: [
       book: "Exodus",
       chapter: 11,
       verse: 1
+    }
+  },
+  {
+    text: "Passover",
+    start: {
+      book: "Exodus",
+      chapter: 12,
+      verse: 1
+    }
+  },
+  {
+    text: "Pharaoh lets the children of Israel go",
+    text: {
+      book: "Exodus",
+      chapter: 12,
+      verse: 29
     }
   }
 ]

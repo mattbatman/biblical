@@ -1,7 +1,7 @@
 ---
 title: "Exodus"
 publishDate: "26 Jan 2024"
-tags: ["Egypt", "Horeb", "God's mountain", "burning bush", "magicians", "Goshen", "locust", "plague", "Passover"]
+tags: ["Egypt", "Horeb", "God's mountain", "burning bush", "magicians", "Goshen", "locust", "plague", "Passover", "Ramses", "milk and honey", "unleavened bread", "lamb", "Red Sea"]
 people: ["Moses", "Zipporah", "Gershom", "Aaron", "Jethro"]
 outline: [
 	{
@@ -226,6 +226,22 @@ outline: [
       book: "Exodus",
       chapter: 12,
       verse: 29
+    }
+  },
+  {
+    text: "God commands the children of Israel to sacrifice a lamb for all firstborn livestock and sons",
+    text: {
+      book: "Exodus",
+      chapter: 13,
+      verse: 1
+    }
+  },
+  {
+    text: "Moses took the bones of Joseph and the children of Israel followed Yahweh as a pillar of cloud by day and a pillar of fire by night",
+    text: {
+      book: "Exodus",
+      chapter: 13,
+      verse: 17
     }
   }
 ]

@@ -265,7 +265,7 @@ outline: [
 
 ## Points of Interest
 
-* [Genesis 4:24](#GEN4V24) What does this mean? Why does God suddenly want to kill Moses? Why does Zipporah know that circumcising their son will lessen God's anger?
+* [Exodus 4:24](#GEN4V24) What does this mean? Why does God suddenly want to kill Moses? Why does Zipporah know that circumcising their son will lessen God's anger?
 
 ## World English Bible Text
 

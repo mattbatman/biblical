@@ -251,6 +251,14 @@ outline: [
       chapter: 14,
       verse: 1
     }
+  },
+  {
+    text: "Moses parts the sea. The children of Israel walk through the parted waters. The Egyptians pursue. Yahweh closes the waters on the Egyptians while in the middle of the sea.",
+    start: {
+      book: "Exodus",
+      chapter: 14,
+      verse: 15
+    }
   }
 ]
 ---

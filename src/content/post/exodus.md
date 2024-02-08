@@ -266,7 +266,7 @@ outline: [
 ## Points of Interest
 
 * [Exodus 4:24](#EXO4V24) What does this mean? Why does God suddenly want to kill Moses? Why does Zipporah know that circumcising their son will lessen God's anger?
-* [Exodus 15:19](#EXO15V19) It seems that an angel was physically accompanying the children of Israel in their flight from Egypt, and the pillar of fire and of cloud was physically there as well. Yahweh seemed to use this to see from.
+* [Exodus 14:19](#EXO15V19) It seems that an angel was physically accompanying the children of Israel in their flight from Egypt, and the pillar of fire and of cloud was physically there as well. Yahweh seemed to use this to see from.
 
 ## World English Bible Text
 

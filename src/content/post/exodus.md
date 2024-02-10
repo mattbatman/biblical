@@ -2,7 +2,7 @@
 title: "Exodus"
 publishDate: "26 Jan 2024"
 tags: ["Egypt", "Horeb", "God's mountain", "burning bush", "magicians", "Goshen", "locust", "plague", "Passover", "Ramses", "milk and honey", "unleavened bread", "lamb", "Red Sea", "manna", "Canaan"]
-people: ["Moses", "Zipporah", "Gershom", "Aaron", "Jethro"]
+people: ["Moses", "Zipporah", "Gershom", "Aaron", "Jethro", "Joshua", "Amalek"]
 outline: [
 	{
 		text: "The descendants of Jacob multiplied, and the Pharoah feared their numbers and relative success, so he ordered all midwives to throw their newborn males in the river",
@@ -266,6 +266,22 @@ outline: [
       book: "Exodus",
       chapter: 16,
       verse: 4
+    }
+  },
+  {
+    text: "Moses struck a rock with his rod and water came out of it for the children of Israel.",
+    start: {
+      book: "Exodus",
+      chapter: 17,
+      verse: 1
+    }
+  },
+  {
+    text: "Amalek and his people fought the Israelites, and when Moses held his staff above his head, the Israelites would start to win.",
+    start: {
+      book: "Exodus",
+      chapter: 17,
+      verse: 8
     }
   }
 ]

@@ -1,7 +1,7 @@
 ---
 title: "Exodus"
 publishDate: "26 Jan 2024"
-tags: ["Egypt", "Horeb", "God's mountain", "burning bush", "magicians", "Goshen", "locust", "plague", "Passover", "Ramses", "milk and honey", "unleavened bread", "lamb", "Red Sea"]
+tags: ["Egypt", "Horeb", "God's mountain", "burning bush", "magicians", "Goshen", "locust", "plague", "Passover", "Ramses", "milk and honey", "unleavened bread", "lamb", "Red Sea", "manna", "Canaan"]
 people: ["Moses", "Zipporah", "Gershom", "Aaron", "Jethro"]
 outline: [
 	{
@@ -258,6 +258,14 @@ outline: [
       book: "Exodus",
       chapter: 14,
       verse: 15
+    }
+  },
+  {
+    text: "Yahweh provided the children of Israel bread to eat for forty years, until they came to the border of Canaan.",
+    start: {
+      book: "Exodus",
+      chapter: 16,
+      verse: 4
     }
   }
 ]

@@ -283,6 +283,14 @@ outline: [
       chapter: 17,
       verse: 8
     }
+  },
+  {
+    text: "Moses brought the children of Israel by his father-in-law, Jethro. Jethro witnessed Moses acting as judge in all matters for the people, and advised him that God commands that Moses appoint judges for smaller matters.",
+    start: {
+      book: "Exodus",
+      chapter: 18,
+      verse: 1
+    }
   }
 ]
 ---

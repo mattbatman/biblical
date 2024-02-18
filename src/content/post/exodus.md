@@ -5,7 +5,7 @@ tags: ["Egypt", "Horeb", "God's mountain", "burning bush", "magicians", "Goshen"
 people: ["Moses", "Zipporah", "Gershom", "Aaron", "Jethro", "Joshua", "Amalek"]
 outline: [
 	{
-		treceivese descendants of Jacob multiplied, and the Pharoah feared their numbers and relative success, so he ordered all midwives to throw their newborn males in the river",
+		text: "The descendants of Jacob multiplied, and the Pharaoh feared their numbers and relative success, so he ordered all midwives to throw their newborn males in the river",
 		start: {
 			book: "Exodus",
 			chapter: 1,
@@ -37,7 +37,7 @@ outline: [
 		}
 	},
 	{
-		text: "Moses defends the daughts of Midian from sheperds, and takes Zipporah as a wife",
+		text: "Moses defends the daughters of Midian from sheperds, and takes Zipporah as a wife",
 		start: {
 			book: "Exodus",
 			chapter: 2,

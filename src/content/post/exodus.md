@@ -307,6 +307,14 @@ outline: [
       chapter: 20,
       verse: 1
     }   
+  },
+{
+    text: "God provides further ordinances",
+     start: {
+      book: "Exodus",
+      chapter: 21,
+      verse: 1
+    }   
   }
 ]
 ---

@@ -1,11 +1,11 @@
 ---
 title: "Exodus"
 publishDate: "26 Jan 2024"
-tags: ["Egypt", "Horeb", "God's mountain", "burning bush", "magicians", "Goshen", "locust", "plague", "Passover", "Ramses", "milk and honey", "unleavened bread", "lamb", "Red Sea", "manna", "Canaan", "Mount Sinai", "10 Commandments", "slavery"]
+tags: ["Egypt", "Horeb", "God's mountain", "burning bush", "magicians", "Goshen", "locust", "plague", "Passover", "Ramses", "milk and honey", "unleavened bread", "lamb", "Red Sea", "manna", "Canaan", "Mount Sinai", "10 Commandments", "slavery", "cherubim", "ark of the covenant"]
 people: ["Moses", "Zipporah", "Gershom", "Aaron", "Jethro", "Joshua", "Amalek"]
 outline: [
 	{
-		text: "The descendants of Jacob multiplied, and the Pharoah feared their numbers and relative success, so he ordered all midwives to throw their newborn males in the river",
+		treceivese descendants of Jacob multiplied, and the Pharoah feared their numbers and relative success, so he ordered all midwives to throw their newborn males in the river",
 		start: {
 			book: "Exodus",
 			chapter: 1,
@@ -308,12 +308,28 @@ outline: [
       verse: 1
     }   
   },
-{
+  {
     text: "God provides further ordinances",
      start: {
       book: "Exodus",
       chapter: 21,
       verse: 1
+    }   
+  },
+  {
+    text: "Moses went up on Mount Sinai to get the stone tablets of the commandments",
+     start: {
+      book: "Exodus",
+      chapter: 24,
+      verse: 12
+    }   
+  },
+  {
+    text: "Moses receives instructions for the ark of the covenant",
+     start: {
+      book: "Exodus",
+      chapter: 25,
+      verse: 10
     }   
   }
 ]

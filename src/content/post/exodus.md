@@ -1,7 +1,7 @@
 ---
 title: "Exodus"
 publishDate: "26 Jan 2024"
-tags: ["Egypt", "Horeb", "God's mountain", "burning bush", "magicians", "Goshen", "locust", "plague", "Passover", "Ramses", "milk and honey", "unleavened bread", "lamb", "Red Sea", "manna", "Canaan", "Mount Sinai", "10 Commandments"]
+tags: ["Egypt", "Horeb", "God's mountain", "burning bush", "magicians", "Goshen", "locust", "plague", "Passover", "Ramses", "milk and honey", "unleavened bread", "lamb", "Red Sea", "manna", "Canaan", "Mount Sinai", "10 Commandments", "slavery"]
 people: ["Moses", "Zipporah", "Gershom", "Aaron", "Jethro", "Joshua", "Amalek"]
 outline: [
 	{

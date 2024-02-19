@@ -347,6 +347,14 @@ outline: [
       chapter: 27,
       verse: 1
     }   
+  },
+  {
+    text: "God provides instructions for Aaron as a minister and his garments",
+     start: {
+      book: "Exodus",
+      chapter: 28,
+      verse: 1
+    }   
   }
 ]
 ---

@@ -355,6 +355,14 @@ outline: [
       chapter: 28,
       verse: 1
     }   
+  },
+  {
+    text: "God provides instructions for sacrifices to be made",
+     start: {
+      book: "Exodus",
+      chapter: 29,
+      verse: 1
+    }   
   }
 ]
 ---

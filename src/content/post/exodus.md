@@ -1,7 +1,7 @@
 ---
 title: "Exodus"
 publishDate: "26 Jan 2024"
-tags: ["Egypt", "Horeb", "God's mountain", "burning bush", "magicians", "Goshen", "locust", "plague", "Passover", "Ramses", "milk and honey", "unleavened bread", "lamb", "Red Sea", "manna", "Canaan", "Mount Sinai", "10 Commandments", "slavery", "cherubim", "ark of the covenant"]
+tags: ["Egypt", "Horeb", "God's mountain", "burning bush", "magicians", "Goshen", "locust", "plague", "Passover", "Ramses", "milk and honey", "unleavened bread", "lamb", "Red Sea", "manna", "Canaan", "Mount Sinai", "10 Commandments", "slavery", "cherubim", "ark of the covenant", "Tent of Meeting"]
 people: ["Moses", "Zipporah", "Gershom", "Aaron", "Jethro", "Joshua", "Amalek"]
 outline: [
 	{
@@ -330,6 +330,22 @@ outline: [
       book: "Exodus",
       chapter: 25,
       verse: 10
+    }   
+  },
+  {
+    text: "God provides instructions for a tabernacle",
+     start: {
+      book: "Exodus",
+      chapter: 26,
+      verse: 1
+    }   
+  },
+  {
+    text: "God provides instructions for making an alter and court for the tabernacle",
+     start: {
+      book: "Exodus",
+      chapter: 27,
+      verse: 1
     }   
   }
 ]

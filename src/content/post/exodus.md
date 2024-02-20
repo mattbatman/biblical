@@ -1,8 +1,8 @@
 ---
 title: "Exodus"
 publishDate: "26 Jan 2024"
-tags: ["Egypt", "Horeb", "God's mountain", "burning bush", "magicians", "Goshen", "locust", "plague", "Passover", "Ramses", "milk and honey", "unleavened bread", "lamb", "Red Sea", "manna", "Canaan", "Mount Sinai", "10 Commandments", "slavery", "cherubim", "ark of the covenant", "Tent of Meeting"]
-people: ["Moses", "Zipporah", "Gershom", "Aaron", "Jethro", "Joshua", "Amalek"]
+tags: ["Egypt", "Horeb", "God's mountain", "burning bush", "magicians", "Goshen", "locust", "plague", "Passover", "Ramses", "milk and honey", "unleavened bread", "lamb", "Red Sea", "manna", "Canaan", "Mount Sinai", "10 Commandments", "slavery", "cherubim", "ark of the covenant", "Tent of Meeting", "animal sacrifice", "incense", "tithe", "myrrh", "anointing oil", "frankincense", "perfume"]
+people: ["Moses", "Zipporah", "Gershom", "Aaron", "Jethro", "Joshua", "Amalek", "Bezalel", "Oholiab"]
 outline: [
 	{
 		text: "The descendants of Jacob multiplied, and the Pharaoh feared their numbers and relative success, so he ordered all midwives to throw their newborn males in the river",
@@ -362,6 +362,38 @@ outline: [
       book: "Exodus",
       chapter: 29,
       verse: 1
+    }   
+  },
+  {
+    text: "God provides instructions for making an altar, monetary sacrifices, and fragrances",
+     start: {
+      book: "Exodus",
+      chapter: 30,
+      verse: 1
+    }   
+  },
+  {
+    text: "God appoints Bezalel and Oholiab to make everything he's provided instructions for",
+     start: {
+      book: "Exodus",
+      chapter: 31,
+      verse: 1
+    }   
+  },
+  {
+    text: "God warns the Children of Israel to keep the Sabbath holy",
+     start: {
+      book: "Exodus",
+      chapter: 31,
+      verse: 12
+    }   
+  },
+  {
+    text: "God gives Moses two stone tablets of the covenant written with God's finger",
+     start: {
+      book: "Exodus",
+      chapter: 31,
+      verse: 18
     }   
   }
 ]

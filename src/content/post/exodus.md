@@ -1,7 +1,7 @@
 ---
 title: "Exodus"
 publishDate: "26 Jan 2024"
-tags: ["Egypt", "Horeb", "God's mountain", "burning bush", "magicians", "Goshen", "locust", "plague", "Passover", "Ramses", "milk and honey", "unleavened bread", "lamb", "Red Sea", "manna", "Canaan", "Mount Sinai", "10 Commandments", "slavery", "cherubim", "ark of the covenant", "Tent of Meeting", "animal sacrifice", "incense", "tithe", "myrrh", "anointing oil", "frankincense", "perfume"]
+tags: ["Egypt", "Horeb", "God's mountain", "burning bush", "magicians", "Goshen", "locust", "plague", "Passover", "Ramses", "milk and honey", "unleavened bread", "lamb", "Red Sea", "manna", "Canaan", "Mount Sinai", "10 Commandments", "slavery", "cherubim", "ark of the covenant", "Tent of Meeting", "animal sacrifice", "incense", "tithe", "myrrh", "anointing oil", "frankincense", "perfume", "golden calf", "stiff-necked", "stone tablets"]
 people: ["Moses", "Zipporah", "Gershom", "Aaron", "Jethro", "Joshua", "Amalek", "Bezalel", "Oholiab"]
 outline: [
 	{
@@ -394,6 +394,46 @@ outline: [
       book: "Exodus",
       chapter: 31,
       verse: 18
+    }   
+  },
+  {
+    text: "The children of Israel made a golden calf to worship while Moses was away",
+     start: {
+      book: "Exodus",
+      chapter: 32,
+      verse: 1
+    }   
+  },
+  {
+    text: "Moses convinces God not to kill all of the children of Israel",
+     start: {
+      book: "Exodus",
+      chapter: 32,
+      verse: 10
+    }   
+  },
+  {
+    text: "Moses sees the golden calf and people worshipping it, gets angry, breaks the stone tablets, ground the calf, and makes the people drink it in water",
+     start: {
+      book: "Exodus",
+      chapter: 32,
+      verse: 18
+    }   
+  },
+  {
+    text: "God tells Moses to have the people continue their journey, but that he would no longer travel with them",
+     start: {
+      book: "Exodus",
+      chapter: 33,
+      verse: 1
+    }   
+  },
+  {
+    text: "Moses requests that Yahweh continue to travel before them while talking in the Tent of Meeting. Yahweh agrees to go before them, but says they cannot his face, or they will die. They will only see his back.",
+     start: {
+      book: "Exodus",
+      chapter: 33,
+      verse: 12
     }   
   }
 ]

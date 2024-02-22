@@ -1,7 +1,7 @@
 ---
 title: "Exodus"
 publishDate: "26 Jan 2024"
-tags: ["Egypt", "Horeb", "God's mountain", "burning bush", "magicians", "Goshen", "locust", "plague", "Passover", "Ramses", "milk and honey", "unleavened bread", "lamb", "Red Sea", "manna", "Canaan", "Mount Sinai", "10 Commandments", "slavery", "cherubim", "ark of the covenant", "Tent of Meeting", "animal sacrifice", "incense", "tithe", "myrrh", "anointing oil", "frankincense", "perfume", "golden calf", "stiff-necked", "stone tablets"]
+tags: ["Egypt", "Horeb", "God's mountain", "burning bush", "magicians", "Goshen", "locust", "plague", "Passover", "Ramses", "milk and honey", "unleavened bread", "lamb", "Red Sea", "manna", "Canaan", "Mount Sinai", "10 Commandments", "slavery", "cherubim", "ark of the covenant", "Tent of Meeting", "animal sacrifice", "incense", "tithe", "myrrh", "anointing oil", "frankincense", "perfume", "golden calf", "stiff-necked", "stone tablets", "covenant", "jealous God", "veil"]
 people: ["Moses", "Zipporah", "Gershom", "Aaron", "Jethro", "Joshua", "Amalek", "Bezalel", "Oholiab"]
 outline: [
 	{
@@ -434,6 +434,22 @@ outline: [
       book: "Exodus",
       chapter: 33,
       verse: 12
+    }   
+  },
+  {
+    text: "God commands Moses to chisel two more stone tablets that he will write on",
+     start: {
+      book: "Exodus",
+      chapter: 34,
+      verse: 1
+    }   
+  },
+  {
+    text: "After forty more days, Moses came down from Mount Sinai with the tablets. His face shone, and Moses began wearing a veil.",
+     start: {
+      book: "Exodus",
+      chapter: 34,
+      verse: 39
     }   
   }
 ]

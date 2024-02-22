@@ -1,7 +1,7 @@
 ---
 title: "Exodus"
 publishDate: "26 Jan 2024"
-tags: ["Egypt", "Horeb", "God's mountain", "burning bush", "magicians", "Goshen", "locust", "plague", "Passover", "Ramses", "milk and honey", "unleavened bread", "lamb", "Red Sea", "manna", "Canaan", "Mount Sinai", "10 Commandments", "slavery", "cherubim", "ark of the covenant", "Tent of Meeting", "animal sacrifice", "incense", "tithe", "myrrh", "anointing oil", "frankincense", "perfume", "golden calf", "stiff-necked", "stone tablets", "covenant", "jealous God", "veil"]
+tags: ["Egypt", "Horeb", "God's mountain", "burning bush", "magicians", "Goshen", "locust", "plague", "Passover", "Ramses", "milk and honey", "unleavened bread", "lamb", "Red Sea", "manna", "Canaan", "Mount Sinai", "10 Commandments", "slavery", "cherubim", "ark of the covenant", "Tent of Meeting", "animal sacrifice", "incense", "tithe", "myrrh", "anointing oil", "frankincense", "perfume", "golden calf", "stiff-necked", "stone tablets", "covenant", "jealous God", "veil", "free will", "offering"]
 people: ["Moses", "Zipporah", "Gershom", "Aaron", "Jethro", "Joshua", "Amalek", "Bezalel", "Oholiab"]
 outline: [
 	{
@@ -450,6 +450,14 @@ outline: [
       book: "Exodus",
       chapter: 34,
       verse: 39
+    }   
+  },
+  {
+    text: "Moses conveys the commandments to the Children of Israel, and they make offerings to God",
+     start: {
+      book: "Exodus",
+      chapter: 35,
+      verse: 1
     }   
   }
 ]

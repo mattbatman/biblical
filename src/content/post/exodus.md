@@ -459,6 +459,14 @@ outline: [
       chapter: 35,
       verse: 1
     }   
+  },
+  {
+    text: "The Children of Israel begin building the tabernacle",
+     start: {
+      book: "Exodus",
+      chapter: 36,
+      verse: 1
+    }   
   }
 ]
 ---

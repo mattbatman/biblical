@@ -467,6 +467,14 @@ outline: [
       chapter: 36,
       verse: 1
     }   
+  },
+  {
+    text: "Bezalel makes the ark of the covenant",
+     start: {
+      book: "Exodus",
+      chapter: 37,
+      verse: 1
+    }   
   }
 ]
 ---

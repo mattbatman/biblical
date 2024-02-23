@@ -475,6 +475,14 @@ outline: [
       chapter: 37,
       verse: 1
     }   
+  },
+  {
+    text: "The altar was made, and an accounting of materials for all construction provided,
+     start: {
+      book: "Exodus",
+      chapter: 38,
+      verse: 1
+    }   
   }
 ]
 ---

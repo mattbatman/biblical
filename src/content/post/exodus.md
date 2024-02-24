@@ -483,6 +483,14 @@ outline: [
       chapter: 38,
       verse: 1
     }   
+  },
+  {
+    text: "They made holy garments for Aaron",
+     start: {
+      book: "Exodus",
+      chapter: 39,
+      verse: 1
+    }   
   }
 ]
 ---

@@ -491,6 +491,14 @@ outline: [
       chapter: 39,
       verse: 1
     }   
+  },
+  {
+    text: "Everything they built was assembled",
+     start: {
+      book: "Exodus",
+      chapter: 40,
+      verse: 1
+    }   
   }
 ]
 ---

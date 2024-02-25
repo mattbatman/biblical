@@ -11,6 +11,14 @@ outline: [
 			chapter: 1,
 			verse: 1
 		}
+	},
+  {
+		text: "Yahweh provides instructions to Moses on meal offerings",
+		start: {
+			book: "Leviticus",
+			chapter: 2,
+			verse: 1
+		}
 	}
 ]
 ---

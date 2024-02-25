@@ -3,7 +3,16 @@ title: "Leviticus"
 publishDate: "24 Feb 2024"
 tags: []
 people: []
-outline: []
+outline: [
+  {
+		text: "Yahweh provides instructions to Moses on offerings of livestock",
+		start: {
+			book: "Leviticus",
+			chapter: 1,
+			verse: 1
+		}
+	}
+]
 ---
 
 ## World English Bible Text

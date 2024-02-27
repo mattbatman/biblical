@@ -19,6 +19,14 @@ outline: [
 			chapter: 2,
 			verse: 1
 		}
+	},
+  {
+		text: "Yahweh provides instructions to Moses on peace offerings",
+		start: {
+			book: "Leviticus",
+			chapter: 3,
+			verse: 1
+		}
 	}
 ]
 ---

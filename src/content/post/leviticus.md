@@ -27,6 +27,14 @@ outline: [
 			chapter: 3,
 			verse: 1
 		}
+	},
+  {
+		text: "Yahweh provides instructions to Moses on various sin offerings",
+		start: {
+			book: "Leviticus",
+			chapter: 4,
+			verse: 1
+		}
 	}
 ]
 ---

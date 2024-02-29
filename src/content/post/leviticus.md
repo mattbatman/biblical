@@ -35,6 +35,14 @@ outline: [
 			chapter: 4,
 			verse: 1
 		}
+	},
+  {
+		text: "Yahweh provides instructions to Moses on guilt surrounding oaths, touching unclean things, and guilt offerings",
+		start: {
+			book: "Leviticus",
+			chapter: 5,
+			verse: 1
+		}
 	}
 ]
 ---

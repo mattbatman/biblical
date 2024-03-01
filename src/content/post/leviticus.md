@@ -51,6 +51,14 @@ outline: [
 			chapter: 6,
 			verse: 1
 		}
+	},
+  {
+		text: "Yahweh provides instructions to Moses on eating and offerings",
+		start: {
+			book: "Leviticus",
+			chapter: 7,
+			verse: 1
+		}
 	}
 ]
 ---

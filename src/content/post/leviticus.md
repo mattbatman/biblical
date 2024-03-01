@@ -43,6 +43,14 @@ outline: [
 			chapter: 5,
 			verse: 1
 		}
+	},
+  {
+		text: "Yahweh provides instructions to Moses on trespass offerings",
+		start: {
+			book: "Leviticus",
+			chapter: 6,
+			verse: 1
+		}
 	}
 ]
 ---

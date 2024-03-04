@@ -59,6 +59,14 @@ outline: [
 			chapter: 7,
 			verse: 1
 		}
+	},
+  {
+		text: "Moses dressed Aaron and his sons, made a sin offering and a consecration offering",
+		start: {
+			book: "Leviticus",
+			chapter: 8,
+			verse: 1
+		}
 	}
 ]
 ---

@@ -1,8 +1,8 @@
 ---
 title: "Leviticus"
 publishDate: "24 Feb 2024"
-tags: ["sacrifice", "Tent of Meeting", "offering"]
-people: ["Moses", "Aaron"]
+tags: ["sacrifice", "Tent of Meeting", "offering", "incense"]
+people: ["Moses", "Aaron", "Nadab", "Abihu"]
 outline: [
   {
 		text: "Yahweh provides instructions to Moses on offerings of livestock",
@@ -74,6 +74,14 @@ outline: [
 			book: "Leviticus",
 			chapter: 9,
 			verse: 23
+		}
+	},
+  {
+		text: "Two of Aaron's sons were consumed by fire after improper offerings",
+		start: {
+			book: "Leviticus",
+			chapter: 10,
+			verse: 1
 		}
 	}
 ]

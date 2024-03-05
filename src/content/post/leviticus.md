@@ -1,8 +1,8 @@
 ---
 title: "Leviticus"
 publishDate: "24 Feb 2024"
-tags: []
-people: []
+tags: ["sacrifice", "Tent of Meeting", "offering"]
+people: ["Moses", "Aaron"]
 outline: [
   {
 		text: "Yahweh provides instructions to Moses on offerings of livestock",
@@ -66,6 +66,14 @@ outline: [
 			book: "Leviticus",
 			chapter: 8,
 			verse: 1
+		}
+	},
+  {
+		text: "Yahweh's glory appeared before the people and consumed the burnt offerings",
+		start: {
+			book: "Leviticus",
+			chapter: 9,
+			verse: 23
 		}
 	}
 ]

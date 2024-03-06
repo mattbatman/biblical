@@ -99,6 +99,14 @@ outline: [
 			chapter: 12,
 			verse: 1
 		}
+	},
+  {
+		text: "Yahweh instructs Moses on handling potential leprosy",
+		start: {
+			book: "Leviticus",
+			chapter: 13,
+			verse: 1
+		}
 	}
 ]
 ---

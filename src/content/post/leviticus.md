@@ -83,6 +83,14 @@ outline: [
 			chapter: 10,
 			verse: 1
 		}
+	},
+  {
+		text: "Yahweh instructs Moses on things that shall not be eaten",
+		start: {
+			book: "Leviticus",
+			chapter: 11,
+			verse: 1
+		}
 	}
 ]
 ---

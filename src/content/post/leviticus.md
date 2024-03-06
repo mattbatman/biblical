@@ -91,6 +91,14 @@ outline: [
 			chapter: 11,
 			verse: 1
 		}
+	},
+  {
+		text: "Yahweh instructs Moses on sacrifices and rules for women who conceive",
+		start: {
+			book: "Leviticus",
+			chapter: 12,
+			verse: 1
+		}
 	}
 ]
 ---

@@ -123,6 +123,14 @@ outline: [
 			chapter: 15,
 			verse: 1
 		}
+	},
+  {
+		text: "Yahweh provides specific sacrifice instructions for Aaron to perform",
+		start: {
+			book: "Leviticus",
+			chapter: 16,
+			verse: 1
+		}
 	}
 ]
 ---

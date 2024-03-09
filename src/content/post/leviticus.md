@@ -107,6 +107,14 @@ outline: [
 			chapter: 13,
 			verse: 1
 		}
+	},
+  {
+		text: "Yahweh provides the law of leprosy",
+		start: {
+			book: "Leviticus",
+			chapter: 14,
+			verse: 1
+		}
 	}
 ]
 ---

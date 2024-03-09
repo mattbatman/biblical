@@ -115,6 +115,14 @@ outline: [
 			chapter: 14,
 			verse: 1
 		}
+	},
+  {
+		text: "Yahweh provides laws around bodily discharge",
+		start: {
+			book: "Leviticus",
+			chapter: 15,
+			verse: 1
+		}
 	}
 ]
 ---

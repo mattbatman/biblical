@@ -1,7 +1,7 @@
 ---
 title: "Leviticus"
 publishDate: "24 Feb 2024"
-tags: ["sacrifice", "Tent of Meeting", "offering", "incense"]
+tags: ["sacrifice", "Tent of Meeting", "offering", "incense", "Molech"]
 people: ["Moses", "Aaron", "Nadab", "Abihu"]
 outline: [
   {
@@ -133,10 +133,18 @@ outline: [
 		}
 	},
   {
-		text: "Yahweh provides instructions concerning sacrifices being brought to the Tent of Meeting, dealing with blood, and dealing with animals that are already dead ",
+		text: "Yahweh provides instructions concerning sacrifices being brought to the Tent of Meeting, dealing with blood, and dealing with animals that are already dead",
 		start: {
 			book: "Leviticus",
 			chapter: 17,
+			verse: 1
+		}
+	},
+  {
+		text: "Yahweh prohibits incest, adultery, bestiality, same-sex sexual activity, and provides a general outline of sexual misconduct",
+		start: {
+			book: "Leviticus",
+			chapter: 18,
 			verse: 1
 		}
 	}

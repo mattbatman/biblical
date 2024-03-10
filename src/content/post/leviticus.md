@@ -131,6 +131,14 @@ outline: [
 			chapter: 16,
 			verse: 1
 		}
+	},
+  {
+		text: "Yahweh provides instructions concerning sacrifices being brought to the Tent of Meeting, dealing with blood, and dealing with animals that are already dead ",
+		start: {
+			book: "Leviticus",
+			chapter: 17,
+			verse: 1
+		}
 	}
 ]
 ---

@@ -147,6 +147,22 @@ outline: [
 			chapter: 18,
 			verse: 1
 		}
+	},
+  {
+		text: "Yahweh forbids child sacrifices to Molech and lays out terms for various sexual sins",
+		start: {
+			book: "Leviticus",
+			chapter: 20,
+			verse: 1
+		}
+	},
+  {
+		text: "Yahweh provides various rules for priests",
+		start: {
+			book: "Leviticus",
+			chapter: 21,
+			verse: 1
+		}
 	}
 ]
 ---

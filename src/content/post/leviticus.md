@@ -163,6 +163,14 @@ outline: [
 			chapter: 21,
 			verse: 1
 		}
+	},
+  {
+		text: "Yahweh provides instruction on unacceptable or defective offerings",
+		start: {
+			book: "Leviticus",
+			chapter: 22,
+			verse: 17
+		}
 	}
 ]
 ---

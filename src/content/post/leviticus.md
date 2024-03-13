@@ -171,6 +171,14 @@ outline: [
 			chapter: 22,
 			verse: 17
 		}
+	},
+  {
+		text: "Yahweh provides instruction on feasts",
+		start: {
+			book: "Leviticus",
+			chapter: 23,
+			verse: 1
+		}
 	}
 ]
 ---

@@ -179,6 +179,22 @@ outline: [
 			chapter: 23,
 			verse: 1
 		}
+	},
+  {
+		text: "Yahweh provides instruction on burning olive oil and offering bread as sacrifice",
+		start: {
+			book: "Leviticus",
+			chapter: 24,
+			verse: 1
+		}
+	},
+  {
+		text: "Yahweh condemns blasphemers to be stoned",
+		start: {
+			book: "Leviticus",
+			chapter: 24,
+			verse: 10
+		}
 	}
 ]
 ---

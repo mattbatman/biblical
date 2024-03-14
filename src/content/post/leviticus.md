@@ -1,7 +1,7 @@
 ---
 title: "Leviticus"
 publishDate: "24 Feb 2024"
-tags: ["sacrifice", "Tent of Meeting", "offering", "incense", "Molech"]
+tags: ["sacrifice", "Tent of Meeting", "offering", "incense", "Molech", "blasphemy", "stoning", "perversion"]
 people: ["Moses", "Aaron", "Nadab", "Abihu"]
 outline: [
   {

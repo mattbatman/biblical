@@ -1,7 +1,7 @@
 ---
 title: "Leviticus"
 publishDate: "24 Feb 2024"
-tags: ["sacrifice", "Tent of Meeting", "offering", "incense", "Molech", "blasphemy", "stoning", "perversion"]
+tags: ["sacrifice", "Tent of Meeting", "offering", "incense", "Molech", "blasphemy", "stoning", "perversion", "Jubilee"]
 people: ["Moses", "Aaron", "Nadab", "Abihu"]
 outline: [
   {
@@ -194,6 +194,14 @@ outline: [
 			book: "Leviticus",
 			chapter: 24,
 			verse: 10
+		}
+	},
+  {
+		text: "Yahweh provides instructions on the Sabbath Year and the Year of Jubilee",
+		start: {
+			book: "Leviticus",
+			chapter: 25,
+			verse: 1
 		}
 	}
 ]

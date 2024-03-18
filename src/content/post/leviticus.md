@@ -211,6 +211,14 @@ outline: [
 			chapter: 26,
 			verse: 3 
 		}
+	},
+  {
+		text: "Yahweh outlines exchanging offerings for money",
+		start: {
+			book: "Leviticus",
+			chapter: 27,
+			verse: 1
+		}
 	}
 ]
 ---

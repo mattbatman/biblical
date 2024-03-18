@@ -203,6 +203,14 @@ outline: [
 			chapter: 25,
 			verse: 1
 		}
+	},
+  {
+		text: "Yahweh lays out the consequences for keeping and breaking his laws",
+		start: {
+			book: "Leviticus",
+			chapter: 26,
+			verse: 3 
+		}
 	}
 ]
 ---

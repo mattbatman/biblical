@@ -19,6 +19,9 @@ function convertReferenceObjectToId({
 		case "Leviticus":
 			bookAbbreviation = "LEV";
 			break;
+		case "Numbers":
+			bookAbbreviation = "NUM";
+			break;
 		default:
 			break;
 	}

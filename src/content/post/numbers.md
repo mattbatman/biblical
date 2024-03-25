@@ -1,9 +1,26 @@
 ---
 title: "Numbers"
 publishDate: "20 Mar 2024"
-tags: []
-people: []
-outline: []
+tags: ["Sinai", "census", "Tabernacle of the Testimony", "Levites"]
+people: ["Moses", "Aaron"]
+outline: [
+  {
+		text: "Yahweh told Moses to take a census of those able to go to war, and he did",
+		start: {
+			book: "Numbers",
+			chapter: 1,
+			verse: 1
+		}
+	},
+  {
+		text: "Moses was instructed not to count the tribe of Levi, as they were to protect the Tabernacle of the Testimony",
+		start: {
+			book: "Numbers",
+			chapter: 1,
+			verse: 44
+		}
+	}
+]
 ---
 
 ## World English Bible Text

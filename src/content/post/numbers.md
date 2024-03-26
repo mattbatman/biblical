@@ -1,7 +1,7 @@
 ---
 title: "Numbers"
 publishDate: "20 Mar 2024"
-tags: ["Sinai", "census", "Tabernacle of the Testimony", "Levites"]
+tags: ["Sinai", "census", "Tabernacle of the Testimony", "Levites", "Tent of Meeting"]
 people: ["Moses", "Aaron"]
 outline: [
   {
@@ -18,6 +18,14 @@ outline: [
 			book: "Numbers",
 			chapter: 1,
 			verse: 44
+		}
+	},
+  {
+		text: "Yahweh instructs Moses and Aaron on the order in which the descendants are to camp with their banners",
+		start: {
+			book: "Numbers",
+			chapter: 2,
+			verse: 1
 		}
 	}
 ]

@@ -27,6 +27,14 @@ outline: [
 			chapter: 2,
 			verse: 1
 		}
+	},
+  {
+		text: "The responsibilities of the Levites are outlined",
+		start: {
+			book: "Numbers",
+			chapter: 3,
+			verse: 1
+		}
 	}
 ]
 ---

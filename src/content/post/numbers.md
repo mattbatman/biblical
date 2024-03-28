@@ -35,6 +35,14 @@ outline: [
 			chapter: 3,
 			verse: 1
 		}
+	},
+  {
+		text: "The sons of Kohathites, Gershon, and Merari were counted and duties outlined",
+		start: {
+			book: "Numbers",
+			chapter: 4,
+			verse: 1
+		}
 	}
 ]
 ---

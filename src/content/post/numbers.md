@@ -1,7 +1,7 @@
 ---
 title: "Numbers"
 publishDate: "20 Mar 2024"
-tags: ["Sinai", "census", "Tabernacle of the Testimony", "Levites", "Tent of Meeting"]
+tags: ["Sinai", "census", "Tabernacle of the Testimony", "Levites", "Tent of Meeting", "atonement", "leprosy", "frankincense", "holy water", "water of bitterness", "curse", "jealousy"]
 people: ["Moses", "Aaron"]
 outline: [
   {
@@ -42,6 +42,30 @@ outline: [
 			book: "Numbers",
 			chapter: 4,
 			verse: 1
+		}
+	},
+  {
+		text: "Lepers and others are to be put outside the camp",
+		start: {
+			book: "Numbers",
+			chapter: 5,
+			verse: 1
+		}
+	},
+  {
+		text: "Confession and restitution are commanded",
+		start: {
+			book: "Numbers",
+			chapter: 5,
+			verse: 5
+		}
+	},
+  {
+		text: "Rituals around jealousy and unfaithfulness are outlined",
+		start: {
+			book: "Numbers",
+			chapter: 5,
+			verse: 11
 		}
 	}
 ]

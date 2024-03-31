@@ -75,6 +75,14 @@ outline: [
 			chapter: 6,
 			verse: 1
 		}
+	},
+  {
+		text: "The sacrifices of various princes of Israel are described",
+		start: {
+			book: "Numbers",
+			chapter: 7,
+			verse: 1
+		}
 	}
 ]
 ---

@@ -67,6 +67,14 @@ outline: [
 			chapter: 5,
 			verse: 11
 		}
+	},
+  {
+		text: "The vow of a Nazirite is described",
+		start: {
+			book: "Numbers",
+			chapter: 6,
+			verse: 1
+		}
 	}
 ]
 ---

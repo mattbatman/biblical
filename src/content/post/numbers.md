@@ -83,6 +83,14 @@ outline: [
 			chapter: 7,
 			verse: 1
 		}
+	},
+  {
+		text: "Rules for the Levites are provided",
+		start: {
+			book: "Numbers",
+			chapter: 8,
+			verse: 1
+		}
 	}
 ]
 ---

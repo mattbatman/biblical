@@ -1,7 +1,7 @@
 ---
 title: "Numbers"
 publishDate: "20 Mar 2024"
-tags: ["Sinai", "census", "Tabernacle of the Testimony", "Levites", "Tent of Meeting", "atonement", "leprosy", "frankincense", "holy water", "water of bitterness", "curse", "jealousy", "confession"]
+tags: ["Sinai", "census", "Tabernacle of the Testimony", "Levites", "Tent of Meeting", "atonement", "leprosy", "frankincense", "holy water", "water of bitterness", "curse", "jealousy", "passover", "confession", "sinai"]
 people: ["Moses", "Aaron"]
 outline: [
   {
@@ -89,6 +89,14 @@ outline: [
 		start: {
 			book: "Numbers",
 			chapter: 8,
+			verse: 1
+		}
+	},
+  {
+		text: "Laws around Passover and the unclean are provided",
+		start: {
+			book: "Numbers",
+			chapter: 9,
 			verse: 1
 		}
 	}

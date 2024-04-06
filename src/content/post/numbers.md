@@ -1,7 +1,7 @@
 ---
 title: "Numbers"
 publishDate: "20 Mar 2024"
-tags: ["Sinai", "census", "Tabernacle of the Testimony", "Levites", "Tent of Meeting", "atonement", "leprosy", "frankincense", "holy water", "water of bitterness", "curse", "jealousy", "passover", "confession", "sinai"]
+tags: ["Sinai", "census", "Tabernacle of the Testimony", "Levites", "Tent of Meeting", "atonement", "leprosy", "frankincense", "holy water", "water of bitterness", "curse", "jealousy", "passover", "confession", "sinai", "trumpets", "cloud of Yahweh", "ark of the covenant"]
 people: ["Moses", "Aaron"]
 outline: [
   {
@@ -97,6 +97,14 @@ outline: [
 		start: {
 			book: "Numbers",
 			chapter: 9,
+			verse: 1
+		}
+	},
+  {
+		text: "Roles of the armies of Israel are provided",
+		start: {
+			book: "Numbers",
+			chapter: 10,
 			verse: 1
 		}
 	}

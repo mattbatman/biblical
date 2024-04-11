@@ -1,8 +1,8 @@
 ---
 title: "Numbers"
 publishDate: "20 Mar 2024"
-tags: ["Sinai", "census", "Tabernacle of the Testimony", "Levites", "Tent of Meeting", "atonement", "leprosy", "frankincense", "holy water", "water of bitterness", "curse", "jealousy", "passover", "confession", "sinai", "trumpets", "cloud of Yahweh", "ark of the covenant", "manna", "Kibroth Hattaavah"]
-people: ["Moses", "Aaron", "Eldad", "Medad"]
+tags: ["Sinai", "census", "Tabernacle of the Testimony", "Levites", "Tent of Meeting", "atonement", "leprosy", "frankincense", "holy water", "water of bitterness", "curse", "jealousy", "passover", "confession", "sinai", "trumpets", "cloud of Yahweh", "ark of the covenant", "manna", "Kibroth Hattaavah", "Cushite", "leprosy"]
+people: ["Moses", "Aaron", "Eldad", "Medad", "Miriam"]
 outline: [
   {
 		text: "Yahweh told Moses to take a census of those able to go to war, and he did",
@@ -113,6 +113,14 @@ outline: [
 		start: {
 			book: "Numbers",
 			chapter: 11,
+			verse: 1
+		}
+	},
+  {
+		text: "Aaron and Miriam spoke against Moses because he had married a Cushite woman. God gave Miriam leprosy in retribution. At the request of Moses, God allowed her to heal if she stayed outside the camp for seven days.",
+		start: {
+			book: "Numbers",
+			chapter: 12,
 			verse: 1
 		}
 	}

@@ -1,8 +1,8 @@
 ---
 title: "Numbers"
 publishDate: "20 Mar 2024"
-tags: ["Sinai", "census", "Tabernacle of the Testimony", "Levites", "Tent of Meeting", "atonement", "leprosy", "frankincense", "holy water", "water of bitterness", "curse", "jealousy", "passover", "confession", "sinai", "trumpets", "cloud of Yahweh", "ark of the covenant"]
-people: ["Moses", "Aaron"]
+tags: ["Sinai", "census", "Tabernacle of the Testimony", "Levites", "Tent of Meeting", "atonement", "leprosy", "frankincense", "holy water", "water of bitterness", "curse", "jealousy", "passover", "confession", "sinai", "trumpets", "cloud of Yahweh", "ark of the covenant", "manna", "Kibroth Hattaavah"]
+people: ["Moses", "Aaron", "Eldad", "Medad"]
 outline: [
   {
 		text: "Yahweh told Moses to take a census of those able to go to war, and he did",
@@ -105,6 +105,14 @@ outline: [
 		start: {
 			book: "Numbers",
 			chapter: 10,
+			verse: 1
+		}
+	},
+  {
+		text: "The children of Israel complained that they had no meat, and Yahweh provided quail",
+		start: {
+			book: "Numbers",
+			chapter: 11,
 			verse: 1
 		}
 	}

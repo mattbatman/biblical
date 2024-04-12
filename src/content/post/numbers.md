@@ -1,8 +1,8 @@
 ---
 title: "Numbers"
 publishDate: "20 Mar 2024"
-tags: ["Sinai", "census", "Tabernacle of the Testimony", "Levites", "Tent of Meeting", "atonement", "leprosy", "frankincense", "holy water", "water of bitterness", "curse", "jealousy", "passover", "confession", "sinai", "trumpets", "cloud of Yahweh", "ark of the covenant", "manna", "Kibroth Hattaavah", "Cushite", "leprosy"]
-people: ["Moses", "Aaron", "Eldad", "Medad", "Miriam"]
+tags: ["Sinai", "census", "Tabernacle of the Testimony", "Levites", "Tent of Meeting", "atonement", "leprosy", "frankincense", "holy water", "water of bitterness", "curse", "jealousy", "passover", "confession", "sinai", "trumpets", "cloud of Yahweh", "ark of the covenant", "manna", "Kibroth Hattaavah", "Cushite", "leprosy", "Canaan", "Nephilim"]
+people: ["Moses", "Aaron", "Eldad", "Medad", "Miriam", "Anak"]
 outline: [
   {
 		text: "Yahweh told Moses to take a census of those able to go to war, and he did",
@@ -121,6 +121,14 @@ outline: [
 		start: {
 			book: "Numbers",
 			chapter: 12,
+			verse: 1
+		}
+	},
+  {
+		text: "God commanded Moses to send spies to the land of Canaan. One attempted to convince everyone to invade immediately, but the rest warned that Nephilim resided in that place; that the people were too strong.",
+		start: {
+			book: "Numbers",
+			chapter: 13,
 			verse: 1
 		}
 	}

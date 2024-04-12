@@ -1,3 +1,10 @@
+---
+title: "Deuteronomy"
+publishDate: "12 Apr 2024"
+tags: []
+people: []
+outline: []
+---
 
 ### 1
 

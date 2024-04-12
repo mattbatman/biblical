@@ -6,6 +6,12 @@ people: []
 outline: []
 ---
 
+## World English Bible Text
+
+The Fifth Book of Moses,
+Commonly Called
+Deuteronomy
+
 ### 1
 
 <div class="p">

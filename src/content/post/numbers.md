@@ -1,7 +1,7 @@
 ---
 title: "Numbers"
 publishDate: "20 Mar 2024"
-tags: ["Sinai", "census", "Tabernacle of the Testimony", "Levites", "Tent of Meeting", "atonement", "leprosy", "frankincense", "holy water", "water of bitterness", "curse", "jealousy", "passover", "confession", "sinai", "trumpets", "cloud of Yahweh", "ark of the covenant", "manna", "Kibroth Hattaavah", "Cushite", "leprosy", "Canaan", "Nephilim"]
+tags: ["Sinai", "census", "Tabernacle of the Testimony", "Levites", "Tent of Meeting", "atonement", "leprosy", "frankincense", "holy water", "water of bitterness", "curse", "jealousy", "passover", "confession", "sinai", "trumpets", "cloud of Yahweh", "ark of the covenant", "manna", "Kibroth Hattaavah", "Cushite", "leprosy", "Canaan", "Nephilim", "stoning"]
 people: ["Moses", "Aaron", "Eldad", "Medad", "Miriam", "Anak"]
 outline: [
   {
@@ -131,7 +131,31 @@ outline: [
 			chapter: 13,
 			verse: 1
 		}
-	}
+	},
+  {
+		text: "God killed some of those who doubted him from among the spies and their relatives with a plague. People had started saying they wish they had been left in Egypt because of the discouraging reports of most of the spies. Others went to fight without the ark in defiance of God and Moses and were killed. God spared Joshua the son of Nun and Caleb the son of Jephunneh.",
+		start: {
+			book: "Numbers",
+			chapter: 14,
+			verse: 1
+		}
+  },
+  {
+		text: "Rules around offerings are provided",
+		start: {
+			book: "Numbers",
+			chapter: 15,
+			verse: 1
+		}
+  },
+  {
+		text: "A man is stoned to death for gathering sticks on the Sabbath",
+		start: {
+			book: "Numbers",
+			chapter: 15,
+			verse: 32
+		}
+  }
 ]
 ---
 

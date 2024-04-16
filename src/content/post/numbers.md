@@ -1,7 +1,7 @@
 ---
 title: "Numbers"
 publishDate: "20 Mar 2024"
-tags: ["Sinai", "census", "Tabernacle of the Testimony", "Levites", "Tent of Meeting", "atonement", "leprosy", "frankincense", "holy water", "water of bitterness", "curse", "jealousy", "passover", "confession", "sinai", "trumpets", "cloud of Yahweh", "ark of the covenant", "manna", "Kibroth Hattaavah", "Cushite", "leprosy", "Canaan", "Nephilim", "stoning"]
+tags: ["Sinai", "census", "Tabernacle of the Testimony", "Levites", "Tent of Meeting", "atonement", "leprosy", "frankincense", "holy water", "water of bitterness", "curse", "jealousy", "passover", "confession", "sinai", "trumpets", "cloud of Yahweh", "ark of the covenant", "manna", "Kibroth Hattaavah", "Cushite", "leprosy", "Canaan", "Nephilim", "stoning", "Sheol"]
 people: ["Moses", "Aaron", "Eldad", "Medad", "Miriam", "Anak"]
 outline: [
   {
@@ -154,6 +154,14 @@ outline: [
 			book: "Numbers",
 			chapter: 15,
 			verse: 32
+		}
+  },
+  {
+		text: "Some men were swallowed by the Earth to Sheol for challenging Moses and Aaron. Others started to die in a plague until Aaron made atonement for them, pausing Yahweh's wrath.",
+		start: {
+			book: "Numbers",
+			chapter: 16,
+			verse: 1
 		}
   }
 ]

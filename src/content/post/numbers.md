@@ -163,6 +163,14 @@ outline: [
 			chapter: 16,
 			verse: 1
 		}
+  },
+  {
+		text: "God provided a sign of that he sided with Moses and Aaron by having all princes of Israel place rods in the Tent of the Testimoney, and God made the rod provided by Aaron bud.",
+		start: {
+			book: "Numbers",
+			chapter: 17,
+			verse: 1
+		}
   }
 ]
 ---

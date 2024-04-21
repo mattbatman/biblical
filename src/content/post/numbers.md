@@ -171,6 +171,14 @@ outline: [
 			chapter: 17,
 			verse: 1
 		}
+  },
+  {
+		text: "God provided instructions on a sin offering involving a red heifer and Eleazar the priest",
+		start: {
+			book: "Numbers",
+			chapter: 19,
+			verse: 1
+		}
   }
 ]
 ---

@@ -179,6 +179,22 @@ outline: [
 			chapter: 19,
 			verse: 1
 		}
+  },
+  {
+		text: "The children of Israel come to the wilderness of Zin and rebel because of a lack of water. God had Moses and Aaron strike a rock with a rod and produced water for them.",
+		start: {
+			book: "Numbers",
+			chapter: 20,
+			verse: 1
+		},
+    {
+		  text: "The death of Aaron: Aaron, Moses, and Eleazer went up Mount Hor, Moses stripped Aaron of his garments and put them on Eleazer, and Aaron died.",
+		  start: {
+			  book: "Numbers",
+			  chapter: 20,
+			  verse: 22
+		}
+  }
   }
 ]
 ---

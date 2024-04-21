@@ -1,8 +1,8 @@
 ---
 title: "Numbers"
 publishDate: "20 Mar 2024"
-tags: ["Sinai", "census", "Tabernacle of the Testimony", "Levites", "Tent of Meeting", "atonement", "leprosy", "frankincense", "holy water", "water of bitterness", "curse", "jealousy", "passover", "confession", "sinai", "trumpets", "cloud of Yahweh", "ark of the covenant", "manna", "Kibroth Hattaavah", "Cushite", "leprosy", "Canaan", "Nephilim", "stoning", "Sheol"]
-people: ["Moses", "Aaron", "Eldad", "Medad", "Miriam", "Anak"]
+tags: ["Sinai", "census", "Tabernacle of the Testimony", "Levites", "Tent of Meeting", "atonement", "leprosy", "frankincense", "holy water", "water of bitterness", "curse", "jealousy", "passover", "confession", "sinai", "trumpets", "cloud of Yahweh", "ark of the covenant", "manna", "Kibroth Hattaavah", "Cushite", "leprosy", "Canaan", "Nephilim", "stoning", "Sheol", "Mount Hor", "water from rock", "red heifer", "wilderness of Zin", "waters of Meribah"]
+people: ["Moses", "Aaron", "Eldad", "Medad", "Miriam", "Anak", "Eleazer"]
 outline: [
   {
 		text: "Yahweh told Moses to take a census of those able to go to war, and he did",

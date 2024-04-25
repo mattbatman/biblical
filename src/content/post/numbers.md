@@ -1,7 +1,7 @@
 ---
 title: "Numbers"
 publishDate: "20 Mar 2024"
-tags: ["Sinai", "census", "Tabernacle of the Testimony", "Levites", "Tent of Meeting", "atonement", "leprosy", "frankincense", "holy water", "water of bitterness", "curse", "jealousy", "passover", "confession", "sinai", "trumpets", "cloud of Yahweh", "ark of the covenant", "manna", "Kibroth Hattaavah", "Cushite", "leprosy", "Canaan", "Nephilim", "stoning", "Sheol", "Mount Hor", "water from rock", "red heifer", "wilderness of Zin", "waters of Meribah"]
+tags: ["Sinai", "census", "Tabernacle of the Testimony", "Levites", "Tent of Meeting", "atonement", "leprosy", "frankincense", "holy water", "water of bitterness", "curse", "jealousy", "passover", "confession", "sinai", "trumpets", "cloud of Yahweh", "ark of the covenant", "manna", "Kibroth Hattaavah", "Cushite", "leprosy", "Canaan", "Nephilim", "stoning", "Sheol", "Mount Hor", "water from rock", "red heifer", "wilderness of Zin", "waters of Meribah", "The Book of the Wars of Yahweh", "snakes", "Canaanite", "Hormah", "Red Sea", "land of Edom", "Moab", "Amorites", "Beer", "Jazer"]
 people: ["Moses", "Aaron", "Eldad", "Medad", "Miriam", "Anak", "Eleazer"]
 outline: [
   {
@@ -193,8 +193,32 @@ outline: [
 			  book: "Numbers",
 			  chapter: 20,
 			  verse: 22
-		}
-  }
+		  }
+    },
+    {
+		  text: "The children of Israel defeated the Canaanites",
+		  start: {
+			  book: "Numbers",
+			  chapter: 21,
+			  verse: 1
+		  }
+    },
+    {
+		  text: "The children of Israel complained to God that they had no bread. God sent venomous snakes to bite them. At Moses' pleading, God had him create a statue of a snake, that they may look at it and live once bitten.",
+		  start: {
+			  book: "Numbers",
+			  chapter: 21,
+			  verse: 4
+		  }
+    },
+    {
+		  text: "Israel defeated the Amorites, and lived in their cities.",
+		  start: {
+			  book: "Numbers",
+			  chapter: 21,
+			  verse: 23
+		  }
+    }
   }
 ]
 ---

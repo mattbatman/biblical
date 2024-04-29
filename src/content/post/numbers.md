@@ -245,7 +245,7 @@ outline: [
     }
   },
   {
-    text: "Balak has Balaam make sacrifices in two instances to curse the chidlren of Israel, but Yahweh sends Balaam back with different words",
+    text: "Balak has Balaam make sacrifices in two instances to curse the children of Israel, but Yahweh sends Balaam back with different words",
     start: {
       book: "Numbers",
       chapter: 23,

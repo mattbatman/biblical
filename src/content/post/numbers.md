@@ -1,8 +1,8 @@
 ---
 title: "Numbers"
 publishDate: "20 Mar 2024"
-tags: ["Sinai", "census", "Tabernacle of the Testimony", "Levites", "Tent of Meeting", "atonement", "leprosy", "frankincense", "holy water", "water of bitterness", "curse", "jealousy", "passover", "confession", "sinai", "trumpets", "cloud of Yahweh", "ark of the covenant", "manna", "Kibroth Hattaavah", "Cushite", "leprosy", "Canaan", "Nephilim", "stoning", "Sheol", "Mount Hor", "water from rock", "red heifer", "wilderness of Zin", "waters of Meribah", "The Book of the Wars of Yahweh", "snakes", "Canaanite", "Hormah", "Red Sea", "land of Edom", "Moab", "Amorites", "Beer", "Jazer"]
-people: ["Moses", "Aaron", "Eldad", "Medad", "Miriam", "Anak", "Eleazer"]
+tags: ["Sinai", "census", "Tabernacle of the Testimony", "Levites", "Tent of Meeting", "atonement", "leprosy", "frankincense", "holy water", "water of bitterness", "curse", "jealousy", "passover", "confession", "sinai", "trumpets", "cloud of Yahweh", "ark of the covenant", "manna", "Kibroth Hattaavah", "Cushite", "leprosy", "Canaan", "Nephilim", "stoning", "Sheol", "Mount Hor", "water from rock", "red heifer", "wilderness of Zin", "waters of Meribah", "The Book of the Wars of Yahweh", "snakes", "Canaanite", "Hormah", "Red Sea", "land of Edom", "Moab", "Amorites", "Beer", "Jazer", "divination"]
+people: ["Moses", "Aaron", "Eldad", "Medad", "Miriam", "Anak", "Eleazer", "Balak", "Balaam"]
 outline: [
   {
 		text: "Yahweh told Moses to take a census of those able to go to war, and he did",
@@ -218,6 +218,38 @@ outline: [
       book: "Numbers",
       chapter: 21,
       verse: 23
+    }
+  },
+  {
+    text: "Balak asks Balaam to curse the children of Israel.",
+    start: {
+      book: "Numbers",
+      chapter: 22,
+      verse: 1
+    }
+  },
+  {
+    text: "Balaam talks to God, and is told he cannot curse the children of Israel.",
+    start: {
+      book: "Numbers",
+      chapter: 22,
+      verse: 8
+    }
+  },
+  {
+    text: "Balaam and his donkey see an angel of Yahweh.",
+    start: {
+      book: "Numbers",
+      chapter: 22,
+      verse: 21
+    }
+  },
+  {
+    text: "Balak has Balaam make sacrifices in two instances to curse the chidlren of Israel, but Yahweh sends Balaam back with different words",
+    start: {
+      book: "Numbers",
+      chapter: 23,
+      verse: 1
     }
   }
 ]

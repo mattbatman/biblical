@@ -187,37 +187,37 @@ outline: [
 			chapter: 20,
 			verse: 1
 		},
-    {
-		  text: "The death of Aaron: Aaron, Moses, and Eleazer went up Mount Hor, Moses stripped Aaron of his garments and put them on Eleazer, and Aaron died.",
-		  start: {
-			  book: "Numbers",
-			  chapter: 20,
-			  verse: 22
-		  }
-    },
-    {
-		  text: "The children of Israel defeated the Canaanites",
-		  start: {
-			  book: "Numbers",
-			  chapter: 21,
-			  verse: 1
-		  }
-    },
-    {
-		  text: "The children of Israel complained to God that they had no bread. God sent venomous snakes to bite them. At Moses' pleading, God had him create a statue of a snake, that they may look at it and live once bitten.",
-		  start: {
-			  book: "Numbers",
-			  chapter: 21,
-			  verse: 4
-		  }
-    },
-    {
-		  text: "Israel defeated the Amorites, and lived in their cities.",
-		  start: {
-			  book: "Numbers",
-			  chapter: 21,
-			  verse: 23
-		  }
+  },
+  {
+    text: "The death of Aaron: Aaron, Moses, and Eleazer went up Mount Hor, Moses stripped Aaron of his garments and put them on Eleazer, and Aaron died.",
+    start: {
+      book: "Numbers",
+      chapter: 20,
+      verse: 22
+    }
+  },
+  {
+    text: "The children of Israel defeated the Canaanites",
+    start: {
+      book: "Numbers",
+      chapter: 21,
+      verse: 1
+    }
+  },
+  {
+    text: "The children of Israel complained to God that they had no bread. God sent venomous snakes to bite them. At Moses' pleading, God had him create a statue of a snake, that they may look at it and live once bitten.",
+    start: {
+      book: "Numbers",
+      chapter: 21,
+      verse: 4
+    }
+  },
+  {
+    text: "Israel defeated the Amorites, and lived in their cities.",
+    start: {
+      book: "Numbers",
+      chapter: 21,
+      verse: 23
     }
   }
 ]

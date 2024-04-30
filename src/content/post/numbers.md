@@ -1,7 +1,7 @@
 ---
 title: "Numbers"
 publishDate: "20 Mar 2024"
-tags: ["Sinai", "census", "Tabernacle of the Testimony", "Levites", "Tent of Meeting", "atonement", "leprosy", "frankincense", "holy water", "water of bitterness", "curse", "jealousy", "passover", "confession", "sinai", "trumpets", "cloud of Yahweh", "ark of the covenant", "manna", "Kibroth Hattaavah", "Cushite", "leprosy", "Canaan", "Nephilim", "stoning", "Sheol", "Mount Hor", "water from rock", "red heifer", "wilderness of Zin", "waters of Meribah", "The Book of the Wars of Yahweh", "snakes", "Canaanite", "Hormah", "Red Sea", "land of Edom", "Moab", "Amorites", "Beer", "Jazer", "divination"]
+tags: ["Sinai", "census", "Tabernacle of the Testimony", "Levites", "Tent of Meeting", "atonement", "leprosy", "frankincense", "holy water", "water of bitterness", "curse", "jealousy", "passover", "confession", "sinai", "trumpets", "cloud of Yahweh", "ark of the covenant", "manna", "Kibroth Hattaavah", "Cushite", "leprosy", "Canaan", "Nephilim", "stoning", "Sheol", "Mount Hor", "water from rock", "red heifer", "wilderness of Zin", "waters of Meribah", "The Book of the Wars of Yahweh", "snakes", "Canaanite", "Hormah", "Red Sea", "land of Edom", "Moab", "Amorites", "Beer", "Jazer", "divination", "Shittim"]
 people: ["Moses", "Aaron", "Eldad", "Medad", "Miriam", "Anak", "Eleazer", "Balak", "Balaam"]
 outline: [
   {
@@ -249,6 +249,14 @@ outline: [
     start: {
       book: "Numbers",
       chapter: 23,
+      verse: 1
+    }
+  },
+{
+    text: "The children of Israel started to worship Baal Peor. Yahweh became angry, but Phinehas, the son of Eleazar, killed a man of Israel and a Midianite prostitute with a spear, appeasing Yahweh. Yahweh encouraged conflict between the children of Israel and the Midianites in speaking with Moses.",
+    start: {
+      book: "Numbers",
+      chapter: 25,
       verse: 1
     }
   }

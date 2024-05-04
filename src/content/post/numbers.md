@@ -275,6 +275,14 @@ outline: [
       chapter: 27,
       verse: 1
     }
+  },
+  {
+    text: "Descriptions of sacrifices are provided",
+    start: {
+      book: "Numbers",
+      chapter: 28,
+      verse: 1
+    }
   }
 ]
 ---

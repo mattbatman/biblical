@@ -252,11 +252,27 @@ outline: [
       verse: 1
     }
   },
-{
+  {
     text: "The children of Israel started to worship Baal Peor. Yahweh became angry, but Phinehas, the son of Eleazar, killed a man of Israel and a Midianite prostitute with a spear, appeasing Yahweh. Yahweh encouraged conflict between the children of Israel and the Midianites in speaking with Moses.",
     start: {
       book: "Numbers",
       chapter: 25,
+      verse: 1
+    }
+  },
+  {
+    text: "A census was taken",
+    start: {
+      book: "Numbers",
+      chapter: 26,
+      verse: 1
+    }
+  },
+  {
+    text: "Yahweh declared that woman may receive inheritance from their father's when they pass",
+    start: {
+      book: "Numbers",
+      chapter: 27,
       verse: 1
     }
   }

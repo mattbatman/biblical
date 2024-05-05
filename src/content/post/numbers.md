@@ -283,6 +283,14 @@ outline: [
       chapter: 28,
       verse: 1
     }
+  },
+  {
+    text: "Rules around making vows to Yahweh are provided",
+    start: {
+      book: "Numbers",
+      chapter: 30,
+      verse: 1
+    }
   }
 ]
 ---

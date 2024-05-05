@@ -291,6 +291,14 @@ outline: [
       chapter: 30,
       verse: 1
     }
+  },
+  {
+    text: "Israel defeated the Midianites in war, divided the spoils, and sacrificed to Yahweh",
+    start: {
+      book: "Numbers",
+      chapter: 30,
+      verse: 1
+    }
   }
 ]
 ---

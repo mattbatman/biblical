@@ -296,7 +296,15 @@ outline: [
     text: "Israel defeated the Midianites in war, divided the spoils, and sacrificed to Yahweh",
     start: {
       book: "Numbers",
-      chapter: 30,
+      chapter: 31,
+      verse: 1
+    }
+  },
+  {
+    text: "Some tribes did not want to cross the Jordan, and instead settle where they were and raise livestock. Yahweh said this was a sin against him, and made the Israelites wander for forty years, until the children of those who did not want to follow him were ready.",
+    start: {
+      book: "Numbers",
+      chapter: 32,
       verse: 1
     }
   }

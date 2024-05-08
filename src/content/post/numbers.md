@@ -307,6 +307,14 @@ outline: [
       chapter: 32,
       verse: 1
     }
+  },
+  {
+    text: "The path of the children of Israel is outlined, and God commands them to drive out all inhabits and destroy all idols after they cross the Jordan.",
+    start: {
+      book: "Numbers",
+      chapter: 33,
+      verse: 1
+    }
   }
 ]
 ---

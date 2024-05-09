@@ -315,6 +315,14 @@ outline: [
       chapter: 33,
       verse: 1
     }
+  },
+  {
+    text: "The borders of the land to be owned by the children of Israel is outlined",
+    start: {
+      book: "Numbers",
+      chapter: 34,
+      verse: 1
+    }
   }
 ]
 ---

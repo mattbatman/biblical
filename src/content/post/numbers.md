@@ -323,6 +323,22 @@ outline: [
       chapter: 34,
       verse: 1
     }
+  },
+  {
+    text: "The laws of refuge cities are established",
+    start: {
+      book: "Numbers",
+      chapter: 35,
+      verse: 1
+    },
+  }
+  {
+    text: "Handling the inheritance of land by daughters is addressed",
+    start: {
+      book: "Numbers",
+      chapter: 36,
+      verse: 1
+    }
   }
 ]
 ---

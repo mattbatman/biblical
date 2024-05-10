@@ -331,7 +331,7 @@ outline: [
       chapter: 35,
       verse: 1
     },
-  }
+  },
   {
     text: "Handling the inheritance of land by daughters is addressed",
     start: {

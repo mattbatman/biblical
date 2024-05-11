@@ -1,9 +1,18 @@
 ---
 title: "Deuteronomy"
 publishDate: "12 Apr 2024"
-tags: []
-people: []
-outline: []
+tags: ["Anakim", "Red Sea"]
+people: ["Moses", "Caleb", "Joshua"]
+outline: [
+  {
+		text: "Moses summarized the journey taken by the children of Israel",
+		start: {
+			book: "Deuteronomy",
+			chapter: 1,
+			verse: 1
+		}
+	}
+]
 ---
 
 ## World English Bible Text

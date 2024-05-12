@@ -1,7 +1,7 @@
 ---
 title: "Deuteronomy"
 publishDate: "12 Apr 2024"
-tags: ["Anakim", "Red Sea"]
+tags: ["Anakim", "Red Sea", "Moab", "Emim", "Rephaim", "Mount Seir"]
 people: ["Moses", "Caleb", "Joshua"]
 outline: [
   {
@@ -9,6 +9,14 @@ outline: [
 		start: {
 			book: "Deuteronomy",
 			chapter: 1,
+			verse: 1
+		}
+	},
+  {
+		text: "Moses described peacefully passing by lands in which relatives of theirs lived, then took the land of Sihon",
+		start: {
+			book: "Deuteronomy",
+			chapter: 2,
 			verse: 1
 		}
 	}

@@ -19,6 +19,14 @@ outline: [
 			chapter: 2,
 			verse: 1
 		}
+	},
+  {
+		text: "Moses recounts the military victories over the Og and the Amorites",
+		start: {
+			book: "Deuteronomy",
+			chapter: 3,
+			verse: 1
+		}
 	}
 ]
 ---

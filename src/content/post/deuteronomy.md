@@ -27,6 +27,22 @@ outline: [
 			chapter: 3,
 			verse: 1
 		}
+	},
+  {
+		text: "Moses commands obedience to God and forbids idolatry",
+		start: {
+			book: "Deuteronomy",
+			chapter: 4,
+			verse: 1
+		}
+	},
+  {
+		text: "Moses outlines the cities of refuge",
+		start: {
+			book: "Deuteronomy",
+			chapter: 4,
+			verse: 41
+		}
 	}
 ]
 ---

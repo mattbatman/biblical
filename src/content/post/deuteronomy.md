@@ -1,7 +1,7 @@
 ---
 title: "Deuteronomy"
 publishDate: "12 Apr 2024"
-tags: ["Anakim", "Red Sea", "Moab", "Emim", "Rephaim", "Mount Seir"]
+tags: ["Anakim", "Red Sea", "Moab", "Emim", "Rephaim", "Mount Seir", "ten commandments"]
 people: ["Moses", "Caleb", "Joshua"]
 outline: [
   {
@@ -42,6 +42,14 @@ outline: [
 			book: "Deuteronomy",
 			chapter: 4,
 			verse: 41
+		}
+	},
+  {
+		text: "Moses reiterates the Ten Commandments",
+		start: {
+			book: "Deuteronomy",
+			chapter: 5,
+			verse: 1
 		}
 	}
 ]

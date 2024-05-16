@@ -51,6 +51,14 @@ outline: [
 			chapter: 5,
 			verse: 1
 		}
+	},
+  {
+		text: "Moses emphasizes putting no other gods before Yahweh",
+		start: {
+			book: "Deuteronomy",
+			chapter: 6,
+			verse: 1
+		}
 	}
 ]
 ---

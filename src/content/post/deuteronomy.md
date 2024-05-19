@@ -59,6 +59,30 @@ outline: [
 			chapter: 6,
 			verse: 1
 		}
+	},
+{
+		text: "Moses warns the children of Israel not to take on the ways of those they are about to defeat",
+		start: {
+			book: "Deuteronomy",
+			chapter: 7,
+			verse: 1
+		}
+	},
+  {
+		text: "Moses tells the Israelites to remember God",
+		start: {
+			book: "Deuteronomy",
+			chapter: 8,
+			verse: 1
+		}
+	},
+  {
+		text: "Moses admonishes the children of Israel that they will defeat the sons of the Anakim not because the Israelites are righteous, but because the Anakim are wicked",
+		start: {
+			book: "Deuteronomy",
+			chapter: 9,
+			verse: 1
+		}
 	}
 ]
 ---

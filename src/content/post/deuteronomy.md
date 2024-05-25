@@ -1,8 +1,8 @@
 ---
 title: "Deuteronomy"
 publishDate: "12 Apr 2024"
-tags: ["Anakim", "Red Sea", "Moab", "Emim", "Rephaim", "Mount Seir", "ten commandments"]
-people: ["Moses", "Caleb", "Joshua"]
+tags: ["Anakim", "Red Sea", "Moab", "Emim", "Rephaim", "Mount Seir", "ten commandments", "stone tablets", "ark of the covenant"]
+people: ["Moses", "Caleb", "Joshua", "Aaron", "Eleazer"]
 outline: [
   {
 		text: "Moses summarized the journey taken by the children of Israel",
@@ -82,6 +82,22 @@ outline: [
 			book: "Deuteronomy",
 			chapter: 9,
 			verse: 1
+		}
+	},
+  {
+		text: "Moses recounts the stone tablets and Ark of the Covenant",
+		start: {
+			book: "Deuteronomy",
+			chapter: 10,
+			verse: 1
+		}
+	},
+  {
+		text: "Moses admonishes the children of Israel to love and fear God",
+		start: {
+			book: "Deuteronomy",
+			chapter: 10,
+			verse: 12
 		}
 	}
 ]

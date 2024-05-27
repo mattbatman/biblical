@@ -1,7 +1,7 @@
 ---
 title: "Deuteronomy"
 publishDate: "12 Apr 2024"
-tags: ["Anakim", "Red Sea", "Moab", "Emim", "Rephaim", "Mount Seir", "ten commandments", "stone tablets", "ark of the covenant"]
+tags: ["Anakim", "Red Sea", "Moab", "Emim", "Rephaim", "Mount Seir", "ten commandments", "stone tablets", "ark of the covenant", "Asherim"]
 people: ["Moses", "Caleb", "Joshua", "Aaron", "Eleazer"]
 outline: [
   {
@@ -98,6 +98,14 @@ outline: [
 			book: "Deuteronomy",
 			chapter: 10,
 			verse: 12
+		}
+	},
+  {
+		text: "The children of Israel are warned against attempting to worship God in the same manner as the people whose land they were about to take worshipped their gods - which included child sacrifice",
+		start: {
+			book: "Deuteronomy",
+			chapter: 12,
+			verse: 1
 		}
 	}
 ]

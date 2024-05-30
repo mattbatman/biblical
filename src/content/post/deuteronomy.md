@@ -107,6 +107,38 @@ outline: [
 			chapter: 12,
 			verse: 1
 		}
+	},
+{
+		text: "The children of Israel are warned against listening to prophets who advocate worshipping other gods, even if their prophecies come true",
+		start: {
+			book: "Deuteronomy",
+			chapter: 13,
+			verse: 1
+		}
+	},
+  {
+		text: "The children of Israel are warned against listening to prophets who advocate worshipping other gods, even if their prophecies come true",
+		start: {
+			book: "Deuteronomy",
+			chapter: 13,
+			verse: 1
+		}
+	},
+  {
+		text: "The children of Israel are told to kill relatives that advocate worshipping other gods",
+		start: {
+			book: "Deuteronomy",
+			chapter: 13,
+			verse: 6
+		}
+	},
+  {
+		text: "The children of Israel are told to destroy cities where inhabitants of swayed people to worship other gods",
+		start: {
+			book: "Deuteronomy",
+			chapter: 13,
+			verse: 12
+		}
 	}
 ]
 ---

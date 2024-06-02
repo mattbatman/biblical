@@ -1,7 +1,7 @@
 ---
 title: "Deuteronomy"
 publishDate: "12 Apr 2024"
-tags: ["Anakim", "Red Sea", "Moab", "Emim", "Rephaim", "Mount Seir", "ten commandments", "stone tablets", "ark of the covenant", "Asherim"]
+tags: ["Anakim", "Red Sea", "Moab", "Emim", "Rephaim", "Mount Seir", "ten commandments", "stone tablets", "ark of the covenant", "Asherim", "tithe", "diet"]
 people: ["Moses", "Caleb", "Joshua", "Aaron", "Eleazer"]
 outline: [
   {
@@ -138,6 +138,22 @@ outline: [
 			book: "Deuteronomy",
 			chapter: 13,
 			verse: 12
+		}
+	},
+  {
+		text: "Clean and unclean animals are outlined",
+		start: {
+			book: "Deuteronomy",
+			chapter: 14,
+			verse: 1
+		}
+	},
+  {
+		text: "Tithing is discussed",
+		start: {
+			book: "Deuteronomy",
+			chapter: 14,
+			verse: 22
 		}
 	}
 ]

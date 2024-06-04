@@ -155,6 +155,14 @@ outline: [
 			chapter: 14,
 			verse: 22
 		}
+	},
+  {
+		text: "Debt cancellation every 7 years is described",
+		start: {
+			book: "Deuteronomy",
+			chapter: 15,
+			verse: 1
+		}
 	}
 ]
 ---

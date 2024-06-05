@@ -1,7 +1,7 @@
 ---
 title: "Deuteronomy"
 publishDate: "12 Apr 2024"
-tags: ["Anakim", "Red Sea", "Moab", "Emim", "Rephaim", "Mount Seir", "ten commandments", "stone tablets", "ark of the covenant", "Asherim", "tithe", "diet"]
+tags: ["Anakim", "Red Sea", "Moab", "Emim", "Rephaim", "Mount Seir", "ten commandments", "stone tablets", "ark of the covenant", "Asherim", "tithe", "diet", "Passover", "Feast of Booths", "Feast of Weeks", "Asherah"]
 people: ["Moses", "Caleb", "Joshua", "Aaron", "Eleazer"]
 outline: [
   {
@@ -162,6 +162,46 @@ outline: [
 			book: "Deuteronomy",
 			chapter: 15,
 			verse: 1
+		}
+	},
+  {
+		text: "Passover sacrifice protocols are described",
+		start: {
+			book: "Deuteronomy",
+			chapter: 16,
+			verse: 1
+		}
+	},
+  {
+		text: "Feast of Weeks sacrifice protocols are described",
+		start: {
+			book: "Deuteronomy",
+			chapter: 16,
+			verse: 9
+		}
+	},
+  {
+		text: "Feast of Booths shall be kept",
+		start: {
+			book: "Deuteronomy",
+			chapter: 16,
+			verse: 13
+		}
+	},
+  {
+		text: "Justice is demanded",
+		start: {
+			book: "Deuteronomy",
+			chapter: 16,
+			verse: 18
+		}
+	},
+  {
+		text: "Asherah trees are forbidden",
+		start: {
+			book: "Deuteronomy",
+			chapter: 16,
+			verse: 21
 		}
 	}
 ]

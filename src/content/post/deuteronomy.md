@@ -1,7 +1,7 @@
 ---
 title: "Deuteronomy"
 publishDate: "12 Apr 2024"
-tags: ["Anakim", "Red Sea", "Moab", "Emim", "Rephaim", "Mount Seir", "ten commandments", "stone tablets", "ark of the covenant", "Asherim", "tithe", "diet", "Passover", "Feast of Booths", "Feast of Weeks", "Asherah"]
+tags: ["Anakim", "Red Sea", "Moab", "Emim", "Rephaim", "Mount Seir", "ten commandments", "stone tablets", "ark of the covenant", "Asherim", "tithe", "diet", "Passover", "Feast of Booths", "Feast of Weeks", "Asherah", "stoning"]
 people: ["Moses", "Caleb", "Joshua", "Aaron", "Eleazer"]
 outline: [
   {
@@ -202,6 +202,22 @@ outline: [
 			book: "Deuteronomy",
 			chapter: 16,
 			verse: 21
+		}
+	},
+  {
+		text: "No ox or sheep with defects",
+		start: {
+			book: "Deuteronomy",
+			chapter: 17,
+			verse: 1
+		}
+	},
+  {
+		text: "Worshipping other gods, the sun, or the moon shall be punished by stoning upon two or three witnesses",
+		start: {
+			book: "Deuteronomy",
+			chapter: 17,
+			verse: 2
 		}
 	}
 ]

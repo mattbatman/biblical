@@ -219,6 +219,22 @@ outline: [
 			chapter: 17,
 			verse: 2
 		}
+	},
+  {
+		text: "Levitical priests should be used",
+		start: {
+			book: "Deuteronomy",
+			chapter: 17,
+			verse: 8
+		}
+	},
+  {
+		text: "Laws concerning kings of Israel are provided",
+		start: {
+			book: "Deuteronomy",
+			chapter: 17,
+			verse: 14
+		}
 	}
 ]
 ---

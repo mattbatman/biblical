@@ -235,6 +235,30 @@ outline: [
 			chapter: 17,
 			verse: 14
 		}
+	},
+  {
+		text: "Levites and inheritance",
+		start: {
+			book: "Deuteronomy",
+			chapter: 18,
+			verse: 1
+		}
+	},
+  {
+		text: "The children of Israel are forbidden to participate in abominations of ritual",
+		start: {
+			book: "Deuteronomy",
+			chapter: 18,
+			verse: 9
+		}
+	},
+  {
+		text: "On future prophets and how to recognize them",
+		start: {
+			book: "Deuteronomy",
+			chapter: 18,
+			verse: 17
+		}
 	}
 ]
 ---

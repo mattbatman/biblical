@@ -259,6 +259,14 @@ outline: [
 			chapter: 18,
 			verse: 17
 		}
+	},
+  {
+		text: "Sanctuary cities are discussed",
+		start: {
+			book: "Deuteronomy",
+			chapter: 19,
+			verse: 1
+		}
 	}
 ]
 ---

@@ -267,6 +267,14 @@ outline: [
 			chapter: 19,
 			verse: 1
 		}
+	},
+  {
+		text: "Rules regarding warefare are outlined",
+		start: {
+			book: "Deuteronomy",
+			chapter: 20,
+			verse: 1
+		}
 	}
 ]
 ---

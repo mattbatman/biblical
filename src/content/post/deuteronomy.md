@@ -269,10 +269,26 @@ outline: [
 		}
 	},
   {
-		text: "Rules regarding warefare are outlined",
+		text: "Rules regarding warfare are outlined",
 		start: {
 			book: "Deuteronomy",
 			chapter: 20,
+			verse: 1
+		}
+	},
+  {
+		text: "Rules regarding unsolved murders, marrying woman captured in war, inheritance of firstborns between two wives, rebellious sons, and handling of bodies dead from hanging are provided",
+		start: {
+			book: "Deuteronomy",
+			chapter: 21,
+			verse: 1
+		}
+	},
+  {
+		text: "Rules regarding lost ox, forbidding woman from wearing men's clothes, taking birds eggs, parapets from your roof, mixing garment materials, and sowing fields with multiple seeds are provided",
+		start: {
+			book: "Deuteronomy",
+			chapter: 22,
 			verse: 1
 		}
 	}

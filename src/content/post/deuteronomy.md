@@ -291,6 +291,14 @@ outline: [
 			chapter: 22,
 			verse: 1
 		}
+	},
+  {
+		text: "Various rules regarding virginity are provided",
+		start: {
+			book: "Deuteronomy",
+			chapter: 22,
+			verse: 13
+		}
 	}
 ]
 ---

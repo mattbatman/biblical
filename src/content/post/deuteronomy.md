@@ -299,6 +299,30 @@ outline: [
 			chapter: 22,
 			verse: 13
 		}
+	},
+  {
+		text: "Certain people are forbidden from enter Yahweh's assembly, such as those with crushed or cut testicles and those born of a forbidden union",
+		start: {
+			book: "Deuteronomy",
+			chapter: 23,
+			verse: 1
+		}
+	},
+  {
+		text: "Rules regarding cleanliness at camp are provided",
+		start: {
+			book: "Deuteronomy",
+			chapter: 23,
+			verse: 9
+		}
+	},
+  {
+		text: "Rules prohibiting returning a slave to his master, prostitution of daughters of Israel, sodomy, prohibiting certain types of interest, and not paying vows are provided",
+		start: {
+			book: "Deuteronomy",
+			chapter: 23,
+			verse: 15
+		}
 	}
 ]
 ---

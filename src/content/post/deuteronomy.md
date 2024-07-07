@@ -1,8 +1,8 @@
 ---
 title: "Deuteronomy"
 publishDate: "12 Apr 2024"
-tags: ["Anakim", "Red Sea", "Moab", "Emim", "Rephaim", "Mount Seir", "ten commandments", "stone tablets", "ark of the covenant", "Asherim", "tithe", "diet", "Passover", "Feast of Booths", "Feast of Weeks", "Asherah", "stoning"]
-people: ["Moses", "Caleb", "Joshua", "Aaron", "Eleazer"]
+tags: ["Anakim", "Red Sea", "Moab", "Emim", "Rephaim", "Mount Seir", "ten commandments", "stone tablets", "ark of the covenant", "Asherim", "tithe", "diet", "Passover", "Feast of Booths", "Feast of Weeks", "Asherah", "stoning", "Mount Ebal"]
+people: ["Moses", "Caleb", "Joshua", "Aaron", "Eleazer", "Amalek"]
 outline: [
   {
 		text: "Moses summarized the journey taken by the children of Israel",
@@ -338,6 +338,22 @@ outline: [
 			book: "Deuteronomy",
 			chapter: 26,
 			verse: 1
+		}
+	},
+  {
+		text: "Moses builds an altar on Mount Ebal",
+		start: {
+			book: "Deuteronomy",
+			chapter: 27,
+			verse: 1
+		}
+	},
+  {
+		text: "Curses were said from Mount Ebal",
+		start: {
+			book: "Deuteronomy",
+			chapter: 27,
+			verse: 11
 		}
 	}
 ]

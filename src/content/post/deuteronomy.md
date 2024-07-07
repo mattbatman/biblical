@@ -323,6 +323,14 @@ outline: [
 			chapter: 23,
 			verse: 15
 		}
+	},
+  {
+		text: "Various rules are provided,",
+		start: {
+			book: "Deuteronomy",
+			chapter: 24,
+			verse: 1
+		}
 	}
 ]
 ---

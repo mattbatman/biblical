@@ -331,6 +331,14 @@ outline: [
 			chapter: 24,
 			verse: 1
 		}
+	},
+  {
+		text: "Tithing is addressed",
+		start: {
+			book: "Deuteronomy",
+			chapter: 26,
+			verse: 1
+		}
 	}
 ]
 ---

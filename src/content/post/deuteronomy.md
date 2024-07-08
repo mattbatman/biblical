@@ -355,6 +355,14 @@ outline: [
 			chapter: 27,
 			verse: 11
 		}
+	},
+  {
+		text: "Blessings and curses for following God are outlined",
+		start: {
+			book: "Deuteronomy",
+			chapter: 28,
+			verse: 1
+		}
 	}
 ]
 ---

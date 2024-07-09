@@ -363,6 +363,14 @@ outline: [
 			chapter: 28,
 			verse: 1
 		}
+	},
+  {
+		text: "The words of the covenant God commanded Moses to make with the children of Israel in the land of Moab",
+		start: {
+			book: "Deuteronomy",
+			chapter: 29,
+			verse: 1
+		}
 	}
 ]
 ---

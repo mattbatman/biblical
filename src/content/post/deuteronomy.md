@@ -371,6 +371,30 @@ outline: [
 			chapter: 29,
 			verse: 1
 		}
+	},
+  {
+		text: "Joshua is appointed to replace Moses",
+		start: {
+			book: "Deuteronomy",
+			chapter: 31,
+			verse: 1
+		}
+	},
+  {
+		text: "Moses wrote the law to be reread",
+		start: {
+			book: "Deuteronomy",
+			chapter: 31,
+			verse: 9
+		}
+	},
+  {
+		text: "Joshua is commissioned by God to replace Moses, and Moses is instructed to write down a song to be sung by the Israelites to calm God down when they forsake him and turn to other gods",
+		start: {
+			book: "Deuteronomy",
+			chapter: 31,
+			verse: 14
+		}
 	}
 ]
 ---

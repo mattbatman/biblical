@@ -411,6 +411,14 @@ outline: [
 			chapter: 33,
 			verse: 1
 		}
+	},
+  {
+		text: "The death of Moses",
+		start: {
+			book: "Deuteronomy",
+			chapter: 34,
+			verse: 1
+		}
 	}
 ]
 ---

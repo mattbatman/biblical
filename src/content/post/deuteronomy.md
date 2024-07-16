@@ -403,6 +403,14 @@ outline: [
 			chapter: 32,
 			verse: 1
 		}
+	},
+  {
+		text: "Moses' blessings of the tribes of Israel",
+		start: {
+			book: "Deuteronomy",
+			chapter: 33,
+			verse: 1
+		}
 	}
 ]
 ---

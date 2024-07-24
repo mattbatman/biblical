@@ -1,7 +1,7 @@
 ---
 title: "Joshua"
 publishDate: "16 Jul 2024"
-tags: ["Lebanon", "Euphrates", "Jordan", "Jericho", "Shittim", "prostitute"]
+tags: ["Lebanon", "Euphrates", "Jordan", "Jericho", "Shittim", "prostitute", "Levitical priests", "Ark of the covenant"]
 people: ["Joshua"]
 outline: [
   {
@@ -25,6 +25,14 @@ outline: [
     start: {
       book: "Joshua",
       chapter: 2,
+      verse: 1
+    },
+  },
+  {
+    text: "The children of Israel used the Ark of the covenant to displace the water of the Jordan river and cross on dry ground",
+    start: {
+      book: "Joshua",
+      chapter: 3,
       verse: 1
     },
   }

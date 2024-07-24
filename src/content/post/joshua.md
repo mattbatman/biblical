@@ -1,7 +1,7 @@
 ---
 title: "Joshua"
 publishDate: "16 Jul 2024"
-tags: ["Lebanon", "Euphrates", "Jordan"]
+tags: ["Lebanon", "Euphrates", "Jordan", "Jericho", "Shittim", "prostitute"]
 people: ["Joshua"]
 outline: [
   {
@@ -17,6 +17,14 @@ outline: [
     start: {
       book: "Joshua",
       chapter: 1,
+      verse: 10
+    },
+  },
+  {
+    text: "Joshua sent spies to Jericho who were hidden by a prostitute from the King's search",
+    start: {
+      book: "Joshua",
+      chapter: 2,
       verse: 1
     },
   }

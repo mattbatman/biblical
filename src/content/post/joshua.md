@@ -1,7 +1,7 @@
 ---
 title: "Joshua"
 publishDate: "16 Jul 2024"
-tags: ["Lebanon", "Euphrates", "Jordan", "Jericho", "Shittim", "prostitute", "Levitical priests", "Ark of the covenant"]
+tags: ["Lebanon", "Euphrates", "Jordan", "Jericho", "Shittim", "prostitute", "Levitical priests", "Ark of the covenant", "12 stones", "Gilgal"]
 people: ["Joshua"]
 outline: [
   {
@@ -33,6 +33,14 @@ outline: [
     start: {
       book: "Joshua",
       chapter: 3,
+      verse: 1
+    },
+  },
+  {
+    text: "God had Joshua tell the 12 heads of the tribes of Israel to take a stone out of the Jordan river as they crossed the dry ground",
+    start: {
+      book: "Joshua",
+      chapter: 4,
       verse: 1
     },
   }

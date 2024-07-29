@@ -43,6 +43,38 @@ outline: [
       chapter: 4,
       verse: 1
     },
+  },
+  {
+    text: "Joshua circumcised the next class of Israelites",
+    start: {
+      book: "Joshua",
+      chapter: 5,
+      verse: 1
+    },
+  },
+  {
+    text: "The children of Israel observed passover and then had their last manna",
+    start: {
+      book: "Joshua",
+      chapter: 5,
+      verse: 10
+    },
+  },
+  {
+    text: "The children of Israel observed passover and then had their last manna",
+    start: {
+      book: "Joshua",
+      chapter: 5,
+      verse: 10
+    },
+  },
+  {
+    text: "Joshua met the commander of God's army while looking at Jericho",
+    start: {
+      book: "Joshua",
+      chapter: 5,
+      verse: 13
+    },
   }
 ]
 ---

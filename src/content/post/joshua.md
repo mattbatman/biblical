@@ -1,8 +1,8 @@
 ---
 title: "Joshua"
 publishDate: "16 Jul 2024"
-tags: ["Lebanon", "Euphrates", "Jordan", "Jericho", "Shittim", "prostitute", "Levitical priests", "Ark of the covenant", "12 stones", "Gilgal"]
-people: ["Joshua"]
+tags: ["Lebanon", "Euphrates", "Jordan", "Jericho", "Shittim", "prostitute", "Levitical priests", "Ark of the covenant", "12 stones", "Gilgal", "trumpets", "rams' horns"]
+people: ["Joshua", "Rahab"]
 outline: [
   {
     text: "God commands Joshua to cross the Jordan, into the land with God has given the children of Israel",
@@ -74,6 +74,14 @@ outline: [
       book: "Joshua",
       chapter: 5,
       verse: 13
+    },
+  },
+  {
+    text: "The Israelites took Jericho",
+    start: {
+      book: "Joshua",
+      chapter: 6,
+      verse: 1
     },
   }
 ]

@@ -2,7 +2,7 @@
 title: "Joshua"
 publishDate: "16 Jul 2024"
 tags: ["Lebanon", "Euphrates", "Jordan", "Jericho", "Shittim", "prostitute", "Levitical priests", "Ark of the covenant", "12 stones", "Gilgal", "trumpets", "rams' horns"]
-people: ["Joshua", "Rahab"]
+people: ["Joshua", "Rahab", "Achan"]
 outline: [
   {
     text: "God commands Joshua to cross the Jordan, into the land with God has given the children of Israel",
@@ -81,6 +81,14 @@ outline: [
     start: {
       book: "Joshua",
       chapter: 6,
+      verse: 1
+    },
+  },
+  {
+    text: "Achan took something he wasn't supposed to. It caused Israel to lost a battle. Achan was stoned to death as punishment.",
+    start: {
+      book: "Joshua",
+      chapter: 7,
       verse: 1
     },
   }

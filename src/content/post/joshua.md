@@ -91,6 +91,22 @@ outline: [
       chapter: 7,
       verse: 1
     },
+  },
+  {
+    text: "Israel defeats Ai",
+    start: {
+      book: "Joshua",
+      chapter: 8,
+      verse: 1
+    },
+  },
+  {
+    text: "The people of Gibeon pretend to be from a distant land to the people of Israel",
+    start: {
+      book: "Joshua",
+      chapter: 9,
+      verse: 1
+    },
   }
 ]
 ---

@@ -1,8 +1,8 @@
 ---
 title: "Joshua"
 publishDate: "16 Jul 2024"
-tags: ["Lebanon", "Euphrates", "Jordan", "Jericho", "Shittim", "prostitute", "Levitical priests", "Ark of the covenant", "12 stones", "Gilgal", "trumpets", "rams' horns"]
-people: ["Joshua", "Rahab", "Achan"]
+tags: ["Lebanon", "Euphrates", "Jordan", "Jericho", "Shittim", "prostitute", "Levitical priests", "Ark of the covenant", "12 stones", "Gilgal", "trumpets", "rams' horns", "Ai", "Gibeon", "men of valor", "book of Jashar"]
+people: ["Joshua", "Rahab", "Achan", "Adoni-Zedek"]
 outline: [
   {
     text: "God commands Joshua to cross the Jordan, into the land with God has given the children of Israel",
@@ -106,6 +106,22 @@ outline: [
       book: "Joshua",
       chapter: 9,
       verse: 1
+    },
+  },
+  {
+    text: "God made the sun stand still to give time to the children of Israel to defeat the Amorites",
+    start: {
+      book: "Joshua",
+      chapter: 10,
+      verse: 1
+    },
+  },
+  {
+    text: "Israel defeated several more kingdoms",
+    start: {
+      book: "Joshua",
+      chapter: 10,
+      verse: 31
     },
   }
 ]

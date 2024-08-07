@@ -123,6 +123,14 @@ outline: [
       chapter: 10,
       verse: 31
     },
+  },
+  {
+    text: "Joshua and Israel waged war against many kingdoms that lasted a long time before a time of peace",
+    start: {
+      book: "Joshua",
+      chapter: 11,
+      verse: 1
+    },
   }
 ]
 ---

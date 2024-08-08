@@ -131,6 +131,14 @@ outline: [
       chapter: 11,
       verse: 1
     },
+  },
+  {
+    text: "The kings defeated by Moses and Joshua are recounted",
+    start: {
+      book: "Joshua",
+      chapter: 12,
+      verse: 1
+    },
   }
 ]
 ---

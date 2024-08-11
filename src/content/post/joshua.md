@@ -1,7 +1,7 @@
 ---
 title: "Joshua"
 publishDate: "16 Jul 2024"
-tags: ["Lebanon", "Euphrates", "Jordan", "Jericho", "Shittim", "prostitute", "Levitical priests", "Ark of the covenant", "12 stones", "Gilgal", "trumpets", "rams' horns", "Ai", "Gibeon", "men of valor", "book of Jashar"]
+tags: ["Lebanon", "Euphrates", "Jordan", "Jericho", "Shittim", "prostitute", "Levitical priests", "Ark of the covenant", "12 stones", "Gilgal", "trumpets", "rams' horns", "Ai", "Gibeon", "men of valor", "book of Jashar", "Reubenites", "Gadites", "half-tribe of Manasseh", "altar of witness"]
 people: ["Joshua", "Rahab", "Achan", "Adoni-Zedek"]
 outline: [
   {
@@ -169,6 +169,14 @@ outline: [
     start: {
       book: "Joshua",
       chapter: 21,
+      verse: 1
+    },
+  },
+  {
+    text: "The Reubenites, Gadites, and half-tribe of Manesseh were provided land near Canaan. They built an altar. Israelites came to potentially make war for their shift to worship other gods, but it was explained that the altar was a testament to God for their children to know their history. The explanation was accepted and praised.",
+    start: {
+      book: "Joshua",
+      chapter: 22,
       verse: 1
     },
   }

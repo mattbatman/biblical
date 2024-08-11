@@ -139,6 +139,22 @@ outline: [
       chapter: 12,
       verse: 1
     },
+  },
+  {
+    text: "The land yet to be conquered is outlined",
+    start: {
+      book: "Joshua",
+      chapter: 13,
+      verse: 1
+    },
+  },
+  {
+    text: "Inheritances of the tribes our described",
+    start: {
+      book: "Joshua",
+      chapter: 13,
+      verse: 8
+    },
   }
 ]
 ---

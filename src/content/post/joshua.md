@@ -1,7 +1,7 @@
 ---
 title: "Joshua"
 publishDate: "16 Jul 2024"
-tags: ["Lebanon", "Euphrates", "Jordan", "Jericho", "Shittim", "prostitute", "Levitical priests", "Ark of the covenant", "12 stones", "Gilgal", "trumpets", "rams' horns", "Ai", "Gibeon", "men of valor", "book of Jashar", "Reubenites", "Gadites", "half-tribe of Manasseh", "altar of witness"]
+tags: ["Lebanon", "Euphrates", "Jordan", "Jericho", "Shittim", "prostitute", "Levitical priests", "Ark of the covenant", "12 stones", "Gilgal", "trumpets", "rams' horns", "Ai", "Gibeon", "men of valor", "book of Jashar", "Reubenites", "Gadites", "half-tribe of Manasseh", "altar of witness", "Book of the Law of Moses", "Sechem", "the Book of the Law of God"]
 people: ["Joshua", "Rahab", "Achan", "Adoni-Zedek"]
 outline: [
   {
@@ -178,6 +178,22 @@ outline: [
       book: "Joshua",
       chapter: 22,
       verse: 1
+    },
+  },
+  {
+    text: "Joshua gives a final speech to the leaders of the tribes, warning them to follow God and not to mix ways with their neighboring nations and religions. The Covenant between God and the tribes of Israel was renewed.",
+    start: {
+      book: "Joshua",
+      chapter: 23,
+      verse: 1
+    },
+  },
+  {
+    text: "Joshua dies",
+    start: {
+      book: "Joshua",
+      chapter: 24,
+      verse: 29
     },
   }
 ]

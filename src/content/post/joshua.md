@@ -163,6 +163,14 @@ outline: [
       chapter: 20,
       verse: 1
     },
+  },
+  {
+    text: "Cities Allotted to the Levites are outlined",
+    start: {
+      book: "Joshua",
+      chapter: 21,
+      verse: 1
+    },
   }
 ]
 ---

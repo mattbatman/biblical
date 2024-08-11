@@ -155,6 +155,14 @@ outline: [
       chapter: 13,
       verse: 8
     },
+  },
+  {
+    text: "Cities of refuge our appointed for people to flee who have accidentally killed someone",
+    start: {
+      book: "Joshua",
+      chapter: 20,
+      verse: 1
+    },
   }
 ]
 ---

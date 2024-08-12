@@ -1,9 +1,26 @@
 ---
 title: "Judges"
 publishDate: "12 Aug 2024"
-tags: []
-people: []
-outline: []
+tags: ["canaan", "canaanite", "Bethel", "Hittites", "Gaza"]
+people: ["Judah", "Simeon", "Anak", "Adoni-Bezek", "Caleb"]
+outline: [
+  {
+    text: "Conquests after the death of Joshua are recounted",
+    start: {
+      book: "Judges",
+      chapter: 1,
+      verse: 1
+    }
+  },
+  {
+    text: "Areas where the Israelites did not drive out all other peoples are highlighted",
+    start: {
+      book: "Judges",
+      chapter: 1,
+      verse: 27
+    }
+  }
+]
 ---
 
 ## World English Bible Text

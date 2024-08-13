@@ -1,7 +1,7 @@
 ---
 title: "Judges"
 publishDate: "12 Aug 2024"
-tags: ["canaan", "canaanite", "Bethel", "Hittites", "Gaza"]
+tags: ["canaan", "canaanite", "Bethel", "Hittites", "Gaza", "angel", "Gilgal", "Bochim", "Baal", "Ashtaroth", "judges"]
 people: ["Judah", "Simeon", "Anak", "Adoni-Bezek", "Caleb"]
 outline: [
   {
@@ -18,6 +18,22 @@ outline: [
       book: "Judges",
       chapter: 1,
       verse: 27
+    }
+  },
+  {
+    text: "An angel warned the Israelites that because they did not drive out the people and other gods from the land they inherited, God would allow these people to be a thorn in their side.",
+    start: {
+      book: "Judges",
+      chapter: 2,
+      verse: 1
+    }
+  },
+  {
+    text: "When Joshua and his generation died out, the children of Israel began to worship other gods. God allowed their enemies to defeat them. He allowed judges to arise in Israel and convert the people back and allow them to defeat their enemies again. But after a given judge dies, the children of Israel strayed again to worship other gods and would be defeated by their enemies.",
+    start: {
+      book: "Judges",
+      chapter: 2,
+      verse: 4
     }
   }
 ]

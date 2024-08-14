@@ -1,8 +1,8 @@
 ---
 title: "Judges"
 publishDate: "12 Aug 2024"
-tags: ["canaan", "canaanite", "Bethel", "Hittites", "Gaza", "angel", "Gilgal", "Bochim", "Baal", "Ashtaroth", "judges"]
-people: ["Judah", "Simeon", "Anak", "Adoni-Bezek", "Caleb"]
+tags: ["canaan", "canaanite", "Bethel", "Hittites", "Gaza", "angel", "Gilgal", "Bochim", "Baal", "Ashtaroth", "judges", "Philistines", "Sidonians", "Hivites", "Moab", "Moabites", "Ammon", "Amalek", "city of palm trees"]
+people: ["Judah", "Simeon", "Anak", "Adoni-Bezek", "Caleb", "Eglon", "Ehud"]
 outline: [
   {
     text: "Conquests after the death of Joshua are recounted",
@@ -34,6 +34,14 @@ outline: [
       book: "Judges",
       chapter: 2,
       verse: 4
+    }
+  },
+  {
+    text: "God allowed Elgon to take some land from the children of Israel and rule over them. Ehud assassinated Eglon by stabbing him with a sword that became completely engulfed in his fat.",
+    start: {
+      book: "Judges",
+      chapter: 3,
+      verse: 15
     }
   }
 ]

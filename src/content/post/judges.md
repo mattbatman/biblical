@@ -2,7 +2,7 @@
 title: "Judges"
 publishDate: "12 Aug 2024"
 tags: ["canaan", "canaanite", "Bethel", "Hittites", "Gaza", "angel", "Gilgal", "Bochim", "Baal", "Ashtaroth", "judges", "Philistines", "Sidonians", "Hivites", "Moab", "Moabites", "Ammon", "Amalek", "city of palm trees"]
-people: ["Judah", "Simeon", "Anak", "Adoni-Bezek", "Caleb", "Eglon", "Ehud"]
+people: ["Judah", "Simeon", "Anak", "Adoni-Bezek", "Caleb", "Eglon", "Ehud", "Deborah", "Jabin", "Jael", "Sisera"]
 outline: [
   {
     text: "Conquests after the death of Joshua are recounted",
@@ -42,6 +42,14 @@ outline: [
       book: "Judges",
       chapter: 3,
       verse: 15
+    }
+  },
+  {
+    text: "After the death of Ehud, the children of Israel fell into evil ways and were conquered by Jabin king of Canaan. With the prodding of Deborah, the children of Israel liberated themselves of Jabin king of Canaan.",
+    start: {
+      book: "Judges",
+      chapter: 4,
+      verse: 1
     }
   }
 ]

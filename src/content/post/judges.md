@@ -51,6 +51,14 @@ outline: [
       chapter: 4,
       verse: 1
     }
+  },
+  {
+    text: "Deborah and Barak sang a song about Jael and Sisera",
+    start: {
+      book: "Judges",
+      chapter: 5,
+      verse: 1
+    }
   }
 ]
 ---

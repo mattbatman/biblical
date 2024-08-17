@@ -61,10 +61,18 @@ outline: [
     }
   },
   {
-    text: "An angel appeared before Gideon, encouraging him to destroy the altar of Baal in his town",
+    text: "Because the children of Israel fell into evil ways again, God let Midian take their land. An angel appeared before Gideon, encouraging him to destroy the altar of Baal in his town.",
     start: {
       book: "Judges",
       chapter: 6,
+      verse: 1
+    }
+  },
+  {
+    text: "Gideon gathered an army to drive out Midian, but God told him his army was too big for their victory to be impressive, so he dwindled the army down with tests before their first battle.",
+    start: {
+      book: "Judges",
+      chapter: 7,
       verse: 1
     }
   }

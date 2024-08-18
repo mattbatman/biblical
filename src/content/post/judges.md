@@ -1,7 +1,7 @@
 ---
 title: "Judges"
 publishDate: "12 Aug 2024"
-tags: ["canaan", "canaanite", "Bethel", "Hittites", "Gaza", "angel", "Gilgal", "Bochim", "Baal", "Ashtaroth", "judges", "Philistines", "Sidonians", "Hivites", "Moab", "Moabites", "Ammon", "Amalek", "city of palm trees", "Midian", "children of the east", "Amalekites", "Midianites", "oak", "Ophrah", "yahweh is peace", "Manasseh", "Abiezer"]
+tags: ["canaan", "canaanite", "Bethel", "Hittites", "Gaza", "angel", "Gilgal", "Bochim", "Baal", "Ashtaroth", "judges", "Philistines", "Sidonians", "Hivites", "Moab", "Moabites", "Ammon", "Amalek", "city of palm trees", "Midian", "children of the east", "Amalekites", "Midianites", "oak", "Ophrah", "yahweh is peace", "Manasseh", "Abiezer", "Baal Berith"]
 people: ["Judah", "Simeon", "Anak", "Adoni-Bezek", "Caleb", "Eglon", "Ehud", "Deborah", "Jabin", "Jael", "Sisera", "Gideon"]
 outline: [
   {
@@ -74,6 +74,22 @@ outline: [
       book: "Judges",
       chapter: 7,
       verse: 1
+    }
+  },
+  {
+    text: "The children of Israel asked Gideon to be their king, and he declined, telling them Yahweh would rule over them.",
+    start: {
+      book: "Judges",
+      chapter: 8,
+      verse: 22
+    }
+  },
+  {
+    text: "Gideon died, and the children of Israel began worshipping Baal Berith as their god.",
+    start: {
+      book: "Judges",
+      chapter: 8,
+      verse: 33
     }
   }
 ]

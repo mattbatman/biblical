@@ -2,7 +2,7 @@
 title: "Judges"
 publishDate: "12 Aug 2024"
 tags: ["canaan", "canaanite", "Bethel", "Hittites", "Gaza", "angel", "Gilgal", "Bochim", "Baal", "Ashtaroth", "judges", "Philistines", "Sidonians", "Hivites", "Moab", "Moabites", "Ammon", "Amalek", "city of palm trees", "Midian", "children of the east", "Amalekites", "Midianites", "oak", "Ophrah", "yahweh is peace", "Manasseh", "Abiezer", "Baal Berith", "Sechem"]
-people: ["Judah", "Simeon", "Anak", "Adoni-Bezek", "Caleb", "Eglon", "Ehud", "Deborah", "Jabin", "Jael", "Sisera", "Gideon", "Abimelech"]
+people: ["Judah", "Simeon", "Anak", "Adoni-Bezek", "Caleb", "Eglon", "Ehud", "Deborah", "Jabin", "Jael", "Sisera", "Gideon", "Abimelech", "Jephthah"]
 outline: [
   {
     text: "Conquests after the death of Joshua are recounted",
@@ -97,6 +97,14 @@ outline: [
     start: {
       book: "Judges",
       chapter: 9,
+      verse: 1
+    }
+  },
+  {
+    text: "Jephthah, the son of a prostitute, was kind of kicked out of his town, then asked to come back to lead Israel in war against the Ammonites. He promised God that he would sacrifice the first thing that came out of the doors of his house to greet him if God let him be successful in battle. After defeating the Ammonites, his daughter was the first thing to greet him from the doors of his home. Though anguished, he followed through, with his daughter's consent. She was his only child.",
+    start: {
+      book: "Judges",
+      chapter: 11,
       verse: 1
     }
   }

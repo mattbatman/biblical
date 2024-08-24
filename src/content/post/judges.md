@@ -1,7 +1,7 @@
 ---
 title: "Judges"
 publishDate: "12 Aug 2024"
-tags: ["canaan", "canaanite", "Bethel", "Hittites", "Gaza", "angel", "Gilgal", "Bochim", "Baal", "Ashtaroth", "judges", "Philistines", "Sidonians", "Hivites", "Moab", "Moabites", "Ammon", "Amalek", "city of palm trees", "Midian", "children of the east", "Amalekites", "Midianites", "oak", "Ophrah", "yahweh is peace", "Manasseh", "Abiezer", "Baal Berith", "Sechem", "Nazirite", "Timnah"]
+tags: ["canaan", "canaanite", "Bethel", "Hittites", "Gaza", "angel", "Gilgal", "Bochim", "Baal", "Ashtaroth", "judges", "Philistines", "Sidonians", "Hivites", "Moab", "Moabites", "Ammon", "Amalek", "city of palm trees", "Midian", "children of the east", "Amalekites", "Midianites", "oak", "Ophrah", "yahweh is peace", "Manasseh", "Abiezer", "Baal Berith", "Sechem", "Nazirite", "Timnah", "jawbone of a donkey"]
 people: ["Judah", "Simeon", "Anak", "Adoni-Bezek", "Caleb", "Eglon", "Ehud", "Deborah", "Jabin", "Jael", "Sisera", "Gideon", "Abimelech", "Jephthah", "Samson"]
 outline: [
   {
@@ -138,6 +138,22 @@ outline: [
       book: "Judges",
       chapter: 14,
       verse: 10
+    }
+  },
+  {
+    text: "The father of Samson's fie married her to another. He caught three hundred foxes, tied their tails together, set them on fire, and let them loose in the standing grain of the Philistines.",
+    start: {
+      book: "Judges",
+      chapter: 15,
+      verse: 1
+    }
+  },
+  {
+    text: "Philistines came to take revenge on Samson, who was hiding. The hallowed himself to be bound by other Israelites and delivered to the Philistines. The bounds came off, Samson picked up the jawbone of a dead donkey, and killed a thousand of the Philistines.",
+    start: {
+      book: "Judges",
+      chapter: 15,
+      verse: 6
     }
   }
 ]

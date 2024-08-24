@@ -1,8 +1,8 @@
 ---
 title: "Judges"
 publishDate: "12 Aug 2024"
-tags: ["canaan", "canaanite", "Bethel", "Hittites", "Gaza", "angel", "Gilgal", "Bochim", "Baal", "Ashtaroth", "judges", "Philistines", "Sidonians", "Hivites", "Moab", "Moabites", "Ammon", "Amalek", "city of palm trees", "Midian", "children of the east", "Amalekites", "Midianites", "oak", "Ophrah", "yahweh is peace", "Manasseh", "Abiezer", "Baal Berith", "Sechem"]
-people: ["Judah", "Simeon", "Anak", "Adoni-Bezek", "Caleb", "Eglon", "Ehud", "Deborah", "Jabin", "Jael", "Sisera", "Gideon", "Abimelech", "Jephthah"]
+tags: ["canaan", "canaanite", "Bethel", "Hittites", "Gaza", "angel", "Gilgal", "Bochim", "Baal", "Ashtaroth", "judges", "Philistines", "Sidonians", "Hivites", "Moab", "Moabites", "Ammon", "Amalek", "city of palm trees", "Midian", "children of the east", "Amalekites", "Midianites", "oak", "Ophrah", "yahweh is peace", "Manasseh", "Abiezer", "Baal Berith", "Sechem", "Nazirite", "Timnah"]
+people: ["Judah", "Simeon", "Anak", "Adoni-Bezek", "Caleb", "Eglon", "Ehud", "Deborah", "Jabin", "Jael", "Sisera", "Gideon", "Abimelech", "Jephthah", "Samson"]
 outline: [
   {
     text: "Conquests after the death of Joshua are recounted",
@@ -106,6 +106,38 @@ outline: [
       book: "Judges",
       chapter: 11,
       verse: 1
+    }
+  },
+  {
+    text: "An angel appears to Manoah's wife and told her she would have a son. She was not to drink string drink or unclean things. No razor should come to his head. He would begin to save Israel from the Philistines.",
+    start: {
+      book: "Judges",
+      chapter: 13,
+      verse: 1
+    }
+  },
+  {
+    text: "Samson saw a Philistine woman and told his parents he wanted her as his wife.",
+    start: {
+      book: "Judges",
+      chapter: 14,
+      verse: 1
+    }
+  },
+  {
+    text: "Samson tore a young lion apart with his bare hands.",
+    start: {
+      book: "Judges",
+      chapter: 14,
+      verse: 5
+    }
+  },
+  {
+    text: "Samson made a bet with some Philistines over a riddle to provide thirty pieces of linen. He told his wife the riddle. She told the Philistines. They gave him the answer. He was unaware of his wife's involvement, conceded they won, and killed thirty men to take their linen to repay the obligation of the bet.",
+    start: {
+      book: "Judges",
+      chapter: 14,
+      verse: 10
     }
   }
 ]

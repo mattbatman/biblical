@@ -155,6 +155,22 @@ outline: [
       chapter: 15,
       verse: 6
     }
+  },
+  {
+    text: "Samson fell in love with Delilah. She convinced him to tell her the secrets of his strength and sold it to the Philistines for 1,100 pieces of silver.",
+    start: {
+      book: "Judges",
+      chapter: 16,
+      verse: 1
+    }
+  },
+  {
+    text: "Samson was captured and his eyes were poked out. The Philistines had a ceremony to Dagon. They made Samson perform for them. He praid to God, and was given the strength to push down the columns of their temple and kill them all.",
+    start: {
+      book: "Judges",
+      chapter: 16,
+      verse: 21
+    }
   }
 ]
 ---

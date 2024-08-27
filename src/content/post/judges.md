@@ -187,6 +187,14 @@ outline: [
       chapter: 17,
       verse: 7
     }
+  },
+  {
+    text: "The people of Dan conquered a town and established the land as their own. Along the way, they stole Micah's carved and metal images for his household god and the Levite priest.",
+    start: {
+      book: "Judges",
+      chapter: 18,
+      verse: 1 
+    }
   }
 ]
 ---

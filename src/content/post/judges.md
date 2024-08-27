@@ -1,8 +1,8 @@
 ---
 title: "Judges"
 publishDate: "12 Aug 2024"
-tags: ["canaan", "canaanite", "Bethel", "Hittites", "Gaza", "angel", "Gilgal", "Bochim", "Baal", "Ashtaroth", "judges", "Philistines", "Sidonians", "Hivites", "Moab", "Moabites", "Ammon", "Amalek", "city of palm trees", "Midian", "children of the east", "Amalekites", "Midianites", "oak", "Ophrah", "yahweh is peace", "Manasseh", "Abiezer", "Baal Berith", "Sechem", "Nazirite", "Timnah", "jawbone of a donkey"]
-people: ["Judah", "Simeon", "Anak", "Adoni-Bezek", "Caleb", "Eglon", "Ehud", "Deborah", "Jabin", "Jael", "Sisera", "Gideon", "Abimelech", "Jephthah", "Samson"]
+tags: ["canaan", "canaanite", "Bethel", "Hittites", "Gaza", "angel", "Gilgal", "Bochim", "Baal", "Ashtaroth", "judges", "Philistines", "Sidonians", "Hivites", "Moab", "Moabites", "Ammon", "Amalek", "city of palm trees", "Midian", "children of the east", "Amalekites", "Midianites", "oak", "Ophrah", "yahweh is peace", "Manasseh", "Abiezer", "Baal Berith", "Sechem", "Nazirite", "Timnah", "jawbone of a donkey", "ephod"]
+people: ["Judah", "Simeon", "Anak", "Adoni-Bezek", "Caleb", "Eglon", "Ehud", "Deborah", "Jabin", "Jael", "Sisera", "Gideon", "Abimelech", "Jephthah", "Samson", "Micah"]
 outline: [
   {
     text: "Conquests after the death of Joshua are recounted",
@@ -170,6 +170,22 @@ outline: [
       book: "Judges",
       chapter: 16,
       verse: 21
+    }
+  },
+  {
+    text: "Micah acquired 1,100 pieces of silver. His mother used 200 pieces to create a metal image for a household god.",
+    start: {
+      book: "Judges",
+      chapter: 17,
+      verse: 1
+    }
+  },
+  {
+    text: "Micah commissioned a Levite to be his priest.",
+    start: {
+      book: "Judges",
+      chapter: 17,
+      verse: 7
     }
   }
 ]

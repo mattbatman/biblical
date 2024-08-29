@@ -195,6 +195,14 @@ outline: [
       chapter: 18,
       verse: 1 
     }
+  },
+  {
+    text: "A Levite's concubine went to her father's house. He went and got her. On their way back, they stopped at a stranger's home. The men of the village surrounded the home and demanded to be able to rape the man. He gave them his concubine. They abused her all night. The man took her home. He cut her into 12 pieces and sent the pieces of her throughout the borders of Israel.",
+    start: {
+      book: "Judges",
+      chapter: 19,
+      verse: 1 
+    }
   }
 ]
 ---

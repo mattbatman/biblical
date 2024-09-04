@@ -203,6 +203,22 @@ outline: [
       chapter: 19,
       verse: 1 
     }
+  },
+  {
+    text: "The tribes of Israel united and went to war with the tribe of Benjamin over their rape and murder of the Levite's concubine.",
+    start: {
+      book: "Judges",
+      chapter: 20,
+      verse: 1 
+    }
+  },
+  {
+    text: "The tribe of Benjamin was allowed to steal women as wives from a festival, so as not to die out.",
+    start: {
+      book: "Judges",
+      chapter: 21,
+      verse: 1 
+    }
   }
 ]
 ---

@@ -31,6 +31,9 @@ function convertReferenceObjectToId({
 		case "Judges":
 			bookAbbreviation = "JDG";
 			break;
+		case "Ruth":
+			bookAbbreviation = "RUT";
+			break;
 		default:
 			break;
 	}

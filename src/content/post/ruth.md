@@ -1,9 +1,18 @@
 ---
 title: "Ruth"
 publishDate: "4 Sep 2024"
-tags: []
-people: []
-outline: []
+tags: ["Bethlehem"]
+people: ["Naomi", "Ruth", "Mara"]
+outline: [
+  {
+		text: "Naomi had a husband and two sons that took wives -- one was Ruth. The husband and sons died. Naomi told her daughters-in-law to go on without her. Ruth refused. They returned to Bethlehem together.",
+		start: {
+			book: "Ruth",
+			chapter: 1,
+			verse: 1
+		}
+	}
+]
 ---
 
 ## World English Bible Text

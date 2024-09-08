@@ -2,13 +2,37 @@
 title: "Ruth"
 publishDate: "4 Sep 2024"
 tags: ["Bethlehem"]
-people: ["Naomi", "Ruth", "Mara"]
+people: ["Naomi", "Ruth", "Mara", "Boaz"]
 outline: [
   {
 		text: "Naomi had a husband and two sons that took wives -- one was Ruth. The husband and sons died. Naomi told her daughters-in-law to go on without her. Ruth refused. They returned to Bethlehem together.",
 		start: {
 			book: "Ruth",
 			chapter: 1,
+			verse: 1
+		}
+	},
+  {
+		text: "Ruth gleaned sheaves in Boaz's field and he was kind to her.",
+		start: {
+			book: "Ruth",
+			chapter: 2,
+			verse: 1
+		}
+	},
+  {
+		text: "Per Noami's direction, Ruth approached Boaz as he was lying down to sleep. He told her he would sort something out with the nearest kinsman of hers.",
+		start: {
+			book: "Ruth",
+			chapter: 3,
+			verse: 1
+		}
+	},
+  {
+		text: "The near kinsman declined to buy the parcel of land of Naomi and Ruth, so Boaz immediately bought it and took Ruth as his wife.",
+		start: {
+			book: "Ruth",
+			chapter: 4,
 			verse: 1
 		}
 	}

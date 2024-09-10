@@ -1,9 +1,18 @@
 ---
 title: "1 Samuel"
 publishDate: "9 Sep 2024"
-tags: []
-people: []
-outline: []
+tags: ["Ephraim"]
+people: ["Elkanah", "Hannah", "Peninnah", "Samuel", "Eli"]
+outline: [
+  {
+		text: "Hannah was barren, but prayed to God, and bore Samuel.",
+		start: {
+			book: "1 Samuel",
+			chapter: 1,
+			verse: 1
+		}
+	}
+]
 ---
 
 ## World English Bible Text

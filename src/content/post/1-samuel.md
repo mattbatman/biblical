@@ -1,7 +1,7 @@
 ---
 title: "1 Samuel"
 publishDate: "9 Sep 2024"
-tags: ["Ephraim"]
+tags: ["Ephraim", "Tent of Meeting"]
 people: ["Elkanah", "Hannah", "Peninnah", "Samuel", "Eli"]
 outline: [
   {
@@ -10,6 +10,22 @@ outline: [
 			book: "1 Samuel",
 			chapter: 1,
 			verse: 1
+		}
+	},
+  {
+		text: "Hannah prayed.",
+		start: {
+			book: "1 Samuel",
+			chapter: 2,
+			verse: 1
+		}
+	},
+  {
+		text: "Eli's sons were wicked, and a man proclaimed that Eli's sons would die and the role of his house would be replaced.",
+		start: {
+			book: "1 Samuel",
+			chapter: 2,
+			verse: 12
 		}
 	}
 ]

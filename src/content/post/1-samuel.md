@@ -27,6 +27,22 @@ outline: [
 			chapter: 2,
 			verse: 12
 		}
+	},
+  {
+		text: "God called to Samuel multiple times. Samuel thought it was Eli, and went to him. Eli eventually told Samuel to reply to God that his servant hears.",
+		start: {
+			book: "1 Samuel",
+			chapter: 3,
+			verse: 1
+		}
+	},
+  {
+		text: "God told Samuel that he would judge Eli's house.",
+		start: {
+			book: "1 Samuel",
+			chapter: 3,
+			verse: 11
+		}
 	}
 ]
 ---

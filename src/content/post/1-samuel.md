@@ -1,8 +1,8 @@
 ---
 title: "1 Samuel"
 publishDate: "9 Sep 2024"
-tags: ["Ephraim", "Tent of Meeting"]
-people: ["Elkanah", "Hannah", "Peninnah", "Samuel", "Eli"]
+tags: ["Ephraim", "Tent of Meeting", "Philistines", "Shiloh", "Ark of the Covenant", "cherubim"]
+people: ["Elkanah", "Hannah", "Peninnah", "Samuel", "Eli", "Hophni", "Phinehas", "Ichabod"]
 outline: [
   {
 		text: "Hannah was barren, but prayed to God, and bore Samuel.",
@@ -42,6 +42,22 @@ outline: [
 			book: "1 Samuel",
 			chapter: 3,
 			verse: 11
+		}
+	},
+  {
+		text: "The Philistines defeated Israel in battle, killed Eli's sons, and took the ark of the covenant.",
+		start: {
+			book: "1 Samuel",
+			chapter: 4,
+			verse: 1
+		}
+	},
+  {
+		text: "Eli died upon hearing the news of his sons and the ark.",
+		start: {
+			book: "1 Samuel",
+			chapter: 4,
+			verse: 18
 		}
 	}
 ]

@@ -1,7 +1,7 @@
 ---
 title: "1 Samuel"
 publishDate: "9 Sep 2024"
-tags: ["Ephraim", "Tent of Meeting", "Philistines", "Shiloh", "Ark of the Covenant", "cherubim"]
+tags: ["Ephraim", "Tent of Meeting", "Philistines", "Shiloh", "Ark of the Covenant", "cherubim", "Dagon", "Ashdod", "Ebenezer", "Gath", "Ekron"]
 people: ["Elkanah", "Hannah", "Peninnah", "Samuel", "Eli", "Hophni", "Phinehas", "Ichabod"]
 outline: [
   {
@@ -58,6 +58,14 @@ outline: [
 			book: "1 Samuel",
 			chapter: 4,
 			verse: 18
+		}
+	},
+  {
+		text: "The Ark was brought into the house of Dagon, and a depiction or statue of Dagon was found each morning disfigured or fallen over. The people of Ashdod suffered tumors. The Ark was sent to various Philistine towns, bringing afflictions on those people.",
+		start: {
+			book: "1 Samuel",
+			chapter: 5,
+			verse: 1
 		}
 	}
 ]

@@ -67,6 +67,14 @@ outline: [
 			chapter: 5,
 			verse: 1
 		}
+	},
+  {
+		text: "After 7 months, the Philistines attached the ark to two cows and sent it back to Israel with offerings, hoping to have theirs curses lifted.",
+		start: {
+			book: "1 Samuel",
+			chapter: 6,
+			verse: 1
+		}
 	}
 ]
 ---

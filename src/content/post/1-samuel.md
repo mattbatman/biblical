@@ -1,8 +1,8 @@
 ---
 title: "1 Samuel"
 publishDate: "9 Sep 2024"
-tags: ["Ephraim", "Tent of Meeting", "Philistines", "Shiloh", "Ark of the Covenant", "cherubim", "Dagon", "Ashdod", "Ebenezer", "Gath", "Ekron", "Baal", "Ashtaroth"]
-people: ["Elkanah", "Hannah", "Peninnah", "Samuel", "Eli", "Hophni", "Phinehas", "Ichabod"]
+tags: ["Ephraim", "Tent of Meeting", "Philistines", "Shiloh", "Ark of the Covenant", "cherubim", "Dagon", "Ashdod", "Ebenezer", "Gath", "Ekron", "Baal", "Ashtaroth", "Beersheba"]
+people: ["Elkanah", "Hannah", "Peninnah", "Samuel", "Eli", "Hophni", "Phinehas", "Ichabod", "Joel", "Abijah"]
 outline: [
   {
 		text: "Hannah was barren, but prayed to God, and bore Samuel.",
@@ -82,6 +82,14 @@ outline: [
 			book: "1 Samuel",
 			chapter: 7,
 			verse: 3
+		}
+	},
+  {
+		text: "The people of Israel asked Samuel for a king. God told Samuel to give them a king, even though it was a rejection of God as their king.",
+		start: {
+			book: "1 Samuel",
+			chapter: 8,
+			verse: 1
 		}
 	}
 ]

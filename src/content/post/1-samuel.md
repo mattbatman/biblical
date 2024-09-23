@@ -1,8 +1,8 @@
 ---
 title: "1 Samuel"
 publishDate: "9 Sep 2024"
-tags: ["Ephraim", "Tent of Meeting", "Philistines", "Shiloh", "Ark of the Covenant", "cherubim", "Dagon", "Ashdod", "Ebenezer", "Gath", "Ekron", "Baal", "Ashtaroth", "Beersheba"]
-people: ["Elkanah", "Hannah", "Peninnah", "Samuel", "Eli", "Hophni", "Phinehas", "Ichabod", "Joel", "Abijah"]
+tags: ["Ephraim", "Tent of Meeting", "Philistines", "Shiloh", "Ark of the Covenant", "cherubim", "Dagon", "Ashdod", "Ebenezer", "Gath", "Ekron", "Baal", "Ashtaroth", "Beersheba", "seer", "prophet", "judge"]
+people: ["Elkanah", "Hannah", "Peninnah", "Samuel", "Eli", "Hophni", "Phinehas", "Ichabod", "Joel", "Abijah", "Saul"]
 outline: [
   {
 		text: "Hannah was barren, but prayed to God, and bore Samuel.",
@@ -90,6 +90,22 @@ outline: [
 			book: "1 Samuel",
 			chapter: 8,
 			verse: 1
+		}
+	},
+  {
+		text: "Saul finds Samuel in search of his donkeys.",
+		start: {
+			book: "1 Samuel",
+			chapter: 9,
+			verse: 1
+		}
+	},
+  {
+		text: "Saul is appointed king.",
+		start: {
+			book: "1 Samuel",
+			chapter: 10,
+			verse: 17
 		}
 	}
 ]

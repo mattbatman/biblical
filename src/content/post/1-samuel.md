@@ -115,6 +115,14 @@ outline: [
 			chapter: 11,
 			verse: 1
 		}
+	},
+  {
+		text: "Samuel warned the people that they sinned in asking for a king, and God sent a thunderstorm on the day of harvest.",
+		start: {
+			book: "1 Samuel",
+			chapter: 12,
+			verse: 1
+		}
 	}
 ]
 ---

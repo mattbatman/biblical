@@ -123,6 +123,22 @@ outline: [
 			chapter: 12,
 			verse: 1
 		}
+	},
+  {
+		text: "Saul raised an army to fight the Philistines.",
+		start: {
+			book: "1 Samuel",
+			chapter: 13,
+			verse: 1
+		}
+	},
+  {
+		text: "Saul waited seven days for Samuel to appear to make a sacrifice, but Samuel did not appear. Saul proceeded to make the sacrifice because the people started to disperse. Samuel arrived and told Saul he did the wrong thing, and would not have a lasting kingdom because of it.",
+		start: {
+			book: "1 Samuel",
+			chapter: 13,
+			verse: 8 
+		}
 	}
 ]
 ---

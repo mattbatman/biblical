@@ -2,7 +2,7 @@
 title: "1 Samuel"
 publishDate: "9 Sep 2024"
 tags: ["Ephraim", "Tent of Meeting", "Philistines", "Shiloh", "Ark of the Covenant", "cherubim", "Dagon", "Ashdod", "Ebenezer", "Gath", "Ekron", "Baal", "Ashtaroth", "Beersheba", "seer", "prophet", "judge", "Jabesh"]
-people: ["Elkanah", "Hannah", "Peninnah", "Samuel", "Eli", "Hophni", "Phinehas", "Ichabod", "Joel", "Abijah", "Saul", "Nahash the Ammonite"]
+people: ["Elkanah", "Hannah", "Peninnah", "Samuel", "Eli", "Hophni", "Phinehas", "Ichabod", "Joel", "Abijah", "Saul", "Nahash the Ammonite", "Jonathan"]
 outline: [
   {
 		text: "Hannah was barren, but prayed to God, and bore Samuel.",
@@ -139,7 +139,31 @@ outline: [
 			chapter: 13,
 			verse: 8 
 		}
-	}
+	},
+  {
+    text: "Jonathan launched a successful surprise attack on the Philistines.",
+		start: {
+			book: "1 Samuel",
+			chapter: 14,
+			verse: 1
+		}
+  },
+  {
+    text: "Saul said an oath that anyone who ate food before he had victory over his enemies would be cursed. Jonathan did not know of the oath, and ate some honey in the woods. Something happened to his eyes. It seemed like he was going to die, but didn't because of something the people did.",
+		start: {
+			book: "1 Samuel",
+			chapter: 14,
+			verse: 24
+		}
+  },
+  {
+    text: ".",
+		start: {
+			book: "1 Samuel",
+			chapter: 14,
+			verse: 47
+		}
+  }
 ]
 ---
 

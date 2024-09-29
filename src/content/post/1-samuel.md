@@ -2,7 +2,7 @@
 title: "1 Samuel"
 publishDate: "9 Sep 2024"
 tags: ["Ephraim", "Tent of Meeting", "Philistines", "Shiloh", "Ark of the Covenant", "cherubim", "Dagon", "Ashdod", "Ebenezer", "Gath", "Ekron", "Baal", "Ashtaroth", "Beersheba", "seer", "prophet", "judge", "Jabesh"]
-people: ["Elkanah", "Hannah", "Peninnah", "Samuel", "Eli", "Hophni", "Phinehas", "Ichabod", "Joel", "Abijah", "Saul", "Nahash the Ammonite", "Jonathan"]
+people: ["Elkanah", "Hannah", "Peninnah", "Samuel", "Eli", "Hophni", "Phinehas", "Ichabod", "Joel", "Abijah", "Saul", "Nahash the Ammonite", "Jonathan", "Agag"]
 outline: [
   {
 		text: "Hannah was barren, but prayed to God, and bore Samuel.",
@@ -157,11 +157,19 @@ outline: [
 		}
   },
   {
-    text: ".",
+    text: "God said to Saul through Samuel to completely destroy the Amalekites and their livestock. He did not. By way of Samuel, God told Saul he would no longer be king of Israel for his disobedience.",
 		start: {
 			book: "1 Samuel",
-			chapter: 14,
-			verse: 47
+			chapter: 15,
+			verse: 1
+		}
+  },
+  {
+    text: "Samuel personally killed Agag, king of the Amalekites, who was spared.",
+		start: {
+			book: "1 Samuel",
+			chapter: 15,
+			verse: 33
 		}
   }
 ]

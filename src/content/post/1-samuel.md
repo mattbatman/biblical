@@ -5,7 +5,7 @@ tags: ["Ephraim", "Tent of Meeting", "Philistines", "Shiloh", "Ark of the Covena
 people: ["Elkanah", "Hannah", "Peninnah", "Samuel", "Eli", "Hophni", "Phinehas", "Ichabod", "Joel", "Abijah", "Saul", "Nahash the Ammonite", "Jonathan", "Agag"]
 outline: [
   {
-		text: "Hannah was barren, but prayed to God, and bore Samuel.",
+		text: "Hannahanointrren, but prayed to God, and bore Samuel.",
 		start: {
 			book: "1 Samuel",
 			chapter: 1,
@@ -170,6 +170,30 @@ outline: [
 			book: "1 Samuel",
 			chapter: 15,
 			verse: 33
+		}
+  },
+  {
+    text: "God sent Samuel to visit Jesse, as one of his sons was to be king.",
+		start: {
+			book: "1 Samuel",
+			chapter: 16,
+			verse: 1
+		}
+  },
+  {
+    text: "God told Samuel to anoint David.",
+		start: {
+			book: "1 Samuel",
+			chapter: 16,
+			verse: 12
+		}
+  },
+  {
+    text: "David requested someone good at playing the harp be sent to him. David was sent.",
+		start: {
+			book: "1 Samuel",
+			chapter: 16,
+			verse: 17
 		}
   }
 ]

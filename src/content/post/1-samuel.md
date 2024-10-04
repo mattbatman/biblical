@@ -205,6 +205,14 @@ outline: [
 		}
   },
   {
+    text: "David performed well enough in war that the people say songs about him, and Saul became jealous.",
+		start: {
+			book: "1 Samuel",
+			chapter: 18,
+			verse: 5
+		}
+  ,}
+  {
     text: "Saul attempted to give Merab, his daughter, to David as a wife in order to force him into dangerous situations with the Philistines. This didn't happen, but his daughter Michal and David fell in love, and they were married after David delivered 200 Philistine foreskins to Saul.",
 		start: {
 			book: "1 Samuel",

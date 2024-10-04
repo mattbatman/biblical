@@ -2,7 +2,7 @@
 title: "1 Samuel"
 publishDate: "9 Sep 2024"
 tags: ["Ephraim", "Tent of Meeting", "Philistines", "Shiloh", "Ark of the Covenant", "cherubim", "Dagon", "Ashdod", "Ebenezer", "Gath", "Ekron", "Baal", "Ashtaroth", "Beersheba", "seer", "prophet", "judge", "Jabesh", "harp"]
-people: ["Elkanah", "Hannah", "Peninnah", "Samuel", "Eli", "Hophni", "Phinehas", "Ichabod", "Joel", "Abijah", "Saul", "Nahash the Ammonite", "Jonathan", "Agag", "Goliath"]
+people: ["Elkanah", "Hannah", "Peninnah", "Samuel", "Eli", "Hophni", "Phinehas", "Ichabod", "Joel", "Abijah", "Saul", "Nahash the Ammonite", "Jonathan", "Agag", "Goliath", "Michal"]
 outline: [
   {
 		text: "Hannahanointrren, but prayed to God, and bore Samuel.",
@@ -202,6 +202,14 @@ outline: [
 			book: "1 Samuel",
 			chapter: 17,
 			verse: 1
+		}
+  },
+  {
+    text: "Saul attempted to give Merab, his daughter, to David as a wife in order to force him into dangerous situations with the Philistines. This didn't happen, but his daughter Michal and David fell in love, and they were married after David delivered 200 Philistine foreskins to Saul.",
+		start: {
+			book: "1 Samuel",
+			chapter: 18,
+			verse: 14
 		}
   }
 ]

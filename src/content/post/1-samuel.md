@@ -219,6 +219,30 @@ outline: [
 			chapter: 18,
 			verse: 14
 		}
+  },
+  {
+    text: "Jonathan, Saul's son, had David hide while he talked to his dad to convince him to spare David's life.",
+		start: {
+			book: "1 Samuel",
+			chapter: 19,
+			verse: 1
+		}
+  },
+  {
+    text: "There was another war with the Philistines. Saul became jealous of David's military success and tried to kill him with a spear.",
+		start: {
+			book: "1 Samuel",
+			chapter: 19,
+			verse: 8
+		}
+  },
+  {
+    text: "Michal put a wig on an idol and told Saul's men David was sick while David fled to live with Samuel.",
+		start: {
+			book: "1 Samuel",
+			chapter: 19,
+			verse: 15
+		}
   }
 ]
 ---

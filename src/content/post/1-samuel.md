@@ -243,6 +243,14 @@ outline: [
 			chapter: 19,
 			verse: 15
 		}
+  },
+  {
+    text: "Jonathan and David met and agreed on a signal for David to flee if Saul was determined to kill him. Jonathan attended a feast or dinner at the new moon with his father, in which David would have been expected to attend but didn't. Saul got so angry he threw a spear at Jonathan and cursed him and said he wanted David dead. Jonathan gave the danger signal to David by shooting arrows into a field and giving certain commands to his servant.",
+		start: {
+			book: "1 Samuel",
+			chapter: 20,
+			verse: 1
+		}
   }
 ]
 ---

@@ -251,6 +251,22 @@ outline: [
 			chapter: 20,
 			verse: 1
 		}
+  },
+  {
+    text: "David fled to Nob. He was given bread and Goliath's old sword.",
+		start: {
+			book: "1 Samuel",
+			chapter: 21,
+			verse: 1
+		}
+  },
+  {
+    text: "David was recognized by the king of Gath, and disturbed by someone reciting a phrase that had made Saul jealous in the past. David pretended to be mad.",
+		start: {
+			book: "1 Samuel",
+			chapter: 21,
+			verse: 10
+		}
   }
 ]
 ---

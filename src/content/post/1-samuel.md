@@ -1,8 +1,8 @@
 ---
 title: "1 Samuel"
 publishDate: "9 Sep 2024"
-tags: ["Ephraim", "Tent of Meeting", "Philistines", "Shiloh", "Ark of the Covenant", "cherubim", "Dagon", "Ashdod", "Ebenezer", "Gath", "Ekron", "Baal", "Ashtaroth", "Beersheba", "seer", "prophet", "judge", "Jabesh", "harp"]
-people: ["Elkanah", "Hannah", "Peninnah", "Samuel", "Eli", "Hophni", "Phinehas", "Ichabod", "Joel", "Abijah", "Saul", "Nahash the Ammonite", "Jonathan", "Agag", "Goliath", "Michal"]
+tags: ["Ephraim", "Tent of Meeting", "Philistines", "Shiloh", "Ark of the Covenant", "cherubim", "Dagon", "Ashdod", "Ebenezer", "Gath", "Ekron", "Baal", "Ashtaroth", "Beersheba", "seer", "prophet", "judge", "Jabesh", "harp", "ephod"]
+people: ["Elkanah", "Hannah", "Peninnah", "Samuel", "Eli", "Hophni", "Phinehas", "Ichabod", "Joel", "Abijah", "Saul", "Nahash the Ammonite", "Jonathan", "Agag", "Goliath", "Michal", "Doeg the Edomite", "David"]
 outline: [
   {
 		text: "Hannahanointrren, but prayed to God, and bore Samuel.",
@@ -266,6 +266,46 @@ outline: [
 			book: "1 Samuel",
 			chapter: 21,
 			verse: 10
+		}
+  },
+  {
+    text: "Doeg the Edomite killed 85 priests and woman and children at the command of Saul, who was pursuing David.",
+		start: {
+			book: "1 Samuel",
+			chapter: 22,
+			verse: 1
+		}
+  },
+  {
+    text: "David defended Keilah against the Philistines.",
+		start: {
+			book: "1 Samuel",
+			chapter: 23,
+			verse: 1
+		}
+  },
+  {
+    text: "David left Keilah after talking to God in fear of Saul.",
+		start: {
+			book: "1 Samuel",
+			chapter: 23,
+			verse: 7
+		}
+  },
+  {
+    text: "Jonathan, Saul's son, met David in the woods and made a covenant with him.",
+		start: {
+			book: "1 Samuel",
+			chapter: 23,
+			verse: 16
+		}
+  },
+  {
+    text: "Saul surrounded David in the wilderness of Maon, but gave up to defend the Israelites against attacks by the Philistines.",
+		start: {
+			book: "1 Samuel",
+			chapter: 23,
+			verse: 19
 		}
   }
 ]

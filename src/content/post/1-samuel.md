@@ -307,6 +307,14 @@ outline: [
 			chapter: 23,
 			verse: 19
 		}
+  },
+  {
+    text: "Saul took men to pursue David after he was done with the Philistines. Saul went to pee in a cave in which David was hiding. David snuck up and cut a piece of his skirt off, but didn't kill him. When Saul left the cave, David confronted him and showed him the skirt. Saul was emotionally moved that David didn't kill him, as he would have David.",
+		start: {
+			book: "1 Samuel",
+			chapter: 24,
+			verse: 1
+		}
   }
 ]
 ---

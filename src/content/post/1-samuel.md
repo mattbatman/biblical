@@ -2,7 +2,7 @@
 title: "1 Samuel"
 publishDate: "9 Sep 2024"
 tags: ["Ephraim", "Tent of Meeting", "Philistines", "Shiloh", "Ark of the Covenant", "cherubim", "Dagon", "Ashdod", "Ebenezer", "Gath", "Ekron", "Baal", "Ashtaroth", "Beersheba", "seer", "prophet", "judge", "Jabesh", "harp", "ephod"]
-people: ["Elkanah", "Hannah", "Peninnah", "Samuel", "Eli", "Hophni", "Phinehas", "Ichabod", "Joel", "Abijah", "Saul", "Nahash the Ammonite", "Jonathan", "Agag", "Goliath", "Michal", "Doeg the Edomite", "David"]
+people: ["Elkanah", "Hannah", "Peninnah", "Samuel", "Eli", "Hophni", "Phinehas", "Ichabod", "Joel", "Abijah", "Saul", "Nahash the Ammonite", "Jonathan", "Agag", "Goliath", "Michal", "Doeg the Edomite", "David", "Abigail", "Nabal"]
 outline: [
   {
 		text: "Hannahanointrren, but prayed to God, and bore Samuel.",
@@ -313,6 +313,14 @@ outline: [
 		start: {
 			book: "1 Samuel",
 			chapter: 24,
+			verse: 1
+		}
+  },
+  {
+    text: "David requests provisions from Nabal. Nabal insults David and his men. David moves to kill Nabal. Abigail, Nabal's wife, unbeknownst to Nabal, pleads to David for Nabal's life. David spares Nabal's life. Nabal dies 10 days later. David takes Abigail as a wife.",
+		start: {
+			book: "1 Samuel",
+			chapter: 25,
 			verse: 1
 		}
   }

@@ -323,6 +323,14 @@ outline: [
 			chapter: 25,
 			verse: 1
 		}
+  },
+  {
+    text: "Saul traveled to Hachilah to hunt David. David snuck up on him with some spies. One suggested killing Saul. David spared his life. Saul found out, and blessed David for sparing his life.",
+		start: {
+			book: "1 Samuel",
+			chapter: 26,
+			verse: 1
+		}
   }
 ]
 ---

@@ -331,6 +331,14 @@ outline: [
 			chapter: 26,
 			verse: 1
 		}
+  },
+  {
+    text: "David went to the land of the Philistines to escape Saul.",
+		start: {
+			book: "1 Samuel",
+			chapter: 27,
+			verse: 1
+		}
   }
 ]
 ---

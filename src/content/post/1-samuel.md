@@ -339,6 +339,14 @@ outline: [
 			chapter: 27,
 			verse: 1
 		}
+  },
+  {
+    text: "Saul felt God was not responding to him during a war with the Philistines, so he consulted a medium. The medium conjured Samuel, who told Saul that God had abandoned him for his disobedience.",
+		start: {
+			book: "1 Samuel",
+			chapter: 28,
+			verse: 1
+		}
   }
 ]
 ---

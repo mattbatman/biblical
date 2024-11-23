@@ -347,6 +347,14 @@ outline: [
 			chapter: 28,
 			verse: 1
 		}
+  },
+  {
+    text: "Samuel was asked to leave by the Philistines.",
+		start: {
+			book: "1 Samuel",
+			chapter: 29,
+			verse: 1
+		}
   }
 ]
 ---

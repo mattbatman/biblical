@@ -363,6 +363,14 @@ outline: [
 			chapter: 30,
 			verse: 1
 		}
+  },
+  {
+    text: "The Philistines killed Saul's three sons. He killed himself. His armor-carrier killed himself as well.",
+		start: {
+			book: "1 Samuel",
+			chapter: 31,
+			verse: 1
+		}
   }
 ]
 ---

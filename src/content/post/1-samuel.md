@@ -1,7 +1,7 @@
 ---
 title: "1 Samuel"
 publishDate: "9 Sep 2024"
-tags: ["Ephraim", "Tent of Meeting", "Philistines", "Shiloh", "Ark of the Covenant", "cherubim", "Dagon", "Ashdod", "Ebenezer", "Gath", "Ekron", "Baal", "Ashtaroth", "Beersheba", "seer", "prophet", "judge", "Jabesh", "harp", "ephod"]
+tags: ["Ephraim", "Tent of Meeting", "Philistines", "Shiloh", "Ark of the Covenant", "cherubim", "Dagon", "Ashdod", "Ebenezer", "Gath", "Ekron", "Baal", "Ashtaroth", "Beersheba", "seer", "prophet", "judge", "Jabesh", "harp", "ephod", "Ziklag", "Carmel"]
 people: ["Elkanah", "Hannah", "Peninnah", "Samuel", "Eli", "Hophni", "Phinehas", "Ichabod", "Joel", "Abijah", "Saul", "Nahash the Ammonite", "Jonathan", "Agag", "Goliath", "Michal", "Doeg the Edomite", "David", "Abigail", "Nabal"]
 outline: [
   {
@@ -349,10 +349,18 @@ outline: [
 		}
   },
   {
-    text: "Samuel was asked to leave by the Philistines.",
+    text: "David was asked to leave by the Philistines.",
 		start: {
 			book: "1 Samuel",
 			chapter: 29,
+			verse: 1
+		}
+  },
+  {
+    text: "David killed a raiding party of Amalekites. He spread the spoils across those who participated and did not participate in the battle.",
+		start: {
+			book: "1 Samuel",
+			chapter: 30,
 			verse: 1
 		}
   }

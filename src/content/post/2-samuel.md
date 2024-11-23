@@ -1,9 +1,42 @@
 ---
 title: "2 Samuel"
 publishDate: "22 Nov 2024"
-tags: []
-people: []
-outline: []
+tags: ["Ziklag", "Amalekite", "Hebron", "Judah"]
+people: ["David", "Abner", "Ishbosheth", "Joab", "Asahel"]
+outline: [
+  {
+		text: "David learns of Saul's death from an Amalekite and kills the messenger.",
+		start: {
+			book: "2 Samuel",
+			chapter: 1,
+			verse: 1
+		}
+	},
+  {
+		text: "David is anointed king over the house of Judah.",
+		start: {
+			book: "2 Samuel",
+			chapter: 2,
+			verse: 1
+		}
+	},
+  {
+		text: "Abner, captain of Saul's army, appointed Saul's son Ishbosheth king of Israel.",
+		start: {
+			book: "2 Samuel",
+			chapter: 2,
+			verse: 8
+		}
+	},
+  {
+		text: "There's a conflict between the servants of Ishbosheth and David.",
+		start: {
+			book: "2 Samuel",
+			chapter: 2,
+			verse: 12
+		}
+	}
+]
 ---
 
 ## World English Bible Text

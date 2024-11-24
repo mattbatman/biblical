@@ -35,6 +35,46 @@ outline: [
 			chapter: 2,
 			verse: 12
 		}
+	},
+  {
+		text: "A war started between Saul and David's houses.",
+		start: {
+			book: "2 Samuel",
+			chapter: 3,
+			verse: 1
+		}
+	},
+  {
+		text: "Abner and Ishosheth got in an argument.",
+		start: {
+			book: "2 Samuel",
+			chapter: 3,
+			verse: 6
+		}
+	},
+  {
+		text: "Abner switched sides to join David.",
+		start: {
+			book: "2 Samuel",
+			chapter: 3,
+			verse: 12
+		}
+	},
+  {
+		text: "Joab killed Abner to avenge Asahel.",
+		start: {
+			book: "2 Samuel",
+			chapter: 3,
+			verse: 26
+		}
+	},
+  {
+		text: "David condemned Joab's actions.",
+		start: {
+			book: "2 Samuel",
+			chapter: 3,
+			verse: 31
+		}
 	}
 ]
 ---

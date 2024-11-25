@@ -2,7 +2,7 @@
 title: "2 Samuel"
 publishDate: "22 Nov 2024"
 tags: ["Ziklag", "Amalekite", "Hebron", "Judah"]
-people: ["David", "Abner", "Ishbosheth", "Joab", "Asahel"]
+people: ["David", "Abner", "Ishbosheth", "Joab", "Asahel", "Baanah", "Rechab"]
 outline: [
   {
 		text: "David learns of Saul's death from an Amalekite and kills the messenger.",
@@ -74,6 +74,14 @@ outline: [
 			book: "2 Samuel",
 			chapter: 3,
 			verse: 31
+		}
+	},
+  {
+		text: "Two of Ishbosheth's captains killed him, beheaded him, and took his head to David after hearing Abner was dead. David had the two captains killed when they delivered Ishbosheth's head.",
+		start: {
+			book: "2 Samuel",
+			chapter: 4,
+			verse: 1
 		}
 	}
 ]

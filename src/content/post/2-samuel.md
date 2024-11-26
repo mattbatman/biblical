@@ -1,8 +1,8 @@
 ---
 title: "2 Samuel"
 publishDate: "22 Nov 2024"
-tags: ["Ziklag", "Amalekite", "Hebron", "Judah"]
-people: ["David", "Abner", "Ishbosheth", "Joab", "Asahel", "Baanah", "Rechab"]
+tags: ["Ziklag", "Amalekite", "Hebron", "Judah", "Ark of the Covenant", "Jerusalem"]
+people: ["David", "Abner", "Ishbosheth", "Joab", "Asahel", "Baanah", "Rechab", "Michael", "Uzzah"]
 outline: [
   {
 		text: "David learns of Saul's death from an Amalekite and kills the messenger.",
@@ -81,6 +81,46 @@ outline: [
 		start: {
 			book: "2 Samuel",
 			chapter: 4,
+			verse: 1
+		}
+	},
+  {
+		text: "David was appointed King of Israel by consent of elders of the tribes.",
+		start: {
+			book: "2 Samuel",
+			chapter: 5,
+			verse: 1
+		}
+	},
+  {
+		text: "David began to bring the Ark of the Convenant to Jerusalem.",
+		start: {
+			book: "2 Samuel",
+			chapter: 6,
+			verse: 1
+		}
+	},
+  {
+		text: "Uzzah touched the Ark. Yahweh killed him. David became concerned about moving the Ark.",
+		start: {
+			book: "2 Samuel",
+			chapter: 6,
+			verse: 6
+		}
+	},
+  {
+		text: "David commences with bringing the Ark to Jerusalem. Michal becomes displeased by seeing David dance. Michal never bares children.",
+		start: {
+			book: "2 Samuel",
+			chapter: 6,
+			verse: 12
+		}
+	},
+  {
+		text: "David desires to build a house for God. God makes a covenant with David, promising that his dynasty will last forever. David offers a prayer of thanksgiving.",
+		start: {
+			book: "2 Samuel",
+			chapter: 7,
 			verse: 1
 		}
 	}

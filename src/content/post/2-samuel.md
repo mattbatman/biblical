@@ -123,7 +123,15 @@ outline: [
 			chapter: 7,
 			verse: 1
 		}
-	}
+	},
+  {
+    text: "David subdues the Philistines and establishes reign over all of Israel.",
+    start: {
+        book: "2 Samuel",
+        chapter: 8,
+        verse: 1
+    }
+  }
 ]
 ---
 

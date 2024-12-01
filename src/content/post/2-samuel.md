@@ -2,7 +2,7 @@
 title: "2 Samuel"
 publishDate: "22 Nov 2024"
 tags: ["Ziklag", "Amalekite", "Hebron", "Judah", "Ark of the Covenant", "Jerusalem"]
-people: ["David", "Abner", "Ishbosheth", "Joab", "Asahel", "Baanah", "Rechab", "Michael", "Uzzah"]
+people: ["David", "Abner", "Ishbosheth", "Joab", "Asahel", "Baanah", "Rechab", "Michael", "Uzzah", "Mephibosheth", "Hanun", "Bathsheba", "Uriah"]
 outline: [
   {
 		text: "David learns of Saul's death from an Amalekite and kills the messenger.",
@@ -129,6 +129,30 @@ outline: [
     start: {
         book: "2 Samuel",
         chapter: 8,
+        verse: 1
+    }
+  },
+  {
+    text: "David showed kindness to Saul's son's son, Mephibosheth, by giving him Saul's land and allowing him to eat at the king's table.",
+    start: {
+        book: "2 Samuel",
+        chapter: 9,
+        verse: 1
+    }
+  },
+  {
+    text: "David attempts to show kindness to Hanun the son of Nahash, king of the Ammonites. His messengers are humiliated, sent back, and then the Ammonites attempt a rebellion in alliance with the Syrians. David defeats them.",
+    start: {
+        book: "2 Samuel",
+        chapter: 10,
+        verse: 1
+    }
+  },
+  {
+    text: "David sees an attractive woman, Bathsheba, bathing naked from his roof. He sleeps with her. She notifies him that she's pregnant. Her husband is in his army. David attempts to have him go home, twice, but he refused out of duty and honor. David has him sent into battle to be killed. After a period of morning, he has Bathsheba become a wife of his.",
+    start: {
+        book: "2 Samuel",
+        chapter: 11,
         verse: 1
     }
   }

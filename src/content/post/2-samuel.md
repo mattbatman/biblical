@@ -2,7 +2,7 @@
 title: "2 Samuel"
 publishDate: "22 Nov 2024"
 tags: ["Ziklag", "Amalekite", "Hebron", "Judah", "Ark of the Covenant", "Jerusalem"]
-people: ["David", "Abner", "Ishbosheth", "Joab", "Asahel", "Baanah", "Rechab", "Michael", "Uzzah", "Mephibosheth", "Hanun", "Bathsheba", "Uriah"]
+people: ["David", "Abner", "Ishbosheth", "Joab", "Asahel", "Baanah", "Rechab", "Michael", "Uzzah", "Mephibosheth", "Hanun", "Bathsheba", "Uriah", "Nathan", "Solomon"]
 outline: [
   {
 		text: "David learns of Saul's death from an Amalekite and kills the messenger.",
@@ -154,6 +154,38 @@ outline: [
         book: "2 Samuel",
         chapter: 11,
         verse: 1
+    }
+  },
+  {
+    text: "Yahweh sends Nathan to provide a story of a rich man, a poor man, and lamb to teach him of his sins with Bathseba and Uriah.",
+    start: {
+        book: "2 Samuel",
+        chapter: 12,
+        verse: 1
+    }
+  },
+  {
+    text: "Yahweh made the child born to David by Bathsheba sick. It died.",
+    start: {
+        book: "2 Samuel",
+        chapter: 12,
+        verse: 15
+    }
+  },
+  {
+    text: "After fasting and repenting, Bathsheba bore David a son named Solomon.",
+    start: {
+        book: "2 Samuel",
+        chapter: 12,
+        verse: 24
+    }
+  },
+  {
+    text: "Joab and David conquered Rabbah of the children of Ammon, and took the royal city.",
+    start: {
+        book: "2 Samuel",
+        chapter: 12,
+        verse: 26
     }
   }
 ]

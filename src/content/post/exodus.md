@@ -1,5 +1,6 @@
 ---
 title: "Exodus"
+pageType: "bibleChapter"
 publishDate: "26 Jan 2024"
 tags: ["Egypt", "Horeb", "God's mountain", "burning bush", "magicians", "Goshen", "locust", "plague", "Passover", "Ramses", "milk and honey", "unleavened bread", "lamb", "Red Sea", "manna", "Canaan", "Mount Sinai", "10 Commandments", "slavery", "cherubim", "ark of the covenant", "Tent of Meeting", "animal sacrifice", "incense", "tithe", "myrrh", "anointing oil", "frankincense", "perfume", "golden calf", "stiff-necked", "stone tablets", "covenant", "jealous God", "veil", "free will", "offering"]
 people: ["Moses", "Zipporah", "Gershom", "Aaron", "Jethro", "Joshua", "Amalek", "Bezalel", "Oholiab"]
@@ -298,7 +299,7 @@ outline: [
       book: "Exodus",
       chapter: 19,
       verse: 16
-    }   
+    }
   },
   {
     text: "God spoke the 10 commandments",
@@ -306,7 +307,7 @@ outline: [
       book: "Exodus",
       chapter: 20,
       verse: 1
-    }   
+    }
   },
   {
     text: "God provides further ordinances",
@@ -314,7 +315,7 @@ outline: [
       book: "Exodus",
       chapter: 21,
       verse: 1
-    }   
+    }
   },
   {
     text: "Moses went up on Mount Sinai to get the stone tablets of the commandments",
@@ -322,7 +323,7 @@ outline: [
       book: "Exodus",
       chapter: 24,
       verse: 12
-    }   
+    }
   },
   {
     text: "Moses receives instructions for the ark of the covenant",
@@ -330,7 +331,7 @@ outline: [
       book: "Exodus",
       chapter: 25,
       verse: 10
-    }   
+    }
   },
   {
     text: "God provides instructions for a tabernacle",
@@ -338,7 +339,7 @@ outline: [
       book: "Exodus",
       chapter: 26,
       verse: 1
-    }   
+    }
   },
   {
     text: "God provides instructions for making an alter and court for the tabernacle",
@@ -346,7 +347,7 @@ outline: [
       book: "Exodus",
       chapter: 27,
       verse: 1
-    }   
+    }
   },
   {
     text: "God provides instructions for Aaron as a minister and his garments",
@@ -354,7 +355,7 @@ outline: [
       book: "Exodus",
       chapter: 28,
       verse: 1
-    }   
+    }
   },
   {
     text: "God provides instructions for sacrifices to be made",
@@ -362,7 +363,7 @@ outline: [
       book: "Exodus",
       chapter: 29,
       verse: 1
-    }   
+    }
   },
   {
     text: "God provides instructions for making an altar, monetary sacrifices, and fragrances",
@@ -370,7 +371,7 @@ outline: [
       book: "Exodus",
       chapter: 30,
       verse: 1
-    }   
+    }
   },
   {
     text: "God appoints Bezalel and Oholiab to make everything he's provided instructions for",
@@ -378,7 +379,7 @@ outline: [
       book: "Exodus",
       chapter: 31,
       verse: 1
-    }   
+    }
   },
   {
     text: "God warns the Children of Israel to keep the Sabbath holy",
@@ -386,7 +387,7 @@ outline: [
       book: "Exodus",
       chapter: 31,
       verse: 12
-    }   
+    }
   },
   {
     text: "God gives Moses two stone tablets of the covenant written with God's finger",
@@ -394,7 +395,7 @@ outline: [
       book: "Exodus",
       chapter: 31,
       verse: 18
-    }   
+    }
   },
   {
     text: "The children of Israel made a golden calf to worship while Moses was away",
@@ -402,7 +403,7 @@ outline: [
       book: "Exodus",
       chapter: 32,
       verse: 1
-    }   
+    }
   },
   {
     text: "Moses convinces God not to kill all of the children of Israel",
@@ -410,7 +411,7 @@ outline: [
       book: "Exodus",
       chapter: 32,
       verse: 10
-    }   
+    }
   },
   {
     text: "Moses sees the golden calf and people worshipping it, gets angry, breaks the stone tablets, ground the calf, and makes the people drink it in water",
@@ -418,7 +419,7 @@ outline: [
       book: "Exodus",
       chapter: 32,
       verse: 18
-    }   
+    }
   },
   {
     text: "God tells Moses to have the people continue their journey, but that he would no longer travel with them",
@@ -426,7 +427,7 @@ outline: [
       book: "Exodus",
       chapter: 33,
       verse: 1
-    }   
+    }
   },
   {
     text: "Moses requests that Yahweh continue to travel before them while talking in the Tent of Meeting. Yahweh agrees to go before them, but says they cannot his face, or they will die. They will only see his back.",
@@ -434,7 +435,7 @@ outline: [
       book: "Exodus",
       chapter: 33,
       verse: 12
-    }   
+    }
   },
   {
     text: "God commands Moses to chisel two more stone tablets that he will write on",
@@ -442,7 +443,7 @@ outline: [
       book: "Exodus",
       chapter: 34,
       verse: 1
-    }   
+    }
   },
   {
     text: "After forty more days, Moses came down from Mount Sinai with the tablets. His face shone, and Moses began wearing a veil.",
@@ -450,7 +451,7 @@ outline: [
       book: "Exodus",
       chapter: 34,
       verse: 39
-    }   
+    }
   },
   {
     text: "Moses conveys the commandments to the Children of Israel, and they make offerings to God",
@@ -458,7 +459,7 @@ outline: [
       book: "Exodus",
       chapter: 35,
       verse: 1
-    }   
+    }
   },
   {
     text: "The Children of Israel begin building the tabernacle",
@@ -466,7 +467,7 @@ outline: [
       book: "Exodus",
       chapter: 36,
       verse: 1
-    }   
+    }
   },
   {
     text: "Bezalel makes the ark of the covenant",
@@ -474,7 +475,7 @@ outline: [
       book: "Exodus",
       chapter: 37,
       verse: 1
-    }   
+    }
   },
   {
     text: "The altar was made, and an accounting of materials for all construction provided",
@@ -482,7 +483,7 @@ outline: [
       book: "Exodus",
       chapter: 38,
       verse: 1
-    }   
+    }
   },
   {
     text: "They made holy garments for Aaron",
@@ -490,7 +491,7 @@ outline: [
       book: "Exodus",
       chapter: 39,
       verse: 1
-    }   
+    }
   },
   {
     text: "Everything they built was assembled",
@@ -498,7 +499,7 @@ outline: [
       book: "Exodus",
       chapter: 40,
       verse: 1
-    }   
+    }
   }
 ]
 ---

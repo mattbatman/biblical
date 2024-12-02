@@ -1,5 +1,6 @@
 ---
 title: "Genesis"
+pageType: "bibleChapter"
 publishDate: "22 Dec 2023"
 tags: ["firmament", "creation", "cherubim", "tree of life", "tree of the knowledge of good and evil", "nephilim", "Noah's Ark", "Garden of Eden", "rainbows", "flood", "Tower of Babel", "Egypt", "Sodom and Gomorrah", "covenant", "circumcision", "sacrifice", "blessings", "Bethel", "Canaan", "dreams", "Ishmaelites", "prostitution", "famine", "twelve tribes of Israel", "silver cup", "slavery"]
 people: ["Adam", "Eve", "The serpent", "Cain", "Abel", "Seth", "Enoch", "Methuselah", "Noah", "Shem", "Ham", "Japheth", "Abraham (Abram)", "Sarah (Sarai)", "Lot", "Hagar", "Ishmael", "Isaac", "Abimelech", "Rebekah", "Esau", "Jacob (Israel)", "Rachel", "Leah", "Laban", "Dinah", "Sechem", "Hamor", "Joseph", "Potiphar"]

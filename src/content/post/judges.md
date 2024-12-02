@@ -1,5 +1,6 @@
 ---
 title: "Judges"
+pageType: "bibleChapter"
 publishDate: "12 Aug 2024"
 tags: ["canaan", "canaanite", "Bethel", "Hittites", "Gaza", "angel", "Gilgal", "Bochim", "Baal", "Ashtaroth", "judges", "Philistines", "Sidonians", "Hivites", "Moab", "Moabites", "Ammon", "Amalek", "city of palm trees", "Midian", "children of the east", "Amalekites", "Midianites", "oak", "Ophrah", "yahweh is peace", "Manasseh", "Abiezer", "Baal Berith", "Sechem", "Nazirite", "Timnah", "jawbone of a donkey", "ephod"]
 people: ["Judah", "Simeon", "Anak", "Adoni-Bezek", "Caleb", "Eglon", "Ehud", "Deborah", "Jabin", "Jael", "Sisera", "Gideon", "Abimelech", "Jephthah", "Samson", "Micah"]
@@ -193,7 +194,7 @@ outline: [
     start: {
       book: "Judges",
       chapter: 18,
-      verse: 1 
+      verse: 1
     }
   },
   {
@@ -201,7 +202,7 @@ outline: [
     start: {
       book: "Judges",
       chapter: 19,
-      verse: 1 
+      verse: 1
     }
   },
   {
@@ -209,7 +210,7 @@ outline: [
     start: {
       book: "Judges",
       chapter: 20,
-      verse: 1 
+      verse: 1
     }
   },
   {
@@ -217,7 +218,7 @@ outline: [
     start: {
       book: "Judges",
       chapter: 21,
-      verse: 1 
+      verse: 1
     }
   }
 ]

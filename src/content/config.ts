@@ -43,6 +43,7 @@ const post = defineCollection({
 				.optional(),
 			people: z.array(z.string()).default([]),
 			ogImage: z.string().optional(),
+			pageType: z.enum(["bibleChapter", "other"]),
 		}),
 });
 

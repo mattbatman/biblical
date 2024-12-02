@@ -1,5 +1,6 @@
 ---
 title: "Joshua"
+pageType: "bibleChapter"
 publishDate: "16 Jul 2024"
 tags: ["Lebanon", "Euphrates", "Jordan", "Jericho", "Shittim", "prostitute", "Levitical priests", "Ark of the covenant", "12 stones", "Gilgal", "trumpets", "rams' horns", "Ai", "Gibeon", "men of valor", "book of Jashar", "Reubenites", "Gadites", "half-tribe of Manasseh", "altar of witness", "Book of the Law of Moses", "Sechem", "the Book of the Law of God"]
 people: ["Joshua", "Rahab", "Achan", "Adoni-Zedek"]

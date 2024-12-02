@@ -1,5 +1,6 @@
 ---
 title: "2 Samuel"
+pageType: "bibleChapter"
 publishDate: "22 Nov 2024"
 tags: ["Ziklag", "Amalekite", "Hebron", "Judah", "Ark of the Covenant", "Jerusalem", "lamb", "Bahurim", "Judah", "Abel of Beth Maacah", "Gibeonites", "Gath", "Gob"]
 people: ["David", "Abner", "Ishbosheth", "Joab", "Asahel", "Baanah", "Rechab", "Michael", "Uzzah", "Mephibosheth", "Hanun", "Bathsheba", "Uriah", "Nathan", "Solomon", "Absalom", "Amnon", "Tamar", "Hushai", "Shimei", "Ahithophel", "Sheba", "Amasa", "Ishbibenob", "Abishai", "Sibbecai", "Saph", "Elhanan"]

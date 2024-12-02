@@ -1,5 +1,6 @@
 ---
 title: "Leviticus"
+pageType: "bibleChapter"
 publishDate: "24 Feb 2024"
 tags: ["sacrifice", "Tent of Meeting", "offering", "incense", "Molech", "blasphemy", "stoning", "perversion", "Jubilee"]
 people: ["Moses", "Aaron", "Nadab", "Abihu"]
@@ -209,7 +210,7 @@ outline: [
 		start: {
 			book: "Leviticus",
 			chapter: 26,
-			verse: 3 
+			verse: 3
 		}
 	},
   {

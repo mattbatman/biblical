@@ -1,5 +1,6 @@
 ---
 title: "1 Samuel"
+pageType: "bibleChapter"
 publishDate: "9 Sep 2024"
 tags: ["Ephraim", "Tent of Meeting", "Philistines", "Shiloh", "Ark of the Covenant", "cherubim", "Dagon", "Ashdod", "Ebenezer", "Gath", "Ekron", "Baal", "Ashtaroth", "Beersheba", "seer", "prophet", "judge", "Jabesh", "harp", "ephod", "Ziklag", "Carmel"]
 people: ["Elkanah", "Hannah", "Peninnah", "Samuel", "Eli", "Hophni", "Phinehas", "Ichabod", "Joel", "Abijah", "Saul", "Nahash the Ammonite", "Jonathan", "Agag", "Goliath", "Michal", "Doeg the Edomite", "David", "Abigail", "Nabal"]
@@ -137,7 +138,7 @@ outline: [
 		start: {
 			book: "1 Samuel",
 			chapter: 13,
-			verse: 8 
+			verse: 8
 		}
 	},
   {

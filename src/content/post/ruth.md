@@ -1,5 +1,6 @@
 ---
 title: "Ruth"
+pageType: "bibleChapter"
 publishDate: "4 Sep 2024"
 tags: ["Bethlehem"]
 people: ["Naomi", "Ruth", "Mara", "Boaz"]

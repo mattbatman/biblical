@@ -1,5 +1,6 @@
 ---
 title: "Deuteronomy"
+pageType: "bibleChapter"
 publishDate: "12 Apr 2024"
 tags: ["Anakim", "Red Sea", "Moab", "Emim", "Rephaim", "Mount Seir", "ten commandments", "stone tablets", "ark of the covenant", "Asherim", "tithe", "diet", "Passover", "Feast of Booths", "Feast of Weeks", "Asherah", "stoning", "Mount Ebal", "Song of Moses"]
 people: ["Moses", "Caleb", "Joshua", "Aaron", "Eleazer", "Amalek"]

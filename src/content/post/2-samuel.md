@@ -187,6 +187,22 @@ outline: [
         chapter: 12,
         verse: 26
     }
+  },
+  {
+    text: "Amnon, David's son, rapes his sister Tamar.",
+    start: {
+        book: "2 Samuel",
+        chapter: 13,
+        verse: 1
+    }
+  },
+  {
+    text: "Absalom plots and kills Amnon at a visit to some sheepshearers in retribution for Tamar.",
+    start: {
+        book: "2 Samuel",
+        chapter: 13,
+        verse: 1
+    }
   }
 ]
 ---

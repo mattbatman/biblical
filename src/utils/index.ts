@@ -2,6 +2,7 @@ export { getFormattedDate } from "./date";
 export { elementHasClass, toggleClass, rootHasDarkClass } from "./domElement";
 export {
 	getAllPosts,
+	getAllBibleChapters,
 	sortMDByDate,
 	getUniqueTags,
 	getUniqueTagsWithCount,

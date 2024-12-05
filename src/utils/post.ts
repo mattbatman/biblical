@@ -8,6 +8,16 @@ export async function getAllPosts() {
 	});
 }
 
+export async function getAllBibleChapters() {
+	const allPosts = await getAllPosts();
+
+	return allPosts.filter(function ({ data }) {
+		const { pageType } = data;
+
+		return pageType === "bibleChapter";
+	});
+}
+
 export function sortMDByDate(posts: Array<CollectionEntry<"post">>) {
 	return posts.sort((a, b) => {
 		const aDate = new Date(a.data.updatedDate ?? a.data.publishDate).valueOf();
@@ -16,7 +26,7 @@ export function sortMDByDate(posts: Array<CollectionEntry<"post">>) {
 	});
 }
 
-/** Note: This function doesn't filter draft posts, pass it the result of getAllPosts above to do so. */
+/** Note: This function doesn't filter draft posts, pass it the result of k above to do so. */
 export function getAllTags(posts: Array<CollectionEntry<"post">>) {
 	return posts.flatMap((post) => [...post.data.tags]);
 }
@@ -25,7 +35,7 @@ export function getAllPeople(posts: Array<CollectionEntry<"post">>) {
 	return posts.flatMap((post) => [...post.data.people]);
 }
 
-/** Note: This function doesn't filter draft posts, pass it the result of getAllPosts above to do so. */
+/** Note: This function doesn't filter draft posts, pass it the result of k above to do so. */
 export function getUniqueTags(posts: Array<CollectionEntry<"post">>) {
 	return [...new Set(getAllTags(posts))];
 }
@@ -34,7 +44,7 @@ export function getUniquePeople(posts: Array<CollectionEntry<"post">>) {
 	return [...new Set(getAllPeople(posts))];
 }
 
-/** Note: This function doesn't filter draft posts, pass it the result of getAllPosts above to do so. */
+/** Note: This function doesn't filter draft posts, pass it the result of k above to do so. */
 export function getUniqueTagsWithCount(
 	posts: Array<CollectionEntry<"post">>,
 ): Array<[string, number]> {

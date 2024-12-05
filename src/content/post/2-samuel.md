@@ -2,7 +2,7 @@
 title: "2 Samuel"
 publishDate: "22 Nov 2024"
 tags: ["Ziklag", "Amalekite", "Hebron", "Judah", "Ark of the Covenant", "Jerusalem", "lamb"]
-people: ["David", "Abner", "Ishbosheth", "Joab", "Asahel", "Baanah", "Rechab", "Michael", "Uzzah", "Mephibosheth", "Hanun", "Bathsheba", "Uriah", "Nathan", "Solomon"]
+people: ["David", "Abner", "Ishbosheth", "Joab", "Asahel", "Baanah", "Rechab", "Michael", "Uzzah", "Mephibosheth", "Hanun", "Bathsheba", "Uriah", "Nathan", "Solomon", "Absalom", "Amnon", "Tamar"]
 outline: [
   {
 		text: "David learns of Saul's death from an Amalekite and kills the messenger.",

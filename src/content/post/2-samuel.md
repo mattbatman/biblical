@@ -2,7 +2,7 @@
 title: "2 Samuel"
 publishDate: "22 Nov 2024"
 tags: ["Ziklag", "Amalekite", "Hebron", "Judah", "Ark of the Covenant", "Jerusalem", "lamb"]
-people: ["David", "Abner", "Ishbosheth", "Joab", "Asahel", "Baanah", "Rechab", "Michael", "Uzzah", "Mephibosheth", "Hanun", "Bathsheba", "Uriah", "Nathan", "Solomon", "Absalom", "Amnon", "Tamar"]
+people: ["David", "Abner", "Ishbosheth", "Joab", "Asahel", "Baanah", "Rechab", "Michael", "Uzzah", "Mephibosheth", "Hanun", "Bathsheba", "Uriah", "Nathan", "Solomon", "Absalom", "Amnon", "Tamar", "Hushai"]
 outline: [
   {
 		text: "David learns of Saul's death from an Amalekite and kills the messenger.",
@@ -202,6 +202,62 @@ outline: [
         book: "2 Samuel",
         chapter: 13,
         verse: 1
+    }
+  },
+  {
+    text: "Joab sent a wise woman to convince David to make peace with Absalom.",
+    start: {
+        book: "2 Samuel",
+        chapter: 14,
+        verse: 1
+    }
+  },
+  {
+    text: "Joab sent a wise woman to pretend to be a mourner, strike up a conversation with David, and convince David to make peace with Absalom.",
+    start: {
+        book: "2 Samuel",
+        chapter: 14,
+        verse: 1
+    }
+  },
+  {
+    text: "David allowed Absalom to return Jerusalem.",
+    start: {
+        book: "2 Samuel",
+        chapter: 14,
+        verse: 21
+    }
+  },
+  {
+    text: "Absalom undermines popular support of David by doing things like promise members of the tribe of Israel that he would justly hear them in court if only he were king.",
+    start: {
+        book: "2 Samuel",
+        chapter: 15,
+        verse: 1
+    }
+  },
+  {
+    text: "Absalom leaves Jerusalem to gather men to overthrow David.",
+    start: {
+        book: "2 Samuel",
+        chapter: 15,
+        verse: 13
+    }
+  },
+  {
+    text: "David decides to flee Jerusalem.",
+    start: {
+        book: "2 Samuel",
+        chapter: 15,
+        verse: 13
+    }
+  },
+  {
+    text: "Hushai is sent to Jerusalem to spy for David.",
+    start: {
+        book: "2 Samuel",
+        chapter: 15,
+        verse: 32
     }
   }
 ]

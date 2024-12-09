@@ -1,8 +1,8 @@
 ---
 title: "2 Samuel"
 publishDate: "22 Nov 2024"
-tags: ["Ziklag", "Amalekite", "Hebron", "Judah", "Ark of the Covenant", "Jerusalem", "lamb"]
-people: ["David", "Abner", "Ishbosheth", "Joab", "Asahel", "Baanah", "Rechab", "Michael", "Uzzah", "Mephibosheth", "Hanun", "Bathsheba", "Uriah", "Nathan", "Solomon", "Absalom", "Amnon", "Tamar", "Hushai"]
+tags: ["Ziklag", "Amalekite", "Hebron", "Judah", "Ark of the Covenant", "Jerusalem", "lamb", "Bahurim"]
+people: ["David", "Abner", "Ishbosheth", "Joab", "Asahel", "Baanah", "Rechab", "Michael", "Uzzah", "Mephibosheth", "Hanun", "Bathsheba", "Uriah", "Nathan", "Solomon", "Absalom", "Amnon", "Tamar", "Hushai", "Shimei", "Ahithophel"]
 outline: [
   {
 		text: "David learns of Saul's death from an Amalekite and kills the messenger.",
@@ -258,6 +258,30 @@ outline: [
         book: "2 Samuel",
         chapter: 15,
         verse: 32
+    }
+  },
+  {
+    text: "A descendant of Saul came out while David and his people were passing by to berate and mock them. Someone from David's army requested to kill him. David refused, saying God may have sent him there to mock them for a reason.",
+    start: {
+        book: "2 Samuel",
+        chapter: 16,
+        verse: 5
+    }
+  },
+  {
+    text: "A descendant of Saul came out while David and his people were passing by to berate and mock them. Someone from David's army requested to kill him. David refused, saying God may have sent him there to mock them for a reason.",
+    start: {
+        book: "2 Samuel",
+        chapter: 16,
+        verse: 5
+    }
+  },
+  {
+    text: "",
+    start: {
+        book: "2 Samuel",
+        chapter: 16,
+        verse: 11
     }
   }
 ]

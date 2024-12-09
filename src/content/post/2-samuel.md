@@ -283,6 +283,22 @@ outline: [
       chapter: 16,
       verse: 20
     }
+  },
+  {
+    text: "Ahithopel advised Absalom to hunt down David while he was fleeing. Hushai advised against this, and sent word to David it may happen.",
+    start: {
+      book: "2 Samuel",
+      chapter: 17,
+      verse: 1
+    }
+  },
+  {
+    text: "Ahitophel hung himself when his advice to pursue David was not followed.",
+    start: {
+      book: "2 Samuel",
+      chapter: 17,
+      verse: 23
+    }
   }
 ]
 ---

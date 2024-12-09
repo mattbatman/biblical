@@ -277,11 +277,11 @@ outline: [
     }
   },
   {
-    text: "",
+    text: "Absalom enters Jerusalem and, following Ahithophel's advice, sleeps with David's concubines to assert his claim to the throne.",
     start: {
-        book: "2 Samuel",
-        chapter: 16,
-        verse: 11
+      book: "2 Samuel",
+      chapter: 16,
+      verse: 20
     }
   }
 ]

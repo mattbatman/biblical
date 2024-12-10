@@ -299,7 +299,31 @@ outline: [
       chapter: 17,
       verse: 23
     }
-  }
+  },
+  {
+    text: "David prepares for battle against Absalom.",
+    start: {
+        book: "2 Samuel",
+        chapter: 18,
+        verse: 1
+    }
+  },
+  {
+    text: "Absalom gets caught by his hair in the branches of a tree and is killed by Joab, despite David instructing his forces not to kill Absalom.",
+    start: {
+        book: "2 Samuel",
+        chapter: 18,
+        verse: 9
+    }
+  },
+  {
+    text: "David hears of Absalom's death and mourns.",
+    start: {
+        book: "2 Samuel",
+        chapter: 18,
+        verse: 19
+    }
+  },
 ]
 ---
 

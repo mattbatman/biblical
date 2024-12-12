@@ -324,6 +324,22 @@ outline: [
         verse: 19
     }
   },
+  {
+    text: "Jaob reprimands David for morning for Absalom, but not his fallen troops.",
+    start: {
+        book: "2 Samuel",
+        chapter: 19,
+        verse: 1
+    }
+  },
+  {
+    text: "Shimei begs for forgiveness.",
+    start: {
+        book: "2 Samuel",
+        chapter: 19,
+        verse: 15
+    }
+  }
 ]
 ---
 

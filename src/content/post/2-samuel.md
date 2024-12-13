@@ -1,8 +1,8 @@
 ---
 title: "2 Samuel"
 publishDate: "22 Nov 2024"
-tags: ["Ziklag", "Amalekite", "Hebron", "Judah", "Ark of the Covenant", "Jerusalem", "lamb", "Bahurim", "Judah", "Abel of Beth Maacah"]
-people: ["David", "Abner", "Ishbosheth", "Joab", "Asahel", "Baanah", "Rechab", "Michael", "Uzzah", "Mephibosheth", "Hanun", "Bathsheba", "Uriah", "Nathan", "Solomon", "Absalom", "Amnon", "Tamar", "Hushai", "Shimei", "Ahithophel", "Sheba", "Amasa"]
+tags: ["Ziklag", "Amalekite", "Hebron", "Judah", "Ark of the Covenant", "Jerusalem", "lamb", "Bahurim", "Judah", "Abel of Beth Maacah", "Gibeonites", "Gath", "Gob"]
+people: ["David", "Abner", "Ishbosheth", "Joab", "Asahel", "Baanah", "Rechab", "Michael", "Uzzah", "Mephibosheth", "Hanun", "Bathsheba", "Uriah", "Nathan", "Solomon", "Absalom", "Amnon", "Tamar", "Hushai", "Shimei", "Ahithophel", "Sheba", "Amasa", "Ishbibenob", "Abishai", "Sibbecai", "Saph", "Elhanan"]
 outline: [
   {
 		text: "David learns of Saul's death from an Amalekite and kills the messenger.",
@@ -362,6 +362,22 @@ outline: [
         book: "2 Samuel",
         chapter: 20,
         verse: 14
+    }
+  },
+  {
+    text: "A famine strikes Israel for 3 years. God tells David it's because of how Saul treated the Gibeonites. They required 7 of Saul's descendants to be sacrificed.",
+    start: {
+        book: "2 Samuel",
+        chapter: 21,
+        verse: 1
+    }
+  },
+  {
+    text: "David goes to war with the Philistines and they kill four giants.",
+    start: {
+        book: "2 Samuel",
+        chapter: 21,
+        verse: 15
     }
   }
 ]

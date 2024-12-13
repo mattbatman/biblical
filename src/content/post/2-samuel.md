@@ -1,8 +1,8 @@
 ---
 title: "2 Samuel"
 publishDate: "22 Nov 2024"
-tags: ["Ziklag", "Amalekite", "Hebron", "Judah", "Ark of the Covenant", "Jerusalem", "lamb", "Bahurim"]
-people: ["David", "Abner", "Ishbosheth", "Joab", "Asahel", "Baanah", "Rechab", "Michael", "Uzzah", "Mephibosheth", "Hanun", "Bathsheba", "Uriah", "Nathan", "Solomon", "Absalom", "Amnon", "Tamar", "Hushai", "Shimei", "Ahithophel"]
+tags: ["Ziklag", "Amalekite", "Hebron", "Judah", "Ark of the Covenant", "Jerusalem", "lamb", "Bahurim", "Judah", "Abel of Beth Maacah"]
+people: ["David", "Abner", "Ishbosheth", "Joab", "Asahel", "Baanah", "Rechab", "Michael", "Uzzah", "Mephibosheth", "Hanun", "Bathsheba", "Uriah", "Nathan", "Solomon", "Absalom", "Amnon", "Tamar", "Hushai", "Shimei", "Ahithophel", "Sheba", "Amasa"]
 outline: [
   {
 		text: "David learns of Saul's death from an Amalekite and kills the messenger.",
@@ -338,6 +338,30 @@ outline: [
         book: "2 Samuel",
         chapter: 19,
         verse: 15
+    }
+  },
+  {
+    text: "Sheba started a rebellion.",
+    start: {
+        book: "2 Samuel",
+        chapter: 20,
+        verse: 1
+    }
+  },
+  {
+    text: "Amasa was told to pursue Sheba. He took his time, so Joab killed him.",
+    start: {
+        book: "2 Samuel",
+        chapter: 20,
+        verse: 4
+    }
+  },
+  {
+    text: "Sheba fled to Abel. Joab laid siege. After conversing with an old wise woman about why, she talked to other people in Abel, beheaded Sheba, and threw his head over the wall for Joab. Joab called off the siege.",
+    start: {
+        book: "2 Samuel",
+        chapter: 20,
+        verse: 14
     }
   }
 ]

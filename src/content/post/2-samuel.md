@@ -379,6 +379,54 @@ outline: [
         chapter: 21,
         verse: 15
     }
+  },
+  {
+    text: "David sings to Yahweh.",
+    start: {
+        book: "2 Samuel",
+        chapter: 22,
+        verse: 1
+    }
+  },
+  {
+    text: "The last words of David are recounted.",
+    start: {
+        book: "2 Samuel",
+        chapter: 23,
+        verse: 1
+    }
+  },
+  {
+    text: "The mighty men of David's army are recounted.",
+    start: {
+        book: "2 Samuel",
+        chapter: 23,
+        verse: 8
+    }
+  },
+  {
+    text: "A census it taken.",
+    start: {
+        book: "2 Samuel",
+        chapter: 24,
+        verse: 1
+    }
+  },
+  {
+    text: "Yahweh offers David the choice of a famine, fleeing from his enemies, or a plague as punishment, apparently for taking a census of his army. David chooses the plague.",
+    start: {
+        book: "2 Samuel",
+        chapter: 24,
+        verse: 11
+    }
+  },
+  {
+    text: "David builds an altar to stop the plague.",
+    start: {
+        book: "2 Samuel",
+        chapter: 24,
+        verse: 18
+    }
   }
 ]
 ---

@@ -40,6 +40,12 @@ function convertReferenceObjectToId({
 		case "2 Samuel":
 			bookAbbreviation = "2SA";
 			break;
+		case "2 Kings":
+			bookAbbreviation = "2KI";
+			break;
+		case "1 Kings":
+			bookAbbreviation = "1KI";
+			break;
 		default:
 			break;
 	}

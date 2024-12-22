@@ -2,7 +2,7 @@
 title: "1 Kings"
 publishDate: "20 Dec 2024"
 tags: ["Zoheleth"]
-people: ["Adonijah", "Abishag", "Solomon", "Bathsheba"]
+people: ["Adonijah", "Abishag", "Solomon", "Bathsheba", "Joab", "Shimei"]
 outline: [{
   text: "King David grew old. He could not get warm. He was brought a young, beautiful virgin to wait on him to help keep him warm.",
   start: {
@@ -25,6 +25,22 @@ outline: [{
     book: "1 Kings",
     chapter: 1,
     verse: 11
+  }
+},
+{
+  text: "David warns Solomon before he dies to walk in the ways of God. Also, that he needs to deal with the people who attempted to usurp the thrown.",
+  start: {
+    book: "1 Kings",
+    chapter: 2,
+    verse: 1
+  }
+},
+{
+  text: "Adonijah gets Bathsheba to ask Solomon for Abishag to be Adonijah's wife. Solomon kills Adonijah, Joab, and Shimei.",
+  start: {
+    book: "1 Kings",
+    chapter: 2,
+    verse: 13
   }
 }
 ]

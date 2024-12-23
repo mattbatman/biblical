@@ -1,7 +1,7 @@
 ---
 title: "1 Kings"
 publishDate: "20 Dec 2024"
-tags: ["Zoheleth"]
+tags: ["Zoheleth", "Gibeon", "wisdom"]
 people: ["Adonijah", "Abishag", "Solomon", "Bathsheba", "Joab", "Shimei"]
 outline: [{
   text: "King David grew old. He could not get warm. He was brought a young, beautiful virgin to wait on him to help keep him warm.",
@@ -41,6 +41,22 @@ outline: [{
     book: "1 Kings",
     chapter: 2,
     verse: 13
+  }
+},
+{
+  text: "Yahweh appeared to Solomon in a dream, and allowed him to make a request. Solomon asked for wisdom. This pleased the Lord. He told Solomon he would grant this wish, and also give him honor and riches.",
+  start: {
+    book: "1 Kings",
+    chapter: 3,
+    verse: 1
+  }
+},
+{
+  text: "Two prostitutes come to Solomon in a dispute over who is the mother of a living child and a dead child. Solomon wisely resolves the dispute.",
+  start: {
+    book: "1 Kings",
+    chapter: 3,
+    verse: 16
   }
 }
 ]

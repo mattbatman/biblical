@@ -58,6 +58,22 @@ outline: [{
     chapter: 3,
     verse: 16
   }
+},
+{
+  text: "Solomon's administration is described.",
+  start: {
+    book: "1 Kings",
+    chapter: 4,
+    verse: 1
+  }
+},
+{
+  text: "The fame of Solomon's wisdom is described.",
+  start: {
+    book: "1 Kings",
+    chapter: 4,
+    verse: 29
+  }
 }
 ]
 ---

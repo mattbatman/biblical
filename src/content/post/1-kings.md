@@ -1,8 +1,8 @@
 ---
 title: "1 Kings"
 publishDate: "20 Dec 2024"
-tags: ["Zoheleth", "Gibeon", "wisdom"]
-people: ["Adonijah", "Abishag", "Solomon", "Bathsheba", "Joab", "Shimei"]
+tags: ["Zoheleth", "Gibeon", "wisdom", "Ark of the Covenant", "House of the Forest of the Lebanon", "cedar", "olive wood"]
+people: ["Adonijah", "Abishag", "Solomon", "Bathsheba", "Joab", "Shimei", "Hiram"]
 outline: [{
   text: "King David grew old. He could not get warm. He was brought a young, beautiful virgin to wait on him to help keep him warm.",
   start: {
@@ -73,6 +73,30 @@ outline: [{
     book: "1 Kings",
     chapter: 4,
     verse: 29
+  }
+},
+{
+  text: "Solomon tells Hiram he's building a temple.",
+  start: {
+    book: "1 Kings",
+    chapter: 5,
+    verse: 1
+  }
+},
+{
+  text: "Solomon builds a temple.",
+  start: {
+    book: "1 Kings",
+    chapter: 6,
+    verse: 1
+  }
+},
+{
+  text: "Solomon builds a palace.",
+  start: {
+    book: "1 Kings",
+    chapter: 7,
+    verse: 1
   }
 }
 ]

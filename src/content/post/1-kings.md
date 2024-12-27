@@ -98,6 +98,14 @@ outline: [{
     chapter: 7,
     verse: 1
   }
+},
+{
+  text: "Solomon brings the Ark of the Convenant to the temple and holds an assembly.",
+  start: {
+    book: "1 Kings",
+    chapter: 8,
+    verse: 1
+  }
 }
 ]
 ---

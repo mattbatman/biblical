@@ -122,6 +122,22 @@ outline: [{
     chapter: 9,
     verse: 10
   }
+},
+{
+  text: "The Queen of Sheba visited Solomon. She was so impressed by his wisdom in answering her questions that she left many spices and things as a gift.",
+  start: {
+    book: "1 Kings",
+    chapter: 10,
+    verse: 1
+  }
+},
+{
+  text: "Some of the wealth of Solomon was recounted.",
+  start: {
+    book: "1 Kings",
+    chapter: 10,
+    verse: 14
+  }
 }
 ]
 ---

@@ -106,6 +106,22 @@ outline: [{
     chapter: 8,
     verse: 1
   }
+},
+{
+  text: "God appeared before Solomon and told him he has blessed them because they follow him. He will abandon them if they abandon him.",
+  start: {
+    book: "1 Kings",
+    chapter: 9,
+    verse: 1
+  }
+},
+{
+  text: "Hiram was not pleased with the towns given to him as a trade for the materials he provided to build the temple and palace.",
+  start: {
+    book: "1 Kings",
+    chapter: 9,
+    verse: 10
+  }
 }
 ]
 ---

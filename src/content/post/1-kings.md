@@ -1,8 +1,8 @@
 ---
 title: "1 Kings"
 publishDate: "20 Dec 2024"
-tags: ["Zoheleth", "Gibeon", "wisdom", "Ark of the Covenant", "House of the Forest of the Lebanon", "cedar", "olive wood", "Solomon's wives", "Chemosh", "Ashtoreth", "Milcom", "Molech", "incense"]
-people: ["Adonijah", "Abishag", "Solomon", "Bathsheba", "Joab", "Shimei", "Hiram", "Hadad the Edomite"]
+tags: ["Zoheleth", "Gibeon", "wisdom", "Ark of the Covenant", "House of the Forest of the Lebanon", "cedar", "olive wood", "Solomon's wives", "Chemosh", "Ashtoreth", "Milcom", "Molech", "incense", "golden calves"]
+people: ["Adonijah", "Abishag", "Solomon", "Bathsheba", "Joab", "Shimei", "Hiram", "Hadad the Edomite", "Rehoboam", "Jeroboam"]
 outline: [{
   text: "King David grew old. He could not get warm. He was brought a young, beautiful virgin to wait on him to help keep him warm.",
   start: {
@@ -153,6 +153,22 @@ outline: [{
     book: "1 Kings",
     chapter: 11,
     verse: 14
+  }
+},
+{
+  text: "King Solomon died.",
+  start: {
+    book: "1 Kings",
+    chapter: 11,
+    verse: 41
+  }
+},
+{
+  text: "Jeroboam is made king over Israel instead of Rehoboam, and sets up golden calves.",
+  start: {
+    book: "1 Kings",
+    chapter: 12,
+    verse: 1
   }
 }
 ]

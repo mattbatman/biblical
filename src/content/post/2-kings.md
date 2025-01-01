@@ -1,5 +1,6 @@
 ---
 title: "2 Kings"
+pageType: "bibleChapter"
 publishDate: "21 Dec 2024"
 tags: []
 people: []

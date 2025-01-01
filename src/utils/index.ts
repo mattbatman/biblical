@@ -9,6 +9,7 @@ export {
 	getAllPeople,
 	getUniquePeople,
 	getUniquePeopleWithCount,
+	sortBibleChapterPosts,
 } from "./post";
 export { generateToc } from "./generateToc";
 export type { TocItem } from "./generateToc";

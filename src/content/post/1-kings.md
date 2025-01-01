@@ -1,7 +1,7 @@
 ---
 title: "1 Kings"
 publishDate: "20 Dec 2024"
-tags: ["Zoheleth", "Gibeon", "wisdom", "Ark of the Covenant", "House of the Forest of the Lebanon", "cedar", "olive wood", "Solomon's wives", "Chemosh", "Ashtoreth", "Milcom", "Molech", "incense", "golden calves"]
+tags: ["Zoheleth", "Gibeon", "wisdom", "Ark of the Covenant", "House of the Forest of the Lebanon", "cedar", "olive wood", "Solomon's wives", "Chemosh", "Ashtoreth", "Milcom", "Molech", "incense", "golden calves", "Josiah"]
 people: ["Adonijah", "Abishag", "Solomon", "Bathsheba", "Joab", "Shimei", "Hiram", "Hadad the Edomite", "Rehoboam", "Jeroboam"]
 outline: [{
   text: "King David grew old. He could not get warm. He was brought a young, beautiful virgin to wait on him to help keep him warm.",
@@ -169,6 +169,22 @@ outline: [{
     book: "1 Kings",
     chapter: 12,
     verse: 1
+  }
+},
+{
+  text: "A man of God prophesies of Josiah, a descendant of David, destroying the altar and its priests. Jeroboam's hand withers as he points to the man of God to have him arrested.",
+  start: {
+    book: "1 Kings",
+    chapter: 13,
+    verse: 1
+  }
+},
+{
+  text: "The man of God disobeys God and ets with an old prophet because the old prophet lies to him and tells him an angel of God appeared to him. A lion killed the man of God when he resumed his trip.",
+  start: {
+    book: "1 Kings",
+    chapter: 13,
+    verse: 11
   }
 }
 ]

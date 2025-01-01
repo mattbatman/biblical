@@ -1,6 +1,7 @@
 ---
 title: "1 Kings"
 publishDate: "20 Dec 2024"
+pageType: "bibleChapter"
 tags: ["Zoheleth", "Gibeon", "wisdom", "Ark of the Covenant", "House of the Forest of the Lebanon", "cedar", "olive wood", "Solomon's wives", "Chemosh", "Ashtoreth", "Milcom", "Molech", "incense", "golden calves", "Josiah"]
 people: ["Adonijah", "Abishag", "Solomon", "Bathsheba", "Joab", "Shimei", "Hiram", "Hadad the Edomite", "Rehoboam", "Jeroboam"]
 outline: [{

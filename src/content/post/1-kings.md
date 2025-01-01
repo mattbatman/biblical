@@ -1,8 +1,8 @@
 ---
 title: "1 Kings"
 publishDate: "20 Dec 2024"
-tags: ["Zoheleth", "Gibeon", "wisdom", "Ark of the Covenant", "House of the Forest of the Lebanon", "cedar", "olive wood"]
-people: ["Adonijah", "Abishag", "Solomon", "Bathsheba", "Joab", "Shimei", "Hiram"]
+tags: ["Zoheleth", "Gibeon", "wisdom", "Ark of the Covenant", "House of the Forest of the Lebanon", "cedar", "olive wood", "Solomon's wives", "Chemosh", "Ashtoreth", "Milcom", "Molech", "incense"]
+people: ["Adonijah", "Abishag", "Solomon", "Bathsheba", "Joab", "Shimei", "Hiram", "Hadad the Edomite"]
 outline: [{
   text: "King David grew old. He could not get warm. He was brought a young, beautiful virgin to wait on him to help keep him warm.",
   start: {
@@ -136,6 +136,22 @@ outline: [{
   start: {
     book: "1 Kings",
     chapter: 10,
+    verse: 14
+  }
+},
+{
+  text: "Solomon took 700 wives and built places for their gods. Yahweh told Solomon he would take all tribes out of the command of his son except one as punishment.",
+  start: {
+    book: "1 Kings",
+    chapter: 11,
+    verse: 1
+  }
+},
+{
+  text: "Yahweh let adversaries to Solomon flourish.",
+  start: {
+    book: "1 Kings",
+    chapter: 11,
     verse: 14
   }
 }

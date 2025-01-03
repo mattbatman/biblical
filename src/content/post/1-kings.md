@@ -197,7 +197,7 @@ outline: [{
   }
 },
 {
-  text: "Jeroboam died, and Rehoboam, the son of Solomon, reigned in Judah.",
+  text: "Jeroboam died. Rehoboam, the son of Solomon, reigned in Judah concurrently.",
   start: {
     book: "1 Kings",
     chapter: 14,

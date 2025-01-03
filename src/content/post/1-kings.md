@@ -3,7 +3,7 @@ title: "1 Kings"
 publishDate: "20 Dec 2024"
 pageType: "bibleChapter"
 tags: ["Zoheleth", "Gibeon", "wisdom", "Ark of the Covenant", "House of the Forest of the Lebanon", "cedar", "olive wood", "Solomon's wives", "Chemosh", "Ashtoreth", "Milcom", "Molech", "incense", "golden calves", "Josiah", "sodomites", "Asherah poles"]
-people: ["Adonijah", "Abishag", "Solomon", "Bathsheba", "Joab", "Shimei", "Hiram", "Hadad the Edomite", "Rehoboam", "Jeroboam", "Rehoboam", "Shishak"]
+people: ["Adonijah", "Abishag", "Solomon", "Bathsheba", "Joab", "Shimei", "Hiram", "Hadad the Edomite", "Rehoboam", "Jeroboam", "Rehoboam", "Shishak", "Baasha", "Aram", "Abijam", "Asa", "Nadab"]
 outline: [{
   text: "King David grew old. He could not get warm. He was brought a young, beautiful virgin to wait on him to help keep him warm.",
   start: {
@@ -210,6 +210,14 @@ outline: [{
     book: "1 Kings",
     chapter: 14,
     verse: 25
+  }
+},
+{
+  text: "The reigns of Abijam over Judah, Asa over Judah, and Nadab over Israel are summarized.",
+  start: {
+    book: "1 Kings",
+    chapter: 15,
+    verse: 1
   }
 }
 ]

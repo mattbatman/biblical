@@ -181,7 +181,7 @@ outline: [{
   }
 },
 {
-  text: "The man of God disobeys God and ets with an old prophet because the old prophet lies to him and tells him an angel of God appeared to him. A lion killed the man of God when he resumed his trip.",
+  text: "The man of God disobeys God and eats with an old prophet because the old prophet lies to him and tells him an angel of God appeared to him. A lion killed the man of God when he resumed his trip.",
   start: {
     book: "1 Kings",
     chapter: 13,

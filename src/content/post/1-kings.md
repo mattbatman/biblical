@@ -2,8 +2,8 @@
 title: "1 Kings"
 publishDate: "20 Dec 2024"
 pageType: "bibleChapter"
-tags: ["Zoheleth", "Gibeon", "wisdom", "Ark of the Covenant", "House of the Forest of the Lebanon", "cedar", "olive wood", "Solomon's wives", "Chemosh", "Ashtoreth", "Milcom", "Molech", "incense", "golden calves", "Josiah"]
-people: ["Adonijah", "Abishag", "Solomon", "Bathsheba", "Joab", "Shimei", "Hiram", "Hadad the Edomite", "Rehoboam", "Jeroboam"]
+tags: ["Zoheleth", "Gibeon", "wisdom", "Ark of the Covenant", "House of the Forest of the Lebanon", "cedar", "olive wood", "Solomon's wives", "Chemosh", "Ashtoreth", "Milcom", "Molech", "incense", "golden calves", "Josiah", "sodomites", "Asherah poles"]
+people: ["Adonijah", "Abishag", "Solomon", "Bathsheba", "Joab", "Shimei", "Hiram", "Hadad the Edomite", "Rehoboam", "Jeroboam", "Rehoboam", "Shishak"]
 outline: [{
   text: "King David grew old. He could not get warm. He was brought a young, beautiful virgin to wait on him to help keep him warm.",
   start: {
@@ -186,6 +186,30 @@ outline: [{
     book: "1 Kings",
     chapter: 13,
     verse: 11
+  }
+},
+{
+  text: "Jeroboam's son grew sick. His wife visited a prophet and his behalf. The prophet said the child would die as soon as she reentered the city because of Jeroboam's sin.",
+  start: {
+    book: "1 Kings",
+    chapter: 14,
+    verse: 1
+  }
+},
+{
+  text: "Jeroboam died, and Rehoboam, the son of Solomon, reigned in Judah.",
+  start: {
+    book: "1 Kings",
+    chapter: 14,
+    verse: 21
+  }
+},
+{
+  text: "Shishak king of Egypt fought with Jerusalem. He took many treasures from the temple and place of Solomon.",
+  start: {
+    book: "1 Kings",
+    chapter: 14,
+    verse: 25
   }
 }
 ]

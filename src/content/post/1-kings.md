@@ -2,8 +2,8 @@
 title: "1 Kings"
 publishDate: "20 Dec 2024"
 pageType: "bibleChapter"
-tags: ["Zoheleth", "Gibeon", "wisdom", "Ark of the Covenant", "House of the Forest of the Lebanon", "cedar", "olive wood", "Solomon's wives", "Chemosh", "Ashtoreth", "Milcom", "Molech", "incense", "golden calves", "Josiah", "sodomites", "Asherah poles"]
-people: ["Adonijah", "Abishag", "Solomon", "Bathsheba", "Joab", "Shimei", "Hiram", "Hadad the Edomite", "Rehoboam", "Jeroboam", "Rehoboam", "Shishak", "Baasha", "Aram", "Abijam", "Asa", "Nadab"]
+tags: ["Zoheleth", "Gibeon", "wisdom", "Ark of the Covenant", "House of the Forest of the Lebanon", "cedar", "olive wood", "Solomon's wives", "Chemosh", "Ashtoreth", "Milcom", "Molech", "incense", "golden calves", "Josiah", "sodomites", "Asherah poles", "Baal", "ravens", "Zarepath", "drought", "resurrection", "bread"]
+people: ["Adonijah", "Abishag", "Solomon", "Bathsheba", "Joab", "Shimei", "Hiram", "Hadad the Edomite", "Rehoboam", "Jeroboam", "Rehoboam", "Shishak", "Baasha", "Aram", "Abijam", "Asa", "Nadab", "Elijah"]
 outline: [{
   text: "King David grew old. He could not get warm. He was brought a young, beautiful virgin to wait on him to help keep him warm.",
   start: {
@@ -218,6 +218,46 @@ outline: [{
     book: "1 Kings",
     chapter: 15,
     verse: 1
+  }
+},
+{
+  text: "The reigns of Elah King of Israel, Zimri King of Israel, Omri King of Israel, and Ahab King of Israel are summarized.",
+  start: {
+    book: "1 Kings",
+    chapter: 16,
+    verse: 1
+  }
+},
+{
+  text: "Elijah tells Ahab there will be a drought.",
+  start: {
+    book: "1 Kings",
+    chapter: 17,
+    verse: 1
+  }
+},
+{
+  text: "Elijah is fed by ravens from God.",
+  start: {
+    book: "1 Kings",
+    chapter: 17,
+    verse: 2
+  }
+},
+{
+  text: "Elijah is fed by a widow per God's direction. Her jar of flour and jug of oil would never run dry until it rained again.",
+  start: {
+    book: "1 Kings",
+    chapter: 17,
+    verse: 7
+  }
+},
+{
+  text: "Elijah brings the widow's son back from the dead.",
+  start: {
+    book: "1 Kings",
+    chapter: 17,
+    verse: 17
   }
 }
 ]

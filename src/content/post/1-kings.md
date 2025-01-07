@@ -2,8 +2,8 @@
 title: "1 Kings"
 publishDate: "20 Dec 2024"
 pageType: "bibleChapter"
-tags: ["Zoheleth", "Gibeon", "wisdom", "Ark of the Covenant", "House of the Forest of the Lebanon", "cedar", "olive wood", "Solomon's wives", "Chemosh", "Ashtoreth", "Milcom", "Molech", "incense", "golden calves", "Josiah", "sodomites", "Asherah poles", "Baal", "ravens", "Zarepath", "drought", "resurrection", "bread"]
-people: ["Adonijah", "Abishag", "Solomon", "Bathsheba", "Joab", "Shimei", "Hiram", "Hadad the Edomite", "Rehoboam", "Jeroboam", "Rehoboam", "Shishak", "Baasha", "Aram", "Abijam", "Asa", "Nadab", "Elijah", "Obadiah"]
+tags: ["Zoheleth", "Gibeon", "wisdom", "Ark of the Covenant", "House of the Forest of the Lebanon", "cedar", "olive wood", "Solomon's wives", "Chemosh", "Ashtoreth", "Milcom", "Molech", "incense", "golden calves", "Josiah", "sodomites", "Asherah poles", "Baal", "ravens", "Zarepath", "drought", "resurrection", "bread", "Horeb"]
+people: ["Adonijah", "Abishag", "Solomon", "Bathsheba", "Joab", "Shimei", "Hiram", "Hadad the Edomite", "Rehoboam", "Jeroboam", "Rehoboam", "Shishak", "Baasha", "Aram", "Abijam", "Asa", "Nadab", "Elijah", "Obadiah", "Jezebel", "Elisha", "Jehu", "Hazael"]
 outline: [{
   text: "King David grew old. He could not get warm. He was brought a young, beautiful virgin to wait on him to help keep him warm.",
   start: {
@@ -274,6 +274,30 @@ outline: [{
     book: "1 Kings",
     chapter: 18,
     verse: 17
+  }
+},
+{
+  text: "Elijah flees after Jezebel threatens his life. He is fed by an angel.",
+  start: {
+    book: "1 Kings",
+    chapter: 19,
+    verse: 1
+  }
+},
+{
+  text: "Elijah meets God. He's told to anoint certain people as kings and prophets.",
+  start: {
+    book: "1 Kings",
+    chapter: 19,
+    verse: 11
+  }
+},
+{
+  text: "Elisha meets and follows Elijah.",
+  start: {
+    book: "1 Kings",
+    chapter: 19,
+    verse: 19
   }
 }
 ]

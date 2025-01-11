@@ -2,8 +2,8 @@
 title: "1 Kings"
 publishDate: "20 Dec 2024"
 pageType: "bibleChapter"
-tags: ["Zoheleth", "Gibeon", "wisdom", "Ark of the Covenant", "House of the Forest of the Lebanon", "cedar", "olive wood", "Solomon's wives", "Chemosh", "Ashtoreth", "Milcom", "Molech", "incense", "golden calves", "Josiah", "sodomites", "Asherah poles", "Baal", "ravens", "Zarepath", "drought", "resurrection", "bread", "Horeb"]
-people: ["Adonijah", "Abishag", "Solomon", "Bathsheba", "Joab", "Shimei", "Hiram", "Hadad the Edomite", "Rehoboam", "Jeroboam", "Rehoboam", "Shishak", "Baasha", "Aram", "Abijam", "Asa", "Nadab", "Elijah", "Obadiah", "Jezebel", "Elisha", "Jehu", "Hazael"]
+tags: ["Zoheleth", "Gibeon", "wisdom", "Ark of the Covenant", "House of the Forest of the Lebanon", "cedar", "olive wood", "Solomon's wives", "Chemosh", "Ashtoreth", "Milcom", "Molech", "incense", "golden calves", "Josiah", "sodomites", "Asherah poles", "Baal", "ravens", "Zarepath", "drought", "resurrection", "bread", "Horeb", "Samaria", "Syria"]
+people: ["Adonijah", "Abishag", "Solomon", "Bathsheba", "Joab", "Shimei", "Hiram", "Hadad the Edomite", "Rehoboam", "Jeroboam", "Rehoboam", "Shishak", "Baasha", "Aram", "Abijam", "Asa", "Nadab", "Elijah", "Obadiah", "Jezebel", "Elisha", "Jehu", "Hazael", "Ben Hadad"]
 outline: [{
   text: "King David grew old. He could not get warm. He was brought a young, beautiful virgin to wait on him to help keep him warm.",
   start: {
@@ -298,6 +298,14 @@ outline: [{
     book: "1 Kings",
     chapter: 19,
     verse: 19
+  }
+},
+{
+  text: "Ben Hadad, the king of Syria, attempts to conquer Israel. Israel defeats Syria multiple times.",
+  start: {
+    book: "1 Kings",
+    chapter: 20,
+    verse: 1
   }
 }
 ]

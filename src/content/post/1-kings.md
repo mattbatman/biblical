@@ -3,7 +3,7 @@ title: "1 Kings"
 publishDate: "20 Dec 2024"
 pageType: "bibleChapter"
 tags: ["Zoheleth", "Gibeon", "wisdom", "Ark of the Covenant", "House of the Forest of the Lebanon", "cedar", "olive wood", "Solomon's wives", "Chemosh", "Ashtoreth", "Milcom", "Molech", "incense", "golden calves", "Josiah", "sodomites", "Asherah poles", "Baal", "ravens", "Zarepath", "drought", "resurrection", "bread", "Horeb", "Samaria", "Syria"]
-people: ["Adonijah", "Abishag", "Solomon", "Bathsheba", "Joab", "Shimei", "Hiram", "Hadad the Edomite", "Rehoboam", "Jeroboam", "Rehoboam", "Shishak", "Baasha", "Aram", "Abijam", "Asa", "Nadab", "Elijah", "Obadiah", "Jezebel", "Elisha", "Jehu", "Hazael", "Ben Hadad", "Naboth"]
+people: ["Adonijah", "Abishag", "Solomon", "Bathsheba", "Joab", "Shimei", "Hiram", "Hadad the Edomite", "Rehoboam", "Jeroboam", "Rehoboam", "Shishak", "Baasha", "Aram", "Abijam", "Asa", "Nadab", "Elijah", "Obadiah", "Jezebel", "Elisha", "Jehu", "Hazael", "Ben Hadad", "Naboth", "Jehoshaphat", "Micaiah"]
 outline: [{
   text: "King David grew old. He could not get warm. He was brought a young, beautiful virgin to wait on him to help keep him warm.",
   start: {
@@ -313,6 +313,14 @@ outline: [{
   start: {
     book: "1 Kings",
     chapter: 21,
+    verse: 1
+  }
+},
+{
+  text: "Ahab and Jehoshaphat form an alliance to fight at Ramoth-Gilead Micaiah prophesied that bad things would happen. Ahab was struck by an arrow and died. Dogs licked up his blood.",
+  start: {
+    book: "1 Kings",
+    chapter: 22,
     verse: 1
   }
 }

@@ -307,6 +307,14 @@ outline: [{
     chapter: 20,
     verse: 1
   }
+},
+{
+  text: "Ahab and Naboth fail to come to an agreement over Naboth's vineyard. Naboth died. Ahab heard and took possession of the vineyard. God condemned him for this.",
+  start: {
+    book: "1 Kings",
+    chapter: 21,
+    verse: 1
+  }
 }
 ]
 ---

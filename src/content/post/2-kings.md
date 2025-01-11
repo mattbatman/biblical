@@ -2,9 +2,18 @@
 title: "2 Kings"
 pageType: "bibleChapter"
 publishDate: "21 Dec 2024"
-tags: []
-people: []
-outline: []
+tags: ["Baal Zebub", "Baal", "Ekron"]
+people: ["Elijah the Tishbite", "Jehoram", "Ahaziah"]
+outline: [
+  {
+  text: "Ahaziah got sick. He sent messengers to ask Baal Zebub if he would recover. God intercepted through Elijah the Tishbite to tell him he would die for asking Baal. Ahaziah sent three sets of fifty men to arrest Elijah. God sent fire to kill the first two sets, and Elijah accompanied the third, relayed his message to Ahaziah directly. Ahaziah died. Jehoram became king.",
+  start: {
+    book: "2 Kings",
+    chapter: 1,
+    verse: 1
+  }
+},
+]
 ---
 
 ## World English Bible Text

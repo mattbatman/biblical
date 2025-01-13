@@ -20,6 +20,14 @@ outline: [
     chapter: 2,
     verse: 1
   }
+},
+{
+  text: "Various kings ally to fight Moab. The king of Moab sacrifices his eldest son on his city wall.",
+  start: {
+    book: "2 Kings",
+    chapter: 3,
+    verse: 1
+  }
 }
 ]
 ---

@@ -28,6 +28,14 @@ outline: [
     chapter: 3,
     verse: 1
   }
+},
+{
+  text: "Elisha multiplies a widow's oil, promises a son to a Shunammite woman, raises her son from the dead, purifies a poisoned stew, and feeds a hundred men with twenty loaves of barley bread.",
+  start: {
+    book: "2 Kings",
+    chapter: 4,
+    verse: 1
+  }
 }
 ]
 ---

@@ -2,8 +2,8 @@
 title: "2 Kings"
 pageType: "bibleChapter"
 publishDate: "21 Dec 2024"
-tags: ["Baal Zebub", "Baal", "Ekron"]
-people: ["Elijah the Tishbite", "Jehoram", "Ahaziah", "Elisha"]
+tags: ["Baal Zebub", "Baal", "Ekron", "leper", "Samaria", "Jordan River"]
+people: ["Elijah the Tishbite", "Jehoram", "Ahaziah", "Elisha", "Naaman", "Gehazi"]
 outline: [
   {
   text: "Ahaziah got sick. He sent messengers to ask Baal Zebub if he would recover. God intercepted through Elijah the Tishbite to tell him he would die for asking Baal. Ahaziah sent three sets of fifty men to arrest Elijah. God sent fire to kill the first two sets, and Elijah accompanied the third, relayed his message to Ahaziah directly. Ahaziah died. Jehoram became king.",
@@ -34,6 +34,14 @@ outline: [
   start: {
     book: "2 Kings",
     chapter: 4,
+    verse: 1
+  }
+},
+{
+  text: "Naaman is healed of leprosy by following Elisha's instructions to wash in the river. Gehazi deceitfully takes gifts from Naaman and is struck with leprosy.",
+  start: {
+    book: "2 Kings",
+    chapter: 5,
     verse: 1
   }
 }

@@ -44,6 +44,30 @@ outline: [
     chapter: 5,
     verse: 1
   }
+},
+{
+  text: "Elisha helps a man recover a borrowed axe head that fell into the river.",
+  start: {
+    book: "2 Kings",
+    chapter: 6,
+    verse: 1
+  }
+},
+{
+  text: "Arameans attempt to surround and capture Elisha. He blinds them, leads them to the king of Israel, then has the king of Israel feed them and give them water rather than kill them, though they were at war.",
+  start: {
+    book: "2 Kings",
+    chapter: 6,
+    verse: 8
+  }
+},
+{
+  text: "Aram laid siege to Israel. A woman complained to the king about being taken advantage of by a woman suggesting a plan to eat their children. The king was disturbed by the story and driven to anger at Elisha.",
+  start: {
+    book: "2 Kings",
+    chapter: 6,
+    verse: 24
+  }
 }
 ]
 ---

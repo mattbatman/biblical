@@ -2,7 +2,7 @@
 title: "2 Kings"
 pageType: "bibleChapter"
 publishDate: "21 Dec 2024"
-tags: ["Baal Zebub", "Baal", "Ekron", "leper", "Samaria", "Jordan River"]
+tags: ["Baal Zebub", "Baal", "Ekron", "leper", "Samaria", "Jordan River", "leprosy"]
 people: ["Elijah the Tishbite", "Jehoram", "Ahaziah", "Elisha", "Naaman", "Gehazi"]
 outline: [
   {
@@ -67,6 +67,14 @@ outline: [
     book: "2 Kings",
     chapter: 6,
     verse: 24
+  }
+},
+{
+  text: "Four lepers discover that the besieging Syrian army has fled, leaving behind their camp and supplies; they report this to the city, which leads to the people of Samaria looting the camp and thus breaking the siege and famine.",
+  start: {
+    book: "2 Kings",
+    chapter: 7,
+    verse: 1
   }
 }
 ]

@@ -76,6 +76,22 @@ outline: [
     chapter: 7,
     verse: 1
   }
+},
+{
+  text: "Elisha warns a Shunammite woman whose son he restored to life of a famine.",
+  start: {
+    book: "2 Kings",
+    chapter: 8,
+    verse: 1
+  }
+},
+{
+  text: "Elisha predicts Ben-hadad will recover from illness but die, and that Hazael will rule with evil results.",
+  start: {
+    book: "2 Kings",
+    chapter: 8,
+    verse: 7
+  }
 }
 ]
 ---

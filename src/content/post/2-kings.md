@@ -3,7 +3,7 @@ title: "2 Kings"
 pageType: "bibleChapter"
 publishDate: "21 Dec 2024"
 tags: ["Baal Zebub", "Baal", "Ekron", "leper", "Samaria", "Jordan River", "leprosy"]
-people: ["Elijah the Tishbite", "Jehoram", "Ahaziah", "Elisha", "Naaman", "Gehazi"]
+people: ["Elijah the Tishbite", "Jehoram", "Ahaziah", "Elisha", "Naaman", "Gehazi", "Jehu", "Jezebel"]
 outline: [
   {
   text: "Ahaziah got sick. He sent messengers to ask Baal Zebub if he would recover. God intercepted through Elijah the Tishbite to tell him he would die for asking Baal. Ahaziah sent three sets of fifty men to arrest Elijah. God sent fire to kill the first two sets, and Elijah accompanied the third, relayed his message to Ahaziah directly. Ahaziah died. Jehoram became king.",
@@ -91,6 +91,30 @@ outline: [
     book: "2 Kings",
     chapter: 8,
     verse: 7
+  }
+},
+{
+  text: "Elisha sent a prophet to Jehu to anoint him king of Israel.",
+  start: {
+    book: "2 Kings",
+    chapter: 9,
+    verse: 1
+  }
+},
+{
+  text: "Jehu kills Joram and King Ahaziah of Judah.",
+  start: {
+    book: "2 Kings",
+    chapter: 9,
+    verse: 14
+  }
+},
+{
+  text: "Jezebel is thrown out a window and her body eaten by dogs before she could be buried.",
+  start: {
+    book: "2 Kings",
+    chapter: 9,
+    verse: 30
   }
 }
 ]

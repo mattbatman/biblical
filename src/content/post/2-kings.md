@@ -116,6 +116,22 @@ outline: [
     chapter: 9,
     verse: 30
   }
+},
+{
+  text: "Jehu has all the children of Ahab killed.",
+  start: {
+    book: "2 Kings",
+    chapter: 18,
+    verse: 30
+  }
+},
+{
+  text: "Jehu has all the worshippers of Baal killed in Israel.",
+  start: {
+    book: "2 Kings",
+    chapter: 18,
+    verse: 30
+  }
 }
 ]
 ---

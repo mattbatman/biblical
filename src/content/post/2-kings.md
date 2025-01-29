@@ -140,6 +140,14 @@ outline: [
     chapter: 11,
     verse: 21
   }
+},
+{
+  text: "Joash attempted to repair the temple.",
+  start: {
+    book: "2 Kings",
+    chapter: 12,
+    verse: 1
+  }
 }
 ]
 ---

@@ -3,7 +3,7 @@ title: "2 Kings"
 pageType: "bibleChapter"
 publishDate: "21 Dec 2024"
 tags: ["Baal Zebub", "Baal", "Ekron", "leper", "Samaria", "Jordan River", "leprosy"]
-people: ["Elijah the Tishbite", "Jehoram", "Ahaziah", "Elisha", "Naaman", "Gehazi", "Jehu", "Jezebel"]
+people: ["Elijah the Tishbite", "Jehoram", "Ahaziah", "Elisha", "Naaman", "Gehazi", "Jehu", "Jezebel", "Joash", "Athaliah"]
 outline: [
   {
   text: "Ahaziah got sick. He sent messengers to ask Baal Zebub if he would recover. God intercepted through Elijah the Tishbite to tell him he would die for asking Baal. Ahaziah sent three sets of fifty men to arrest Elijah. God sent fire to kill the first two sets, and Elijah accompanied the third, relayed his message to Ahaziah directly. Ahaziah died. Jehoram became king.",
@@ -121,7 +121,7 @@ outline: [
   text: "Jehu has all the children of Ahab killed.",
   start: {
     book: "2 Kings",
-    chapter: 18,
+    chapter: 10,
     verse: 30
   }
 },
@@ -129,8 +129,16 @@ outline: [
   text: "Jehu has all the worshippers of Baal killed in Israel.",
   start: {
     book: "2 Kings",
-    chapter: 18,
+    chapter: 10,
     verse: 30
+  }
+},
+{
+  text: "Joash is anointed king of Judah at seven years old.",
+  start: {
+    book: "2 Kings",
+    chapter: 11,
+    verse: 21
   }
 }
 ]

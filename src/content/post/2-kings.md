@@ -148,6 +148,22 @@ outline: [
     chapter: 12,
     verse: 1
   }
+},
+{
+  text: "Jehoahaz becomes king.",
+  start: {
+    book: "2 Kings",
+    chapter: 13,
+    verse: 1
+  }
+},
+{
+  text: "Before he dies, Elisha predicts the king of Israel will defeat Aram.",
+  start: {
+    book: "2 Kings",
+    chapter: 13,
+    verse: 14
+  }
 }
 ]
 ---

@@ -164,6 +164,22 @@ outline: [
     chapter: 13,
     verse: 14
   }
+},
+{
+  text: "Amaziah's reign is discussed.",
+  start: {
+    book: "2 Kings",
+    chapter: 14,
+    verse: 1
+  }
+},
+{
+  text: "Jeroboam II's reign is discussed.",
+  start: {
+    book: "2 Kings",
+    chapter: 14,
+    verse: 1
+  }
 }
 ]
 ---

@@ -180,6 +180,14 @@ outline: [
     chapter: 14,
     verse: 1
   }
+},
+{
+  text: "The Lord sent lions to attack the people that resettled Samaria. He let the people of Israel be conquered and killed because they worshipped other gods and followed their wicked practices.",
+  start: {
+    book: "2 Kings",
+    chapter: 17,
+    verse: 25
+  }
 }
 ]
 ---

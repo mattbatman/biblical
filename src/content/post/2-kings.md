@@ -2,8 +2,8 @@
 title: "2 Kings"
 pageType: "bibleChapter"
 publishDate: "21 Dec 2024"
-tags: ["Baal Zebub", "Baal", "Ekron", "leper", "Samaria", "Jordan River", "leprosy"]
-people: ["Elijah the Tishbite", "Jehoram", "Ahaziah", "Elisha", "Naaman", "Gehazi", "Jehu", "Jezebel", "Joash", "Athaliah"]
+tags: ["Baal Zebub", "Baal", "Ekron", "leper", "Samaria", "Jordan River", "leprosy", "Asherah poles", "pass through the fire", "divination", "enchantment", "Nehushtan"]
+people: ["Elijah the Tishbite", "Jehoram", "Ahaziah", "Elisha", "Naaman", "Gehazi", "Jehu", "Jezebel", "Joash", "Athaliah", "Hezekiah"]
 outline: [
   {
   text: "Ahaziah got sick. He sent messengers to ask Baal Zebub if he would recover. God intercepted through Elijah the Tishbite to tell him he would die for asking Baal. Ahaziah sent three sets of fifty men to arrest Elijah. God sent fire to kill the first two sets, and Elijah accompanied the third, relayed his message to Ahaziah directly. Ahaziah died. Jehoram became king.",
@@ -187,6 +187,30 @@ outline: [
     book: "2 Kings",
     chapter: 17,
     verse: 25
+  }
+},
+{
+  text: "Hezekiah became king.",
+  start: {
+    book: "2 Kings",
+    chapter: 18,
+    verse: 1
+  }
+},
+{
+  text: "Hezekiah became king.",
+  start: {
+    book: "2 Kings",
+    chapter: 18,
+    verse: 1
+  }
+},
+{
+  text: "The king of Assyria sent messengers to mock Hezekiah during a siege.",
+  start: {
+    book: "2 Kings",
+    chapter: 18,
+    verse: 17
   }
 }
 ]

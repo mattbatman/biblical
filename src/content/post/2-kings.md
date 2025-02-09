@@ -212,6 +212,22 @@ outline: [
     chapter: 18,
     verse: 17
   }
+},
+{
+  text: "Hezekiah seeks Isaiah's counsel when Assyria threatens Jerusalem. After receiving a taunting letter from Sennacherib, Hezekiah prays in the temple. Through Isaiah, God promises to defend Jerusalem.",
+  start: {
+    book: "2 Kings",
+    chapter: 19,
+    verse: 1
+  }
+},
+{
+  text: "An angel of the Lord kills 185,000 Assyrian soldiers, and Sennacherib returns to Nineveh where he is later killed by his sons.",
+  start: {
+    book: "2 Kings",
+    chapter: 19,
+    verse: 35
+  }
 }
 ]
 ---

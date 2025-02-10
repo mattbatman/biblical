@@ -2,7 +2,7 @@
 title: "2 Kings"
 pageType: "bibleChapter"
 publishDate: "21 Dec 2024"
-tags: ["Baal Zebub", "Baal", "Ekron", "leper", "Samaria", "Jordan River", "leprosy", "Asherah poles", "pass through the fire", "divination", "enchantment", "Nehushtan"]
+tags: ["Baal Zebub", "Baal", "Ekron", "leper", "Samaria", "Jordan River", "leprosy", "Asherah poles", "pass through the fire", "divination", "enchantment", "Nehushtan", "Babylon", "eunuchs", "sundial"]
 people: ["Elijah the Tishbite", "Jehoram", "Ahaziah", "Elisha", "Naaman", "Gehazi", "Jehu", "Jezebel", "Joash", "Athaliah", "Hezekiah"]
 outline: [
   {
@@ -227,6 +227,30 @@ outline: [
     book: "2 Kings",
     chapter: 19,
     verse: 35
+  }
+},
+{
+  text: "Hezekiah grew sick, but was promised he would recover. The direction of the movement of some shadows were promised as a sign he would recover.",
+  start: {
+    book: "2 Kings",
+    chapter: 20,
+    verse: 1
+  }
+},
+{
+  text: "Hezekiah was visited by representatives of the king of Babylon, and showed him all of their treasures.",
+  start: {
+    book: "2 Kings",
+    chapter: 20,
+    verse: 12
+  }
+},
+{
+  text: "Hezekiah is told by Isaiah that all of their treasures will be taken by Babylon and that some of his descendants will become eunuchs in the palace of the king of Babylon.",
+  start: {
+    book: "2 Kings",
+    chapter: 20,
+    verse: 12
   }
 }
 ]

@@ -252,6 +252,14 @@ outline: [
     chapter: 20,
     verse: 12
   }
+},
+{
+  text: "Manasseh reigned over Judah, and established worship over other gods.",
+  start: {
+    book: "2 Kings",
+    chapter: 21,
+    verse: 1
+  }
 }
 ]
 ---

@@ -3,7 +3,7 @@ title: "2 Kings"
 pageType: "bibleChapter"
 publishDate: "21 Dec 2024"
 tags: ["Baal Zebub", "Baal", "Ekron", "leper", "Samaria", "Jordan River", "leprosy", "Asherah poles", "pass through the fire", "divination", "enchantment", "Nehushtan", "Babylon", "eunuchs", "sundial", "Book of the Law"]
-people: ["Elijah the Tishbite", "Jehoram", "Ahaziah", "Elisha", "Naaman", "Gehazi", "Jehu", "Jezebel", "Joash", "Athaliah", "Hezekiah"]
+people: ["Elijah the Tishbite", "Jehoram", "Ahaziah", "Elisha", "Naaman", "Gehazi", "Jehu", "Jezebel", "Joash", "Athaliah", "Hezekiah", "Josiah", "Hilkiah", "Pharaoh Necho"]
 outline: [
   {
   text: "Ahaziah got sick. He sent messengers to ask Baal Zebub if he would recover. God intercepted through Elijah the Tishbite to tell him he would die for asking Baal. Ahaziah sent three sets of fifty men to arrest Elijah. God sent fire to kill the first two sets, and Elijah accompanied the third, relayed his message to Ahaziah directly. Ahaziah died. Jehoram became king.",
@@ -268,6 +268,22 @@ outline: [
     chapter: 22,
     verse: 1
   }
+},
+{
+  text: "King Josiah found the book of the covenant and recommitted his people to it. He banished the worshipping of other gods that had been established.",
+  start: {
+    book: "2 Kings",
+    chapter: 23,
+    verse: 1
+  }
+},
+{
+  text: "When Josiah is killed, his son Jehoahaz is made king. Pharaoh Necho captures Jehoahaz and he dies while imprisoned. Jehoaikim becomes king, and does evil in the sight of the LORD.",
+  start: {
+    book: "2 Kings",
+    chapter: 23,
+    verse: 31
+  }
 }
 ]
 ---
@@ -312,7 +328,7 @@ The Second Book of Kings
   <span class="verse" id="2KI1V4">
     4
   </span>
-  Now therefore Yahweh says, “You will not come down from the bed where you have gone up, but you will surely die.” ’ ” Then Elijah departed.
+  Now therefore Yahweh says, “You will not come down from the bed where you have gone up, but you will surely die.” ’ ” Then Elijah departed.
 </div>
 <div class="p">
   <span class="verse" id="2KI1V5">
@@ -324,7 +340,7 @@ The Second Book of Kings
   <span class="verse" id="2KI1V6">
     6
   </span>
-  They said to him, “A man came up to meet us, and said to us, ‘Go, return to the king who sent you, and tell him, “Yahweh says, ‘Is it because there is no God in Israel that you send to inquire of Baal Zebub, the god of Ekron? Therefore you will not come down from the bed where you have gone up, but you will surely die.’ ” ’ ”
+  They said to him, “A man came up to meet us, and said to us, ‘Go, return to the king who sent you, and tell him, “Yahweh says, ‘Is it because there is no God in Israel that you send to inquire of Baal Zebub, the god of Ekron? Therefore you will not come down from the bed where you have gone up, but you will surely die.’ ” ’ ”
 </div>
 <div class="p">
   <span class="verse" id="2KI1V7">
@@ -339,7 +355,7 @@ The Second Book of Kings
   They answered him, “He was a hairy man, and wearing a leather belt around his waist.”
 </div>
 <div class="p">
-  He said, “It’s Elijah the Tishbite.”
+  He said, “It's Elijah the Tishbite.”
 </div>
 <div class="p">
   <span class="verse" id="2KI1V9">

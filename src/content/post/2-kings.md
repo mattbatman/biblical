@@ -2,7 +2,7 @@
 title: "2 Kings"
 pageType: "bibleChapter"
 publishDate: "21 Dec 2024"
-tags: ["Baal Zebub", "Baal", "Ekron", "leper", "Samaria", "Jordan River", "leprosy", "Asherah poles", "pass through the fire", "divination", "enchantment", "Nehushtan", "Babylon", "eunuchs", "sundial"]
+tags: ["Baal Zebub", "Baal", "Ekron", "leper", "Samaria", "Jordan River", "leprosy", "Asherah poles", "pass through the fire", "divination", "enchantment", "Nehushtan", "Babylon", "eunuchs", "sundial", "Book of the Law"]
 people: ["Elijah the Tishbite", "Jehoram", "Ahaziah", "Elisha", "Naaman", "Gehazi", "Jehu", "Jezebel", "Joash", "Athaliah", "Hezekiah"]
 outline: [
   {
@@ -258,6 +258,14 @@ outline: [
   start: {
     book: "2 Kings",
     chapter: 21,
+    verse: 1
+  }
+},
+{
+  text: "The Book of the Law was found. King Josiah displayed anguish over hearing the words of the book and realizing they had violated it. For this display, God promised not to destroy Israel while King Josiah was still alive.",
+  start: {
+    book: "2 Kings",
+    chapter: 22,
     verse: 1
   }
 }

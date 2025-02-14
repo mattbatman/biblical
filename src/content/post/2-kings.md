@@ -292,6 +292,14 @@ outline: [
     chapter: 24,
     verse: 1
   }
+},
+{
+  text: "King Jehoiachin of Juda was released.",
+  start: {
+    book: "2 Kings",
+    chapter: 25,
+    verse: 27
+  }
 }
 ]
 ---

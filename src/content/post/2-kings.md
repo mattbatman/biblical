@@ -3,7 +3,7 @@ title: "2 Kings"
 pageType: "bibleChapter"
 publishDate: "21 Dec 2024"
 tags: ["Baal Zebub", "Baal", "Ekron", "leper", "Samaria", "Jordan River", "leprosy", "Asherah poles", "pass through the fire", "divination", "enchantment", "Nehushtan", "Babylon", "eunuchs", "sundial", "Book of the Law"]
-people: ["Elijah the Tishbite", "Jehoram", "Ahaziah", "Elisha", "Naaman", "Gehazi", "Jehu", "Jezebel", "Joash", "Athaliah", "Hezekiah", "Josiah", "Hilkiah", "Pharaoh Necho"]
+people: ["Elijah the Tishbite", "Jehoram", "Ahaziah", "Elisha", "Naaman", "Gehazi", "Jehu", "Jezebel", "Joash", "Athaliah", "Hezekiah", "Josiah", "Hilkiah", "Pharaoh Necho", "Nebuchadnezzar"]
 outline: [
   {
   text: "Ahaziah got sick. He sent messengers to ask Baal Zebub if he would recover. God intercepted through Elijah the Tishbite to tell him he would die for asking Baal. Ahaziah sent three sets of fifty men to arrest Elijah. God sent fire to kill the first two sets, and Elijah accompanied the third, relayed his message to Ahaziah directly. Ahaziah died. Jehoram became king.",
@@ -283,6 +283,14 @@ outline: [
     book: "2 Kings",
     chapter: 23,
     verse: 31
+  }
+},
+{
+  text: "King Nebuchadnezzar of Babylon successfully besieged Jerusalem.",
+  start: {
+    book: "2 Kings",
+    chapter: 24,
+    verse: 1
   }
 }
 ]

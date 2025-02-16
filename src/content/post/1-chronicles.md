@@ -4,7 +4,24 @@ publishDate: "14 Feb 2025"
 pageType: "bibleChapter"
 tags: []
 people: []
-outline: []
+outline: [
+  {
+    text: "A genealogical record from Adam to Abraham",
+    start: {
+      book: "1 Chronicles",
+      chapter: 1,
+      verse: 1
+    }
+  },
+  {
+    text: "Genealogical records of Israel and Judah",
+    start: {
+      book: "1 Chronicles",
+      chapter: 2,
+      verse: 1
+    }
+  }
+]
 ---
 ## World English Bible Text
 

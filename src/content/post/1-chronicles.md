@@ -20,6 +20,14 @@ outline: [
       chapter: 2,
       verse: 1
     }
+  },
+  {
+    text: "The genealogy of King David's family is detailed",
+    start: {
+      book: "1 Chronicles",
+      chapter: 3,
+      verse: 1
+    }
   }
 ]
 ---

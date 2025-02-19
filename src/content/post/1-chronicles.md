@@ -44,6 +44,30 @@ outline: [
       chapter: 4,
       verse: 24
     }
+  },
+  {
+    text: "The sons of Reuben are listed",
+    start: {
+      book: "1 Chronicles",
+      chapter: 5,
+      verse: 1
+    }
+  },
+  {
+    text: "The Gadites are listed",
+    start: {
+      book: "1 Chronicles",
+      chapter: 5,
+      verse: 11
+    }
+  },
+  {
+    text: "The half-tribe of Manasseh is discussed",
+    start: {
+      book: "1 Chronicles",
+      chapter: 5,
+      verse: 23
+    }
   }
 ]
 ---

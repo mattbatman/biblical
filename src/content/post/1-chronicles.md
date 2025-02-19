@@ -28,6 +28,22 @@ outline: [
       chapter: 3,
       verse: 1
     }
+  },
+  {
+    text: "The descendants of Judah are outlined",
+    start: {
+      book: "1 Chronicles",
+      chapter: 3,
+      verse: 1
+    }
+  },
+  {
+    text: "The descendants of Simeon are outlined",
+    start: {
+      book: "1 Chronicles",
+      chapter: 4,
+      verse: 24
+    }
   }
 ]
 ---

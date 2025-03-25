@@ -68,6 +68,30 @@ outline: [
       chapter: 5,
       verse: 23
     }
+  },
+  {
+    text: "The descendants of Levi are accounted for",
+    start: {
+      book: "1 Chronicles",
+      chapter: 6,
+      verse: 1
+    }
+  },
+  {
+    text: "The descendants of Levi are accounted for",
+    start: {
+      book: "1 Chronicles",
+      chapter: 6,
+      verse: 31
+    }
+  },
+  {
+    text: "The settlements of the Levi are accounted for",
+    start: {
+      book: "1 Chronicles",
+      chapter: 6,
+      verse: 54
+    }
   }
 ]
 ---

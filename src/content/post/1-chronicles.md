@@ -92,6 +92,62 @@ outline: [
       chapter: 6,
       verse: 54
     }
+  },
+  {
+    text: "The sons of Issachar are accounted for",
+    start: {
+      book: "1 Chronicles",
+      chapter: 7,
+      verse: 1
+    }
+  },
+  {
+    text: "The sons of Benjamin are accounted for",
+    start: {
+      book: "1 Chronicles",
+      chapter: 7,
+      verse: 6
+    }
+  },
+  {
+    text: "The sons of Naphtali are accounted for",
+    start: {
+      book: "1 Chronicles",
+      chapter: 7,
+      verse: 13
+    }
+  },
+  {
+    text: "The descendants of Manasseh are accounted for",
+    start: {
+      book: "1 Chronicles",
+      chapter: 7,
+      verse: 14
+    }
+  },
+  {
+    text: "The descendants of Ephraim are accounted for",
+    start: {
+      book: "1 Chronicles",
+      chapter: 7,
+      verse: 14
+    }
+  },
+  {
+    text: "The sons of Asher are accounted for",
+    start: {
+      book: "1 Chronicles",
+      chapter: 7,
+      verse: 30
+    }
+  },
+  {
+    text: "The descendants of Benjamin are accounted for",
+    start: {
+      book: "1 Chronicles",
+      chapter: 8,
+      verse: 1
+    }
   }
 ]
 ---

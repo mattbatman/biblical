@@ -148,6 +148,14 @@ outline: [
       chapter: 8,
       verse: 1
     }
+  },
+  {
+    text: "The first inhabitants who returned to live after Judah was taken into exile in Babylon are accounted for",
+    start: {
+      book: "1 Chronicles",
+      chapter: 9,
+      verse: 1
+    }
   }
 ]
 ---

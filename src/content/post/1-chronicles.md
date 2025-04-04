@@ -2,8 +2,8 @@
 title: "1 Chronicles"
 publishDate: "14 Feb 2025"
 pageType: "bibleChapter"
-tags: []
-people: []
+tags: ["Dagon"]
+people: ["Saul", "David"]
 outline: [
   {
     text: "A genealogical record from Adam to Abraham",
@@ -154,6 +154,14 @@ outline: [
     start: {
       book: "1 Chronicles",
       chapter: 9,
+      verse: 1
+    }
+  },
+  {
+    text: "The death of Saul is recounted",
+    start: {
+      book: "1 Chronicles",
+      chapter: 10,
       verse: 1
     }
   }

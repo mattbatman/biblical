@@ -164,6 +164,14 @@ outline: [
       chapter: 10,
       verse: 1
     }
+  },
+  {
+    text: "David was appointed king of Israel, and his mighty men are recounted",
+    start: {
+      book: "1 Chronicles",
+      chapter: 11,
+      verse: 1
+    }
   }
 ]
 ---

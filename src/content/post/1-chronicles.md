@@ -2,7 +2,7 @@
 title: "1 Chronicles"
 publishDate: "14 Feb 2025"
 pageType: "bibleChapter"
-tags: ["Dagon"]
+tags: ["Dagon", "Ziklag", "Hebron"]
 people: ["Saul", "David"]
 outline: [
   {
@@ -171,6 +171,22 @@ outline: [
       book: "1 Chronicles",
       chapter: 11,
       verse: 1
+    }
+  },
+  {
+    text: "David's followers in the wilderness while hiding from Saul are recounted",
+    start: {
+      book: "1 Chronicles",
+      chapter: 12,
+      verse: 1
+    }
+  },
+  {
+    text: "David's army at Hebron is recounted",
+    start: {
+      book: "1 Chronicles",
+      chapter: 12,
+      verse: 23
     }
   }
 ]

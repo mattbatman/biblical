@@ -2,7 +2,7 @@
 title: "1 Chronicles"
 publishDate: "14 Feb 2025"
 pageType: "bibleChapter"
-tags: ["Dagon", "Ziklag", "Hebron", "Ark of the Covenant"]
+tags: ["Dagon", "Ziklag", "Hebron", "Ark of the Covenant", "Philistines"]
 people: ["Saul", "David"]
 outline: [
   {
@@ -188,12 +188,29 @@ outline: [
       chapter: 12,
       verse: 23
     }
-  }, {
+  },
+  {
     text: "David's attempt to bring the Ark back to Jerusalem is recounted",
     start: {
       book: "1 Chronicles",
       chapter: 13,
       verse: 1
+    }
+  },
+  {
+    text: "David's becomes King of Israel",
+    start: {
+      book: "1 Chronicles",
+      chapter: 14,
+      verse: 1
+    }
+  },
+  {
+    text: "The Philistines invaded Israel when they heard David had been appointed king. They were defeated.",
+    start: {
+      book: "1 Chronicles",
+      chapter: 14,
+      verse: 8
     }
   }
 ]

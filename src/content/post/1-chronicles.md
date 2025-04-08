@@ -2,7 +2,7 @@
 title: "1 Chronicles"
 publishDate: "14 Feb 2025"
 pageType: "bibleChapter"
-tags: ["Dagon", "Ziklag", "Hebron"]
+tags: ["Dagon", "Ziklag", "Hebron", "Ark of the Covenant"]
 people: ["Saul", "David"]
 outline: [
   {
@@ -187,6 +187,13 @@ outline: [
       book: "1 Chronicles",
       chapter: 12,
       verse: 23
+    }
+  }, {
+    text: "David's attempt to bring the Ark back to Jerusalem is recounted",
+    start: {
+      book: "1 Chronicles",
+      chapter: 13,
+      verse: 1
     }
   }
 ]

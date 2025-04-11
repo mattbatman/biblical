@@ -212,6 +212,14 @@ outline: [
       chapter: 14,
       verse: 8
     }
+  },
+  {
+    text: "David brought the Ark to Jerusalem",
+    start: {
+      book: "1 Chronicles",
+      chapter: 15,
+      verse: 1
+    }
   }
 ]
 ---

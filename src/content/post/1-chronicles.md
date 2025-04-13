@@ -220,6 +220,22 @@ outline: [
       chapter: 15,
       verse: 1
     }
+  },
+  {
+    text: "The Ark was placed in the tent David had pitched for it",
+    start: {
+      book: "1 Chronicles",
+      chapter: 16,
+      verse: 1
+    }
+  },
+  {
+    text: "David appointed singing of praises to the Lord",
+    start: {
+      book: "1 Chronicles",
+      chapter: 16,
+      verse: 7
+    }
   }
 ]
 ---

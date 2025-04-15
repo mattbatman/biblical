@@ -236,6 +236,14 @@ outline: [
       chapter: 16,
       verse: 7
     }
+  },
+  {
+    text: "David commanded Nathan to build a house for the Lord instead of a tent, but God told Nathan to tell David that he doesn't need a house",
+    start: {
+      book: "1 Chronicles",
+      chapter: 17,
+      verse: 1
+    }
   }
 ]
 ---

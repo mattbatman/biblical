@@ -244,6 +244,14 @@ outline: [
       chapter: 17,
       verse: 1
     }
+  },
+  {
+    text: "David conquered more land",
+    start: {
+      book: "1 Chronicles",
+      chapter: 18,
+      verse: 1
+    }
   }
 ]
 ---

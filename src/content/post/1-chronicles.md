@@ -252,6 +252,14 @@ outline: [
       chapter: 18,
       verse: 1
     }
+  },
+  {
+    text: "David defeats the Ammonites and Arameans after his attempts at peace are rebuked by the son of King Nahash of Ammon who took power after his death",
+    start: {
+      book: "1 Chronicles",
+      chapter: 19,
+      verse: 1
+    }
   }
 ]
 ---

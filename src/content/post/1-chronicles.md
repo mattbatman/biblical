@@ -2,7 +2,7 @@
 title: "1 Chronicles"
 publishDate: "14 Feb 2025"
 pageType: "bibleChapter"
-tags: ["Dagon", "Ziklag", "Hebron", "Ark of the Covenant", "Philistines"]
+tags: ["Dagon", "Ziklag", "Hebron", "Ark of the Covenant", "Philistines", "Rabbah", "Rapha", "Gath"]
 people: ["Saul", "David"]
 outline: [
   {
@@ -259,6 +259,22 @@ outline: [
       book: "1 Chronicles",
       chapter: 19,
       verse: 1
+    }
+  },
+  {
+    text: "David captures Rabbah",
+    start: {
+      book: "1 Chronicles",
+      chapter: 20,
+      verse: 1
+    }
+  },
+  {
+    text: "David goes to war with the Philistines",
+    start: {
+      book: "1 Chronicles",
+      chapter: 20,
+      verse: 4
     }
   }
 ]

@@ -2,8 +2,8 @@
 title: "1 Chronicles"
 publishDate: "14 Feb 2025"
 pageType: "bibleChapter"
-tags: ["Dagon", "Ziklag", "Hebron", "Ark of the Covenant", "Philistines", "Rabbah", "Rapha", "Gath"]
-people: ["Saul", "David"]
+tags: ["Dagon", "Ziklag", "Hebron", "Ark of the Covenant", "Philistines", "Rabbah", "Rapha", "Gath", "census", "Satan", "sword of an angel"]
+people: ["Saul", "David", "Joab", "Gad"]
 outline: [
   {
     text: "A genealogical record from Adam to Abraham",
@@ -275,6 +275,38 @@ outline: [
       book: "1 Chronicles",
       chapter: 20,
       verse: 4
+    }
+  },
+  {
+    text: "David performed a census, under the influence of Satan",
+    start: {
+      book: "1 Chronicles",
+      chapter: 21,
+      verse: 1
+    }
+  },
+  {
+    text: "David performed a census, under the influence of Satan",
+    start: {
+      book: "1 Chronicles",
+      chapter: 21,
+      verse: 1
+    }
+  },
+  {
+    text: "God gave David three options of punishment for the census",
+    start: {
+      book: "1 Chronicles",
+      chapter: 21,
+      verse: 7
+    }
+  },
+  {
+    text: "David performs a sacrifice to spare the people of Israel",
+    start: {
+      book: "1 Chronicles",
+      chapter: 21,
+      verse: 18
     }
   }
 ]

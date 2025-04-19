@@ -3,7 +3,7 @@ title: "1 Chronicles"
 publishDate: "14 Feb 2025"
 pageType: "bibleChapter"
 tags: ["Dagon", "Ziklag", "Hebron", "Ark of the Covenant", "Philistines", "Rabbah", "Rapha", "Gath", "census", "Satan", "sword of an angel"]
-people: ["Saul", "David", "Joab", "Gad"]
+people: ["Saul", "David", "Joab", "Gad", "Solomon"]
 outline: [
   {
     text: "A genealogical record from Adam to Abraham",
@@ -307,6 +307,14 @@ outline: [
       book: "1 Chronicles",
       chapter: 21,
       verse: 18
+    }
+  },
+  {
+    text: "David prepares for a house of God to be built by his son, Solomon",
+    start: {
+      book: "1 Chronicles",
+      chapter: 22,
+      verse: 1
     }
   }
 ]

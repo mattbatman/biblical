@@ -316,6 +316,14 @@ outline: [
       chapter: 22,
       verse: 1
     }
+  },
+  {
+    text: "David accounted for the Levites and modified their function, as God would live in Jerusalem from now on",
+    start: {
+      book: "1 Chronicles",
+      chapter: 23,
+      verse: 1
+    }
   }
 ]
 ---

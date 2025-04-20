@@ -332,6 +332,14 @@ outline: [
       chapter: 24,
       verse: 1
     }
+  },
+  {
+    text: "Appointed musicians are account for",
+    start: {
+      book: "1 Chronicles",
+      chapter: 25,
+      verse: 1
+    }
   }
 ]
 ---

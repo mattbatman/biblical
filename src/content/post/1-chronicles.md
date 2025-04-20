@@ -324,6 +324,14 @@ outline: [
       chapter: 23,
       verse: 1
     }
+  },
+  {
+    text: "The descendants of Aaron are accounted for",
+    start: {
+      book: "1 Chronicles",
+      chapter: 24,
+      verse: 1
+    }
   }
 ]
 ---

@@ -340,6 +340,22 @@ outline: [
       chapter: 25,
       verse: 1
     }
+  },
+  {
+    text: "The gatekeepers are accounted for",
+    start: {
+      book: "1 Chronicles",
+      chapter: 26,
+      verse: 1
+    }
+  },
+  {
+    text: "Treasury officers are accounted for",
+    start: {
+      book: "1 Chronicles",
+      chapter: 26,
+      verse: 20
+    }
   }
 ]
 ---

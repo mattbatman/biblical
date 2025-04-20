@@ -364,6 +364,22 @@ outline: [
       chapter: 27,
       verse: 1
     }
+  },
+  {
+    text: "David instructs and justifies Solomon building a temple",
+    start: {
+      book: "1 Chronicles",
+      chapter: 28,
+      verse: 1
+    }
+  },
+  {
+    text: "David's final blesing of god and offerings for the building of the temple are recounted",
+    start: {
+      book: "1 Chronicles",
+      chapter: 29,
+      verse: 1
+    }
   }
 ]
 ---

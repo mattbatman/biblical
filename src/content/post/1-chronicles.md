@@ -356,6 +356,14 @@ outline: [
       chapter: 26,
       verse: 20
     }
+  },
+  {
+    text: "Military divisions are accounted for",
+    start: {
+      book: "1 Chronicles",
+      chapter: 27,
+      verse: 1
+    }
   }
 ]
 ---

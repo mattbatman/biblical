@@ -2,9 +2,42 @@
 title: "2 Chronicles"
 publishDate: "20 Apr 2025"
 pageType: "bibleChapter"
-tags: []
-people: []
-outline: []
+tags: ["Jachin", "Boaz", "cherubim"]
+people: ["Solomon", "King Huram of Tyre"]
+outline: [
+  {
+    text: "Solomon requests wisdom from God when God appears to him in a dream",
+    start: {
+      book: "2 Chronicles",
+      chapter: 1,
+      verse: 1
+    }
+  },
+  {
+    text: "Solomon conscripts workers to build a teple to God and a palace for himself",
+    start: {
+      book: "2 Chronicles",
+      chapter: 2,
+      verse: 1
+    }
+  },
+  {
+    text: "Solomon enlists help from King Huram of Tyre to acquire resources for the temple",
+    start: {
+      book: "2 Chronicles",
+      chapter: 2,
+      verse: 3
+    }
+  },
+  {
+    text: "Solomon builds the temple",
+    start: {
+      book: "2 Chronicles",
+      chapter: 3,
+      verse: 1
+    }
+  }
+]
 ---
 ## World English Bible Text
 

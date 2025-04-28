@@ -36,6 +36,14 @@ outline: [
       chapter: 3,
       verse: 1
     }
+  },
+  {
+    text: "An altar, lamps, and furnishings are made for the temple",
+    start: {
+      book: "2 Chronicles",
+      chapter: 4,
+      verse: 1
+    }
   }
 ]
 ---

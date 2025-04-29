@@ -2,7 +2,7 @@
 title: "2 Chronicles"
 publishDate: "20 Apr 2025"
 pageType: "bibleChapter"
-tags: ["Jachin", "Boaz", "cherubim"]
+tags: ["Jachin", "Boaz", "cherubim", "Ark of the Covenant"]
 people: ["Solomon", "King Huram of Tyre"]
 outline: [
   {
@@ -42,6 +42,14 @@ outline: [
     start: {
       book: "2 Chronicles",
       chapter: 4,
+      verse: 1
+    }
+  },
+  {
+    text: "The Ark was brought into the temple",
+    start: {
+      book: "2 Chronicles",
+      chapter: 5,
       verse: 1
     }
   }

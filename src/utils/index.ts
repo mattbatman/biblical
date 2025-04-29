@@ -10,6 +10,7 @@ export {
 	getUniquePeople,
 	getUniquePeopleWithCount,
 	sortBibleChapterPosts,
+	filterForOtherPosts,
 } from "./post";
 export { generateToc } from "./generateToc";
 export type { TocItem } from "./generateToc";

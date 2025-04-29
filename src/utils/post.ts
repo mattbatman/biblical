@@ -87,6 +87,14 @@ export async function getAllBibleChapters() {
 	});
 }
 
+export function filterForOtherPosts(posts: Array<CollectionEntry<"post">>) {
+	return posts.filter(function ({ data }) {
+		const { pageType } = data;
+
+		return pageType === "other";
+	});
+}
+
 export function sortBibleChapterPosts(posts: Array<CollectionEntry<"post">>) {
 	// sort the list of posts by title in order of BIBLE_BOOKS
 	return posts.sort((a, b) => {
@@ -124,23 +132,23 @@ export function getUniquePeople(posts: Array<CollectionEntry<"post">>) {
 
 /** Note: This function doesn't filter draft posts, pass it the result of k above to do so. */
 export function getUniqueTagsWithCount(
-	posts: Array<CollectionEntry<"post">>,
+	posts: Array<CollectionEntry<"post">>
 ): Array<[string, number]> {
 	return [
 		...getAllTags(posts).reduce(
 			(acc, t) => acc.set(t, (acc.get(t) || 0) + 1),
-			new Map<string, number>(),
+			new Map<string, number>()
 		),
 	].sort((a, b) => b[1] - a[1]);
 }
 
 export function getUniquePeopleWithCount(
-	posts: Array<CollectionEntry<"post">>,
+	posts: Array<CollectionEntry<"post">>
 ): Array<[string, number]> {
 	return [
 		...getAllPeople(posts).reduce(
 			(acc, t) => acc.set(t, (acc.get(t) || 0) + 1),
-			new Map<string, number>(),
+			new Map<string, number>()
 		),
 	].sort((a, b) => b[1] - a[1]);
 }

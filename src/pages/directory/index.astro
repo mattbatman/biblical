@@ -7,11 +7,13 @@ import {
 	getUniqueTags,
 	getUniquePeople,
 	sortBibleChapterPosts,
+	filterForOtherPosts,
 } from "@/utils";
 
 const bibleChapters = await getAllBibleChapters();
 const allPosts = await getAllPosts();
 const sortedChapters = sortBibleChapterPosts(bibleChapters);
+const otherPosts = filterForOtherPosts(allPosts);
 const uniqueTags = getUniqueTags(allPosts);
 const uniquePeople = getUniquePeople(allPosts);
 
@@ -20,13 +22,25 @@ const meta = {
 	description: "Links to all reference pages on this site.",
 };
 ---
+
 <PageLayout meta={meta}>
 	<h1 class="title mb-6">Directory</h1>
-	<div class="grid gap-y-16 sm:grid-cols-[3fr_1fr] sm:gap-x-8">
-		<section aria-label="Blog post list">
+	<div class="grid gap-y-16 sm:grid-cols-[4fr_1fr] sm:gap-x-8">
+		<section>
+			<h2 class="mb-8">Books of the Bible</h2>
 			<ul class="space-y-8 text-start">
 				{
 					sortedChapters.map((p) => (
+						<li class="flex flex-col flex-wrap gap-2 sm:flex-row [&_q]:basis-full">
+							<PostPreview post={p} as="h2" withDesc />
+						</li>
+					))
+				}
+			</ul>
+			<h2 class="my-8">Non-Biblical Resources</h2>
+			<ul class="space-y-8 text-start">
+				{
+					otherPosts.map((p) => (
 						<li class="flex flex-col flex-wrap gap-2 sm:flex-row [&_q]:basis-full">
 							<PostPreview post={p} as="h2" withDesc />
 						</li>

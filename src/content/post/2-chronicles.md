@@ -52,6 +52,14 @@ outline: [
       chapter: 5,
       verse: 1
     }
+  },
+  {
+    text: "Solomon blessed the assembly of Israel and prays to God from an altar in the temple",
+    start: {
+      book: "2 Chronicles",
+      chapter: 6,
+      verse: 1
+    }
   }
 ]
 ---

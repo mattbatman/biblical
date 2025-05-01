@@ -60,6 +60,22 @@ outline: [
       chapter: 6,
       verse: 1
     }
+  },
+  {
+    text: "After Solomon's prayer, a fire consumed the sacrifices",
+    start: {
+      book: "2 Chronicles",
+      chapter: 7,
+      verse: 1
+    }
+  },
+  {
+    text: "God appears to Solomon in a dream",
+    start: {
+      book: "2 Chronicles",
+      chapter: 7,
+      verse: 12
+    }
   }
 ]
 ---

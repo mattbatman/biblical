@@ -2,8 +2,8 @@
 title: "2 Chronicles"
 publishDate: "20 Apr 2025"
 pageType: "bibleChapter"
-tags: ["Jachin", "Boaz", "cherubim", "Ark of the Covenant", "wisdom"]
-people: ["Solomon", "King Huram of Tyre", "Queen of Sheba"]
+tags: ["Jachin", "Boaz", "cherubim", "Ark of the Covenant", "wisdom", "Shechem", "Jerusalem"]
+people: ["Solomon", "King Huram of Tyre", "Queen of Sheba", "Rehoboam"]
 outline: [
   {
     text: "Solomon requests wisdom from God when God appears to him in a dream",
@@ -107,6 +107,14 @@ outline: [
       book: "2 Chronicles",
       chapter: 9,
       verse: 28
+    }
+  },
+  {
+    text: "King Rehoboam rejected the people's request to rule them lightly. They then stoned their taskmaster to death. Rehoboam fled to Jerusalem.",
+    start: {
+      book: "2 Chronicles",
+      chapter: 10,
+      verse: 1
     }
   }
 ]

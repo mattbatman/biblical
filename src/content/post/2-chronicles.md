@@ -2,8 +2,8 @@
 title: "2 Chronicles"
 publishDate: "20 Apr 2025"
 pageType: "bibleChapter"
-tags: ["Jachin", "Boaz", "cherubim", "Ark of the Covenant"]
-people: ["Solomon", "King Huram of Tyre"]
+tags: ["Jachin", "Boaz", "cherubim", "Ark of the Covenant", "wisdom"]
+people: ["Solomon", "King Huram of Tyre", "Queen of Sheba"]
 outline: [
   {
     text: "Solomon requests wisdom from God when God appears to him in a dream",
@@ -75,6 +75,38 @@ outline: [
       book: "2 Chronicles",
       chapter: 7,
       verse: 12
+    }
+  },
+  {
+    text: "God appears to Solomon in a dream",
+    start: {
+      book: "2 Chronicles",
+      chapter: 8,
+      verse: 1
+    }
+  },
+  {
+    text: "The queen of Sheba visits Solomon",
+    start: {
+      book: "2 Chronicles",
+      chapter: 9,
+      verse: 1
+    }
+  },
+  {
+    text: "Solomon's wealth and gold is described",
+    start: {
+      book: "2 Chronicles",
+      chapter: 9,
+      verse: 13
+    }
+  },
+  {
+    text: "Solomon's dies",
+    start: {
+      book: "2 Chronicles",
+      chapter: 9,
+      verse: 28
     }
   }
 ]

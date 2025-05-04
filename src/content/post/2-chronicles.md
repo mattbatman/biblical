@@ -2,8 +2,8 @@
 title: "2 Chronicles"
 publishDate: "20 Apr 2025"
 pageType: "bibleChapter"
-tags: ["Jachin", "Boaz", "cherubim", "Ark of the Covenant", "wisdom", "Shechem", "Jerusalem"]
-people: ["Solomon", "King Huram of Tyre", "Queen of Sheba", "Rehoboam", "Abijah", "Jeroboam"]
+tags: ["Jachin", "Boaz", "cherubim", "Ark of the Covenant", "wisdom", "Shechem", "Jerusalem", "Asherah poles"]
+people: ["Solomon", "King Huram of Tyre", "Queen of Sheba", "Rehoboam", "Abijah", "Jeroboam", "Asa"]
 outline: [
   {
     text: "Solomon requests wisdom from God when God appears to him in a dream",
@@ -155,6 +155,22 @@ outline: [
       book: "2 Chronicles",
       chapter: 13,
       verse: 1
+    }
+  },
+  {
+    text: "Asa reigned once his father, Abijah, died. He obeyed God.",
+    start: {
+      book: "2 Chronicles",
+      chapter: 14,
+      verse: 1
+    }
+  },
+  {
+    text: "Zerah the Ethiopian brought an army against Israel, but Asa defeated them with God's help",
+    start: {
+      book: "2 Chronicles",
+      chapter: 14,
+      verse: 9
     }
   }
 ]

@@ -3,7 +3,7 @@ title: "2 Chronicles"
 publishDate: "20 Apr 2025"
 pageType: "bibleChapter"
 tags: ["Jachin", "Boaz", "cherubim", "Ark of the Covenant", "wisdom", "Shechem", "Jerusalem"]
-people: ["Solomon", "King Huram of Tyre", "Queen of Sheba", "Rehoboam"]
+people: ["Solomon", "King Huram of Tyre", "Queen of Sheba", "Rehoboam", "Abijah", "Jeroboam"]
 outline: [
   {
     text: "Solomon requests wisdom from God when God appears to him in a dream",
@@ -146,6 +146,14 @@ outline: [
     start: {
       book: "2 Chronicles",
       chapter: 12,
+      verse: 1
+    }
+  },
+  {
+    text: "Abijah reigned over Judah and defeated King Jeroboam",
+    start: {
+      book: "2 Chronicles",
+      chapter: 13,
       verse: 1
     }
   }

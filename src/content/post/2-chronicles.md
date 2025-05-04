@@ -116,6 +116,38 @@ outline: [
       chapter: 10,
       verse: 1
     }
+  },
+  {
+    text: "Rehoboam raised an army when he reached Jerusalem, but God warned Shemaiah and made it difficult for him",
+    start: {
+      book: "2 Chronicles",
+      chapter: 11,
+      verse: 1
+    }
+  },
+  {
+    text: "The priests and the Levites supported Rehoboam because Jeroboam and his sons prevented them from serving as priests and appointed goat and calf idols",
+    start: {
+      book: "2 Chronicles",
+      chapter: 11,
+      verse: 12
+    }
+  },
+  {
+    text: "Rehoboam married",
+    start: {
+      book: "2 Chronicles",
+      chapter: 11,
+      verse: 18
+    }
+  },
+  {
+    text: "God let the Egypt have some military victories and take gold from the temple because Rehoboam kind of abandoned Him",
+    start: {
+      book: "2 Chronicles",
+      chapter: 12,
+      verse: 1
+    }
   }
 ]
 ---

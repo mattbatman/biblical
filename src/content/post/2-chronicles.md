@@ -2,8 +2,8 @@
 title: "2 Chronicles"
 publishDate: "20 Apr 2025"
 pageType: "bibleChapter"
-tags: ["Jachin", "Boaz", "cherubim", "Ark of the Covenant", "wisdom", "Shechem", "Jerusalem", "Asherah poles"]
-people: ["Solomon", "King Huram of Tyre", "Queen of Sheba", "Rehoboam", "Abijah", "Jeroboam", "Asa"]
+tags: ["Jachin", "Boaz", "cherubim", "Ark of the Covenant", "wisdom", "Shechem", "Jerusalem", "Asherah poles", "Asherah", "high places", "seer"]
+people: ["Solomon", "King Huram of Tyre", "Queen of Sheba", "Rehoboam", "Abijah", "Jeroboam", "Asa", "Oded", "Hanani"]
 outline: [
   {
     text: "Solomon requests wisdom from God when God appears to him in a dream",
@@ -171,6 +171,22 @@ outline: [
       book: "2 Chronicles",
       chapter: 14,
       verse: 9
+    }
+  },
+  {
+    text: "Oded the Prophet relayed a message from God, and Asa pushed Judah to following God again and law and order was restored in the land",
+    start: {
+      book: "2 Chronicles",
+      chapter: 15,
+      verse: 1
+    }
+  },
+  {
+    text: "Judah and Israel went to war, and Asa used gold and silver from the temple to get Syria to agree to a treaty. Hanani the seer warned Asa that he should have turned to God and relied on him instead of the Syrians.",
+    start: {
+      book: "2 Chronicles",
+      chapter: 16,
+      verse: 1
     }
   }
 ]

@@ -3,7 +3,7 @@ title: "2 Chronicles"
 publishDate: "20 Apr 2025"
 pageType: "bibleChapter"
 tags: ["Jachin", "Boaz", "cherubim", "Ark of the Covenant", "wisdom", "Shechem", "Jerusalem", "Asherah poles", "Asherah", "high places", "seer"]
-people: ["Solomon", "King Huram of Tyre", "Queen of Sheba", "Rehoboam", "Abijah", "Jeroboam", "Asa", "Oded", "Hanani"]
+people: ["Solomon", "King Huram of Tyre", "Queen of Sheba", "Rehoboam", "Abijah", "Jeroboam", "Asa", "Oded", "Hanani", "Jehoshaphat", "Micaiah", "Ahab"]
 outline: [
   {
     text: "Solomon requests wisdom from God when God appears to him in a dream",
@@ -186,6 +186,22 @@ outline: [
     start: {
       book: "2 Chronicles",
       chapter: 16,
+      verse: 1
+    }
+  },
+  {
+    text: "Jehoshaphat ruled Judah after the death of his father, Asa, and followed God.",
+    start: {
+      book: "2 Chronicles",
+      chapter: 17,
+      verse: 1
+    }
+  },
+  {
+    text: "Jehoshaphat made an alliance with Ahab, king of Israel. The king of Israel wanted to go to war with the Syrians, and had hundreds of prophets tell him he'd be victorious. Jehoshaphat asked if there was a prophet of Yahweh, which Ahab said there was but that he didn't like him. Micaiah, the prophet of Yahweh, prophesied that the other prophets were deceived into predicting a victory for the king of Israel. The king of Israel had Micaiah imprisoned, then both kings went to battle against the Syrians and Ahab was killed.",
+    start: {
+      book: "2 Chronicles",
+      chapter: 18,
       verse: 1
     }
   }

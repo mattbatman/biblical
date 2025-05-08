@@ -204,6 +204,38 @@ outline: [
       chapter: 18,
       verse: 1
     }
+  },
+  {
+    text: "Judah was attacked by the Moabites, Ammonites, and Meunites. Jehosphaphat's prayer saved them.",
+    start: {
+      book: "2 Chronicles",
+      chapter: 20,
+      verse: 1
+    }
+  },
+  {
+    text: "Jehoshaphat join with the king of Israel, but the king of Israel did not follow the ways of God, and God destroyed some ships the two kings made together.",
+    start: {
+      book: "2 Chronicles",
+      chapter: 20,
+      verse: 31
+    }
+  },
+  {
+    text: "Jehoram succeeded his father, Jehoshaphat. He had all his brothers killed. He did what was evil in the sight of the Lord.",
+    start: {
+      book: "2 Chronicles",
+      chapter: 21,
+      verse: 1
+    }
+  },
+  {
+    text: "Jehoram received a letter from Elijah predicting disease because of his evil. He eventually died of said disease and no special ceremony was given for him.",
+    start: {
+      book: "2 Chronicles",
+      chapter: 21,
+      verse: 11
+    }
   }
 ]
 ---

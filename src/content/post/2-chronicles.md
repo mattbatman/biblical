@@ -2,8 +2,8 @@
 title: "2 Chronicles"
 publishDate: "20 Apr 2025"
 pageType: "bibleChapter"
-tags: ["Jachin", "Boaz", "cherubim", "Ark of the Covenant", "wisdom", "Shechem", "Jerusalem", "Asherah poles", "Asherah", "high places", "seer"]
-people: ["Solomon", "King Huram of Tyre", "Queen of Sheba", "Rehoboam", "Abijah", "Jeroboam", "Asa", "Oded", "Hanani", "Jehoshaphat", "Micaiah", "Ahab"]
+tags: ["Jachin", "Boaz", "cherubim", "Ark of the Covenant", "wisdom", "Shechem", "Jerusalem", "Asherah poles", "Asherah", "high places", "seer", "Baal"]
+people: ["Solomon", "King Huram of Tyre", "Queen of Sheba", "Rehoboam", "Abijah", "Jeroboam", "Asa", "Oded", "Hanani", "Jehoshaphat", "Micaiah", "Ahab", "Athaliah", "Ahaziah", "Jehoshabeath", "Jehoiada", "Mattan"]
 outline: [
   {
     text: "Solomon requests wisdom from God when God appears to him in a dream",
@@ -235,6 +235,30 @@ outline: [
       book: "2 Chronicles",
       chapter: 21,
       verse: 11
+    }
+  },
+  {
+    text: "Jehoram's youngest son, Ahaziah, was made king. He was generally wicked and died shortly thereafter. His mother, Athaliah, attempted to kill all the children in the royal house of Judah. Joash the son of Ahaziah was hidden by Jehoshabeath, his daughter, while Athaliah reigned.",
+    start: {
+      book: "2 Chronicles",
+      chapter: 22,
+      verse: 1
+    }
+  },
+  {
+    text: "Jehoiada came up with a plan and rallied tribes to protect the king.",
+    start: {
+      book: "2 Chronicles",
+      chapter: 23,
+      verse: 1
+    }
+  },
+  {
+    text: "Athaliah was killed, as well as Mattan, the priest of Baal.",
+    start: {
+      book: "2 Chronicles",
+      chapter: 23,
+      verse: 12
     }
   }
 ]

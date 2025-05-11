@@ -284,6 +284,14 @@ outline: [
       chapter: 24,
       verse: 23
     }
+  },
+  {
+    text: "Amaziah began to reign in Jerusalem. He wages war against Edom. He listens to a prophet and does not use the army of Israel. However, he starts worshipping the gods of the Edomites, and is later defeated.",
+    start: {
+      book: "2 Chronicles",
+      chapter: 25,
+      verse: 1
+    }
   }
 ]
 ---

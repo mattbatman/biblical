@@ -260,6 +260,30 @@ outline: [
       chapter: 23,
       verse: 12
     }
+  },
+  {
+    text: "Joash began to rule and began to restore the temple.",
+    start: {
+      book: "2 Chronicles",
+      chapter: 24,
+      verse: 1
+    }
+  },
+  {
+    text: "Jehoiada the priest died and Joash began to serve idols.",
+    start: {
+      book: "2 Chronicles",
+      chapter: 24,
+      verse: 15
+    }
+  },
+  {
+    text: "Joash died.",
+    start: {
+      book: "2 Chronicles",
+      chapter: 24,
+      verse: 23
+    }
   }
 ]
 ---

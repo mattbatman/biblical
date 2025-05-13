@@ -2,7 +2,7 @@
 title: "2 Chronicles"
 publishDate: "20 Apr 2025"
 pageType: "bibleChapter"
-tags: ["Jachin", "Boaz", "cherubim", "Ark of the Covenant", "wisdom", "Shechem", "Jerusalem", "Asherah poles", "Asherah", "high places", "seer", "Baal"]
+tags: ["Jachin", "Boaz", "cherubim", "Ark of the Covenant", "wisdom", "Shechem", "Jerusalem", "Asherah poles", "Asherah", "high places", "seer", "Baal", "Eloth", "Judah", "Philistines", "Meunites", "Ammonites"]
 people: ["Solomon", "King Huram of Tyre", "Queen of Sheba", "Rehoboam", "Abijah", "Jeroboam", "Asa", "Oded", "Hanani", "Jehoshaphat", "Micaiah", "Ahab", "Athaliah", "Ahaziah", "Jehoshabeath", "Jehoiada", "Mattan"]
 outline: [
   {
@@ -291,6 +291,22 @@ outline: [
       book: "2 Chronicles",
       chapter: 25,
       verse: 1
+    }
+  },
+  {
+    text: "Uzziah replaced his father Amaziah as king.",
+    start: {
+      book: "2 Chronicles",
+      chapter: 26,
+      verse: 1
+    }
+  },
+  {
+    text: "Uzziah grew strong, but proud, and went into the template to make an offering when he should have priests do it. He broke out in leprosy as the priests attempted to kick him out of the temple.",
+    start: {
+      book: "2 Chronicles",
+      chapter: 26,
+      verse: 16
     }
   }
 ]

@@ -2,8 +2,8 @@
 title: "2 Chronicles"
 publishDate: "20 Apr 2025"
 pageType: "bibleChapter"
-tags: ["Jachin", "Boaz", "cherubim", "Ark of the Covenant", "wisdom", "Shechem", "Jerusalem", "Asherah poles", "Asherah", "high places", "seer", "Baal", "Eloth", "Judah", "Philistines", "Meunites", "Ammonites"]
-people: ["Solomon", "King Huram of Tyre", "Queen of Sheba", "Rehoboam", "Abijah", "Jeroboam", "Asa", "Oded", "Hanani", "Jehoshaphat", "Micaiah", "Ahab", "Athaliah", "Ahaziah", "Jehoshabeath", "Jehoiada", "Mattan"]
+tags: ["Jachin", "Boaz", "cherubim", "Ark of the Covenant", "wisdom", "Shechem", "Jerusalem", "Asherah poles", "Asherah", "high places", "seer", "Baal", "Eloth", "Judah", "Philistines", "Meunites", "Ammonites", "pass through fire"]
+people: ["Solomon", "King Huram of Tyre", "Queen of Sheba", "Rehoboam", "Abijah", "Jeroboam", "Asa", "Oded", "Hanani", "Jehoshaphat", "Micaiah", "Ahab", "Athaliah", "Ahaziah", "Jehoshabeath", "Jehoiada", "Mattan", "Ahaz", "Oded", "Hezekiah"]
 outline: [
   {
     text: "Solomon requests wisdom from God when God appears to him in a dream",
@@ -307,6 +307,38 @@ outline: [
       book: "2 Chronicles",
       chapter: 26,
       verse: 16
+    }
+  },
+  {
+    text: "Jotham's reign is accounted for.",
+    start: {
+      book: "2 Chronicles",
+      chapter: 27,
+      verse: 1
+    }
+  },
+  {
+    text: "Ahaz begins to reign in Jerusalem, and carried out practicies similar to contemporary Israel rulers, including making images for the Baals.",
+    start: {
+      book: "2 Chronicles",
+      chapter: 28,
+      verse: 1
+    }
+  },
+  {
+    text: "Ahaz lost many battles due to his wickedness. The prophet Oded convinced the people of Israel not to subjugate the people of Judah.",
+    start: {
+      book: "2 Chronicles",
+      chapter: 28,
+      verse: 8
+    }
+  },
+  {
+    text: "Hezekiah began to reign. He had the temple cleaned and worship restored.",
+    start: {
+      book: "2 Chronicles",
+      chapter: 28,
+      verse: 8
     }
   }
 ]

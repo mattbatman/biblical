@@ -337,8 +337,16 @@ outline: [
     text: "Hezekiah began to reign. He had the temple cleaned and worship restored.",
     start: {
       book: "2 Chronicles",
-      chapter: 28,
-      verse: 8
+      chapter: 29,
+      verse: 1
+    }
+  },
+  {
+    text: "Hezekiah restores the celebration of Passover.",
+    start: {
+      book: "2 Chronicles",
+      chapter: 30,
+      verse: 1
     }
   }
 ]

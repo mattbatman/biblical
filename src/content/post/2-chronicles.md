@@ -348,6 +348,30 @@ outline: [
       chapter: 30,
       verse: 1
     }
+  },
+  {
+    text: "Hezekiah restores the celebration of Passover.",
+    start: {
+      book: "2 Chronicles",
+      chapter: 30,
+      verse: 1
+    }
+  },
+  {
+    text: "The people destroyed the Asherah poles and high places in the cities of Judah.",
+    start: {
+      book: "2 Chronicles",
+      chapter: 31,
+      verse: 1
+    }
+  },
+  {
+    text: "Hezekiah restored priests and dedications.",
+    start: {
+      book: "2 Chronicles",
+      chapter: 31,
+      verse: 11
+    }
   }
 ]
 ---

@@ -372,6 +372,22 @@ outline: [
       chapter: 31,
       verse: 11
     }
+  },
+  {
+    text: "The King of Assyria attempted to invade Judah and Jerusalem. Hezekiah cut off springs of water in the land.",
+    start: {
+      book: "2 Chronicles",
+      chapter: 32,
+      verse: 1
+    }
+  },
+  {
+    text: "The Assyrians taunted the people of Judah, and Yahweh sent an angel to 'cut off' many of their military leaders. The King returned to his own land in disgrace.",
+    start: {
+      book: "2 Chronicles",
+      chapter: 32,
+      verse: 1
+    }
   }
 ]
 ---

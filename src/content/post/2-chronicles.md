@@ -430,11 +430,27 @@ outline: [
     }
   },
   {
-    text: "It was prophesied that Israel would be punished greatly for the violations of the Book of the Law, but that Josiah wouldn't see the curses in his lifetime for his faithfulness..",
+    text: "It was prophesied that Israel would be punished greatly for the violations of the Book of the Law, but that Josiah wouldn't see the curses in his lifetime for his faithfulness.",
     start: {
       book: "2 Chronicles",
       chapter: 34,
       verse: 22
+    }
+  },
+  {
+    text: "Josiah restored the rituals of Passover.",
+    start: {
+      book: "2 Chronicles",
+      chapter: 35,
+      verse: 1
+    }
+  },
+  {
+    text: "Josiah ignored warnings not to engage the Pharoah in battle, and was killed.",
+    start: {
+      book: "2 Chronicles",
+      chapter: 35,
+      verse: 20
     }
   }
 ]

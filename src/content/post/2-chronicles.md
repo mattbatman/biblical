@@ -2,7 +2,7 @@
 title: "2 Chronicles"
 publishDate: "20 Apr 2025"
 pageType: "bibleChapter"
-tags: ["Jachin", "Boaz", "cherubim", "Ark of the Covenant", "wisdom", "Shechem", "Jerusalem", "Asherah poles", "Asherah", "high places", "seer", "Baal", "Eloth", "Judah", "Philistines", "Meunites", "Ammonites", "pass through fire", "sorcery", "augury", "wizards", "Babylon"]
+tags: ["Jachin", "Boaz", "cherubim", "Ark of the Covenant", "wisdom", "Shechem", "Jerusalem", "Asherah poles", "Asherah", "high places", "seer", "Baal", "Eloth", "Judah", "Philistines", "Meunites", "Ammonites", "pass through fire", "sorcery", "augury", "wizards", "Babylon", "Book of the Law"]
 people: ["Solomon", "King Huram of Tyre", "Queen of Sheba", "Rehoboam", "Abijah", "Jeroboam", "Asa", "Oded", "Hanani", "Jehoshaphat", "Micaiah", "Ahab", "Athaliah", "Ahaziah", "Jehoshabeath", "Jehoiada", "Mattan", "Ahaz", "Oded", "Hezekiah", "Manasseh", "Amon", "Josiah"]
 outline: [
   {
@@ -411,6 +411,30 @@ outline: [
       book: "2 Chronicles",
       chapter: 33,
       verse: 21
+    }
+  },
+  {
+    text: "Josiah began to rule. He tore down the idols, altars, and high places.",
+    start: {
+      book: "2 Chronicles",
+      chapter: 34,
+      verse: 1
+    }
+  },
+  {
+    text: "Josiah began rebuilding the temple, and rediscovered the Book of the Law.",
+    start: {
+      book: "2 Chronicles",
+      chapter: 34,
+      verse: 8
+    }
+  },
+  {
+    text: "It was prophesied that Israel would be punished greatly for the violations of the Book of the Law, but that Josiah wouldn't see the curses in his lifetime for his faithfulness..",
+    start: {
+      book: "2 Chronicles",
+      chapter: 34,
+      verse: 22
     }
   }
 ]

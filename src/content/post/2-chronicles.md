@@ -2,8 +2,8 @@
 title: "2 Chronicles"
 publishDate: "20 Apr 2025"
 pageType: "bibleChapter"
-tags: ["Jachin", "Boaz", "cherubim", "Ark of the Covenant", "wisdom", "Shechem", "Jerusalem", "Asherah poles", "Asherah", "high places", "seer", "Baal", "Eloth", "Judah", "Philistines", "Meunites", "Ammonites", "pass through fire"]
-people: ["Solomon", "King Huram of Tyre", "Queen of Sheba", "Rehoboam", "Abijah", "Jeroboam", "Asa", "Oded", "Hanani", "Jehoshaphat", "Micaiah", "Ahab", "Athaliah", "Ahaziah", "Jehoshabeath", "Jehoiada", "Mattan", "Ahaz", "Oded", "Hezekiah"]
+tags: ["Jachin", "Boaz", "cherubim", "Ark of the Covenant", "wisdom", "Shechem", "Jerusalem", "Asherah poles", "Asherah", "high places", "seer", "Baal", "Eloth", "Judah", "Philistines", "Meunites", "Ammonites", "pass through fire", "sorcery", "augury", "wizards", "Babylon"]
+people: ["Solomon", "King Huram of Tyre", "Queen of Sheba", "Rehoboam", "Abijah", "Jeroboam", "Asa", "Oded", "Hanani", "Jehoshaphat", "Micaiah", "Ahab", "Athaliah", "Ahaziah", "Jehoshabeath", "Jehoiada", "Mattan", "Ahaz", "Oded", "Hezekiah", "Manasseh", "Amon", "Josiah"]
 outline: [
   {
     text: "Solomon requests wisdom from God when God appears to him in a dream",
@@ -387,6 +387,30 @@ outline: [
       book: "2 Chronicles",
       chapter: 32,
       verse: 1
+    }
+  },
+  {
+    text: "Manasseh ruled. He rebuilt the high places and altars to the Baals that his father had destroyed.",
+    start: {
+      book: "2 Chronicles",
+      chapter: 33,
+      verse: 1
+    }
+  },
+  {
+    text: "God allowed Manasseh to be captured. He repented, and the people largely destroyed the altars and returned to worshipping God.",
+    start: {
+      book: "2 Chronicles",
+      chapter: 33,
+      verse: 10
+    }
+  },
+  {
+    text: "Amon ruled for 2 years, was evil, and was killed in a conspiracy.",
+    start: {
+      book: "2 Chronicles",
+      chapter: 33,
+      verse: 21
     }
   }
 ]

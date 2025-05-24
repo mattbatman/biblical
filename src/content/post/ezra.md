@@ -3,8 +3,25 @@ title: "Ezra"
 publishDate: "24 May 2025"
 pageType: "bibleChapter"
 tags: []
-people: []
-outline: []
+people: ["Cyrus king of Persia"]
+outline: [
+  {
+    text: "Cyrus king of Persia allows the captives from Babylon to return to Jerusalem.",
+    start: {
+        book: "Ezra",
+        chapter: 1,
+        verse: 1
+    }
+  },
+  {
+    text: "The captives who returned from Babylon are listed.",
+    start: {
+        book: "Ezra",
+        chapter: 2,
+        verse: 1
+    }
+  }
+]
 ---
 ## World English Bible Text
 

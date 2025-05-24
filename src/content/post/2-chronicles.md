@@ -452,6 +452,14 @@ outline: [
       chapter: 35,
       verse: 20
     }
+  },
+  {
+    text: "King Cyrus allows Judah to be restored.",
+    start: {
+      book: "2 Chronicles",
+      chapter: 36,
+      verse: 1
+    }
   }
 ]
 ---

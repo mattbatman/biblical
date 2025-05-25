@@ -20,6 +20,22 @@ outline: [
         chapter: 2,
         verse: 1
     }
+  },
+  {
+    text: "The children of Israel of captivity began making sacrifices to Yahweh again.",
+    start: {
+        book: "Ezra",
+        chapter: 3,
+        verse: 1
+    }
+  },
+  {
+    text: "The children of Israel of captivity faced legal and culture oppostion when attempting to rebuild the temple.",
+    start: {
+        book: "Ezra",
+        chapter: 4,
+        verse: 1
+    }
   }
 ]
 ---

@@ -2,8 +2,8 @@
 title: "Ezra"
 publishDate: "24 May 2025"
 pageType: "bibleChapter"
-tags: []
-people: ["Cyrus king of Persia"]
+tags: ["Babylong", "Persia", "Jerusalem", "Passover"]
+people: ["Cyrus king of Persia", "Darius"]
 outline: [
   {
     text: "Cyrus king of Persia allows the captives from Babylon to return to Jerusalem.",

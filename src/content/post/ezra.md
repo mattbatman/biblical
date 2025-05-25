@@ -36,6 +36,22 @@ outline: [
         chapter: 4,
         verse: 1
     }
+  },
+  {
+    text: "The prophets Haggai and Zechariah encourage reconstruction of the temple.",
+    start: {
+        book: "Ezra",
+        chapter: 5,
+        verse: 1
+    }
+  },
+  {
+    text: "A scroll with the original decree from Cyrus to rebuild the temple is found.",
+    start: {
+        book: "Ezra",
+        chapter: 6,
+        verse: 1
+    }
   }
 ]
 ---

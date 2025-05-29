@@ -52,6 +52,22 @@ outline: [
         chapter: 6,
         verse: 1
     }
+  },
+  {
+    text: "Ezra was appointed to appoint judges and magistrates.",
+    start: {
+        book: "Ezra",
+        chapter: 7,
+        verse: 25
+    }
+  },
+  {
+    text: "Ezra helps some exiles return.",
+    start: {
+        book: "Ezra",
+        chapter: 8,
+        verse: 1
+    }
   }
 ]
 ---

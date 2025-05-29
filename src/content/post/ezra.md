@@ -68,6 +68,14 @@ outline: [
         chapter: 8,
         verse: 1
     }
+  },
+  {
+    text: "Ezra laments that exiles took foreign wives and moved to have them banished.",
+    start: {
+        book: "Ezra",
+        chapter: 9,
+        verse: 1
+    }
   }
 ]
 ---

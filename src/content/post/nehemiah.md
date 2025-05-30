@@ -3,8 +3,17 @@ title: "Nehemiah"
 publishDate: "29 May 2025"
 pageType: "bibleChapter"
 tags: []
-people: []
-outline: []
+people: ["Nehemiah"]
+outline: [
+  {
+    text: "Nehemiah hears of the conditions of Jerusalem and those who left captivity, and prays to God and confesses the sins of the nation.",
+    start: {
+        book: "Nehemiah",
+        chapter: 1,
+        verse: 1
+    }
+  }
+]
 ---
 
 ## World English Bible Text

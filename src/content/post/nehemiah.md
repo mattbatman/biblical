@@ -28,6 +28,14 @@ outline: [
         chapter: 3,
         verse: 1
     }
+  },
+  {
+    text: "Samaria and others mock and plot against the Jews rebuilding their wall, but Nehemiah encourages them and plans for their defense.",
+    start: {
+        book: "Nehemiah",
+        chapter: 4,
+        verse: 1
+    }
   }
 ]
 ---

@@ -2,14 +2,22 @@
 title: "Nehemiah"
 publishDate: "29 May 2025"
 pageType: "bibleChapter"
-tags: []
-people: ["Nehemiah"]
+tags: ["wine"]
+people: ["Nehemiah", "Artaxerxes"]
 outline: [
   {
     text: "Nehemiah hears of the conditions of Jerusalem and those who left captivity, and prays to God and confesses the sins of the nation.",
     start: {
         book: "Nehemiah",
         chapter: 1,
+        verse: 1
+    }
+  },
+  {
+    text: "King Artaxerxes granted Nehemiah leave to rebuild Jerusalem and Judah.",
+    start: {
+        book: "Nehemiah",
+        chapter: 2,
         verse: 1
     }
   }

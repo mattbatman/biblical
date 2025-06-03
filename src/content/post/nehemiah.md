@@ -44,6 +44,14 @@ outline: [
         chapter: 5,
         verse: 1
     }
+  },
+  {
+    text: "The wall around Judah was completed in fifty-two days.",
+    start: {
+        book: "Nehemiah",
+        chapter: 6,
+        verse: 15
+    }
   }
 ]
 ---

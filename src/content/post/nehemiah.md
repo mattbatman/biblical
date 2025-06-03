@@ -36,6 +36,14 @@ outline: [
         chapter: 4,
         verse: 1
     }
+  },
+  {
+    text: "Nehemiah rebukes the Jewish nobles for exploiting their brethren, then leads reforms to cancel debts.",
+    start: {
+        book: "Nehemiah",
+        chapter: 5,
+        verse: 1
+    }
   }
 ]
 ---

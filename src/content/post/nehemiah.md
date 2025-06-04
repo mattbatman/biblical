@@ -2,7 +2,7 @@
 title: "Nehemiah"
 publishDate: "29 May 2025"
 pageType: "bibleChapter"
-tags: ["wine"]
+tags: ["wine", "genealogy"]
 people: ["Nehemiah", "Artaxerxes"]
 outline: [
   {
@@ -51,6 +51,14 @@ outline: [
         book: "Nehemiah",
         chapter: 6,
         verse: 15
+    }
+  },
+  {
+    text: "The genealogy  of the returned exiles is listed.",
+    start: {
+        book: "Nehemiah",
+        chapter: 7,
+        verse: 5
     }
   }
 ]

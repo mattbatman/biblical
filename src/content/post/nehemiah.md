@@ -2,7 +2,7 @@
 title: "Nehemiah"
 publishDate: "29 May 2025"
 pageType: "bibleChapter"
-tags: ["wine", "genealogy"]
+tags: ["wine", "genealogy", "book of the law", "Water Gate"]
 people: ["Nehemiah", "Artaxerxes"]
 outline: [
   {
@@ -59,6 +59,22 @@ outline: [
         book: "Nehemiah",
         chapter: 7,
         verse: 5
+    }
+  },
+  {
+    text: "Ezra read the book of the law to the people in public.",
+    start: {
+        book: "Nehemiah",
+        chapter: 8,
+        verse: 1
+    }
+  },
+  {
+    text: "A national confession was made and covenant renewed.",
+    start: {
+        book: "Nehemiah",
+        chapter: 9,
+        verse: 1
     }
   }
 ]

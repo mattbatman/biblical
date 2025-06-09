@@ -76,6 +76,14 @@ outline: [
         chapter: 9,
         verse: 1
     }
+  },
+  {
+    text: "A dedication was held for the wall.",
+    start: {
+        book: "Nehemiah",
+        chapter: 12,
+        verse: 27
+    }
   }
 ]
 ---

@@ -58,6 +58,9 @@ function convertReferenceObjectToId({
 		case "Nehemiah":
 			bookAbbreviation = "NEH";
 			break;
+		case "Esther":
+			bookAbbreviation = "EST";
+			break;
 		default:
 			break;
 	}

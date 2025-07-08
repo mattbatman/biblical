@@ -2,9 +2,50 @@
 title: "Esther"
 publishDate: "7 July 2025"
 pageType: "bibleChapter"
-tags: []
-people: []
-outline: []
+tags: ["eunuch", "feast", "myrrh"]
+people: ["King Ahasuerus", "Queen Vashti", "Esther", "Memucan", "Mordecai", "Hegai"]
+outline: [
+  {
+    text: "King Ahasuerus holds a drunken feast. He commands Queen Vashti to come and shower her beauty to his guests. She refuses.",
+    start: {
+      book: "Esther",
+      chapter: 1,
+      verse: 1
+    }
+  },
+  {
+    text: "Per Memucan's advice, King Ahasuerus begins a search to replace Queen Vashti after her defiance.",
+    start: {
+      book: "Esther",
+      chapter: 1,
+      verse: 16
+    }
+  },
+  {
+    text: "Esther was selected as a potential replacement for Queen Vashti.",
+    start: {
+      book: "Esther",
+      chapter: 2,
+      verse: 1
+    }
+  },
+  {
+    text: "After 12 months of being soaked in myrrh and then fragrances, she was brought before King Ahasuerus. The king favored Esther more than all other women.",
+    start: {
+      book: "Esther",
+      chapter: 2,
+      verse: 12
+    }
+  },
+  {
+    text: "Mordecai became aware of a plot to assassinate King Ahasuerus by two of his angry eunuchs. He informed Esther, who informed King Ahasuerus and credited Mordecai",
+    start: {
+      book: "Esther",
+      chapter: 2,
+      verse: 19
+    }
+  }
+]
 ---
 
 ## World English Bible Text

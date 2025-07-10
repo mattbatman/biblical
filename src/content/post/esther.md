@@ -107,6 +107,7 @@ outline: [
 ## World English Bible Text
 
 The Book of Esther
+
 ### 1
 
 <div class="p">

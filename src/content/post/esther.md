@@ -44,6 +44,62 @@ outline: [
       chapter: 2,
       verse: 19
     }
+  },
+  {
+    text: "Becaus Mordecai did not bow before Haman, an advisor to the king, he promoted a plot to have all Jews destroyed.",
+    start: {
+      book: "Esther",
+      chapter: 3,
+      verse: 1
+    }
+  },
+  {
+    text: "Mordecai convinces Esther to speak to the king on behalf of the Jews.",
+    start: {
+      book: "Esther",
+      chapter: 4,
+      verse: 1
+    }
+  },
+  {
+    text: "Esther risks her life to speak on behalf of the Jews.",
+    start: {
+      book: "Esther",
+      chapter: 5,
+      verse: 1
+    }
+  },
+  {
+    text: "Haman was again offended by Mordecai and intended to have him hanged, but the king praised him.",
+    start: {
+      book: "Esther",
+      chapter: 6,
+      verse: 1
+    }
+  },
+  {
+    text: "Haman is hanged on the gallows he made for Mordecai.",
+    start: {
+      book: "Esther",
+      chapter: 7,
+      verse: 1
+    }
+  },
+  {
+    text: "The decree against the Jews is revoked.",
+    start: {
+      book: "Esther",
+      chapter: 8,
+      verse: 1
+    }
+  },
+  {
+    text: "The Jews slaughtered their enemies.",
+    start: {
+      book: "Esther",
+      chapter: 9,
+      verse: 1
+    }
   }
 ]
 ---

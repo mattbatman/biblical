@@ -3,8 +3,33 @@ title: "Job"
 publishDate: "10 July 2025"
 pageType: "bibleChapter"
 tags: []
-people: []
-outline: []
+people: ["Job"]
+outline: [
+  {
+    text: "Job's wealth is described",
+    start: {
+      book: "Job",
+      chapter: 1,
+      verse: 1
+    }
+  },
+  {
+    text: "God goads Satan to attempt to corrupt Job",
+    start: {
+      book: "Job",
+      chapter: 1,
+      verse: 6
+    }
+  },
+  {
+    text: "Job's donkeys, camels, and children are killed",
+    start: {
+      book: "Job",
+      chapter: 1,
+      verse: 13
+    }
+  }
+]
 ---
 
 ## World English Bible Text

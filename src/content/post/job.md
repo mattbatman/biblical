@@ -60,6 +60,14 @@ outline: [
       chapter: 2,
       verse: 11
     }
+  },
+  {
+    text: "Job curses the day he was born.",
+    start: {
+      book: "Job",
+      chapter: 3,
+      verse: 1
+    }
   }
 ]
 ---

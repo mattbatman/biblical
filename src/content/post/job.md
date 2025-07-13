@@ -28,6 +28,38 @@ outline: [
       chapter: 1,
       verse: 13
     }
+  },
+  {
+    text: "After God brings up Job to Satan again, Satan challenges God to let him harm Job physically.",
+    start: {
+      book: "Job",
+      chapter: 2,
+      verse: 1
+    }
+  },
+  {
+    text: "Satan inflicts sores on Job. Job scrapes himself with the shard from a pot.",
+    start: {
+      book: "Job",
+      chapter: 2,
+      verse: 7
+    }
+  },
+  {
+    text: "Job's wife tells him to curse God and die. Job rebukes his wife.",
+    start: {
+      book: "Job",
+      chapter: 2,
+      verse: 9
+    }
+  },
+  {
+    text: "Job's three friends visit him and don't recognize him at first. They sat on the ground with him for seven days and nights without saying a word.",
+    start: {
+      book: "Job",
+      chapter: 2,
+      verse: 11
+    }
   }
 ]
 ---

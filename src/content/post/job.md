@@ -84,6 +84,22 @@ outline: [
       chapter: 6,
       verse: 1
     }
+  },
+  {
+    text: "Job's friend Bildad suggests his kids are dead because of their sins, and Job needs to repent and beg God for mercy.",
+    start: {
+      book: "Job",
+      chapter: 8,
+      verse: 1
+    }
+  },
+  {
+    text: "Job laments he has no legal recourse with God.",
+    start: {
+      book: "Job",
+      chapter: 9,
+      verse: 1
+    }
   }
 ]
 ---

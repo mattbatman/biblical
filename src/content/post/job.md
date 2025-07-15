@@ -3,7 +3,7 @@ title: "Job"
 publishDate: "10 July 2025"
 pageType: "bibleChapter"
 tags: []
-people: ["Job"]
+people: ["Job", "Eliphaz the Temanite"]
 outline: [
   {
     text: "Job's wealth is described",
@@ -66,6 +66,22 @@ outline: [
     start: {
       book: "Job",
       chapter: 3,
+      verse: 1
+    }
+  },
+  {
+    text: "Eliphaz the Temanite suggest Job's actions are the reason for his suffering.",
+    start: {
+      book: "Job",
+      chapter: 4,
+      verse: 1
+    }
+  },
+  {
+    text: "Job asserts he has done no wrong, but would like to die.",
+    start: {
+      book: "Job",
+      chapter: 6,
       verse: 1
     }
   }

@@ -3,7 +3,7 @@ title: "Job"
 publishDate: "10 July 2025"
 pageType: "bibleChapter"
 tags: []
-people: ["Job", "Eliphaz the Temanite"]
+people: ["Job", "Eliphaz the Temanite", "Zophar", "Bildad the Shuhite"]
 outline: [
   {
     text: "Job's wealth is described",
@@ -98,6 +98,14 @@ outline: [
     start: {
       book: "Job",
       chapter: 9,
+      verse: 1
+    }
+  },
+  {
+    text: "Zophar insists Job is guilty of some sin and that if he just repent, his misery will be lifted.",
+    start: {
+      book: "Job",
+      chapter: 11,
       verse: 1
     }
   }

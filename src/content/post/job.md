@@ -2,8 +2,8 @@
 title: "Job"
 publishDate: "10 July 2025"
 pageType: "bibleChapter"
-tags: []
-people: ["Job", "Eliphaz the Temanite", "Zophar", "Bildad the Shuhite"]
+tags: ["leviathan", "sons of God", "Satan"]
+people: ["Job", "Eliphaz the Temanite", "Zophar", "Bildad the Shuhite", "Satan"]
 outline: [
   {
     text: "Job's wealth is described",
@@ -70,7 +70,7 @@ outline: [
     }
   },
   {
-    text: "Eliphaz the Temanite suggest Job's actions are the reason for his suffering.",
+    text: "Job and his three friends discuss the guilt of Job.",
     start: {
       book: "Job",
       chapter: 4,
@@ -78,35 +78,35 @@ outline: [
     }
   },
   {
-    text: "Job asserts he has done no wrong, but would like to die.",
+    text: "Dissatisfied with the discourse, Elihu lectures Job and his three friends.",
     start: {
       book: "Job",
-      chapter: 6,
+      chapter: 32,
       verse: 1
     }
   },
   {
-    text: "Job's friend Bildad suggests his kids are dead because of their sins, and Job needs to repent and beg God for mercy.",
+    text: "God resonds to Job.",
     start: {
       book: "Job",
-      chapter: 8,
+      chapter: 38,
       verse: 1
     }
   },
   {
-    text: "Job laments he has no legal recourse with God.",
+    text: "Job replies to God.",
     start: {
       book: "Job",
-      chapter: 9,
+      chapter: 42,
       verse: 1
     }
   },
   {
-    text: "Zophar insists Job is guilty of some sin and that if he just repent, his misery will be lifted.",
+    text: "God blesses job and condemns his friends and Elihu.",
     start: {
       book: "Job",
-      chapter: 11,
-      verse: 1
+      chapter: 42,
+      verse: 7
     }
   }
 ]

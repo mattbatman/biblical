@@ -64,6 +64,9 @@ function convertReferenceObjectToId({
 		case "Job":
 			bookAbbreviation = "JOB";
 			break;
+		case "Psalms":
+			bookAbbreviation = "PSA";
+			break;
 		default:
 			break;
 	}

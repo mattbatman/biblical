@@ -20,7 +20,7 @@ const BIBLE_BOOKS = [
 	"Nehemiah",
 	"Esther",
 	"Job",
-	"Psalm",
+	"Psalms",
 	"Proverbs",
 	"Ecclesiastes",
 	"Song of Solomon",

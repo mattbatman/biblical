@@ -67,6 +67,9 @@ function convertReferenceObjectToId({
 		case "Psalms":
 			bookAbbreviation = "PSA";
 			break;
+		case "Proverbs":
+			bookAbbreviation = "PSO";
+			break;
 		default:
 			break;
 	}

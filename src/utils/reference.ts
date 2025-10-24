@@ -70,6 +70,9 @@ function convertReferenceObjectToId({
 		case "Proverbs":
 			bookAbbreviation = "PSO";
 			break;
+		case "Ecclesiastes":
+			bookAbbreviation = "ECC";
+			break;
 		default:
 			break;
 	}

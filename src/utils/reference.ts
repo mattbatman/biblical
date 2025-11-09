@@ -73,6 +73,12 @@ function convertReferenceObjectToId({
 		case "Ecclesiastes":
 			bookAbbreviation = "ECC";
 			break;
+		case "Song of Solomon":
+			bookAbbreviation = "SNG";
+			break;
+		case "Isaiah":
+			bookAbbreviation = "ISA";
+			break;
 		default:
 			break;
 	}

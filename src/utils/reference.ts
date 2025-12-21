@@ -79,6 +79,9 @@ function convertReferenceObjectToId({
 		case "Isaiah":
 			bookAbbreviation = "ISA";
 			break;
+		case "Jeremiah":
+			bookAbbreviation = "JER";
+			break;
 		default:
 			break;
 	}

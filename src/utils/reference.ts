@@ -82,6 +82,12 @@ function convertReferenceObjectToId({
 		case "Jeremiah":
 			bookAbbreviation = "JER";
 			break;
+		case "Lamentations":
+			bookAbbreviation = "LAM";
+			break;
+		case "Matthew":
+			bookAbbreviation = "MAT";
+			break;
 		default:
 			break;
 	}

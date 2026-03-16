@@ -2,7 +2,7 @@
 
 Biblical is a site started with the Astro Cactus theme of the Astro framework.
 
-This site has been built with Node `v18.15.0` and deployed using GitHub Pages Actions.
+This site has been built with Node `v24.13.0` and deployed using GitHub Pages Actions.
 
 Everything below is from the Astro Cactus theme repository.
 

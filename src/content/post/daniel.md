@@ -7,6 +7,11 @@ people: []
 outline: []
 ---
 
+## World English Bible Text
+
+The Book of
+Daniel
+
 ### 1
 
 <div class="p">

@@ -91,6 +91,30 @@ function convertReferenceObjectToId({
 		case "Daniel":
 			bookAbbreviation = "DAN";
 			break;
+		case "Obadiah":
+			bookAbbreviation = "OBA";
+			break;
+		case "Nahum":
+			bookAbbreviation = "NAM";
+			break;
+		case "Micah":
+			bookAbbreviation = "MIC";
+			break;
+		case "Jonah":
+			bookAbbreviation = "JON";
+			break;
+		case "Joel":
+			bookAbbreviation = "JOL";
+			break;
+		case "Hosea":
+			bookAbbreviation = "HOS";
+			break;
+		case "Habakkuk":
+			bookAbbreviation = "HAB";
+			break;
+		case "Amos":
+			bookAbbreviation = "AMO";
+			break;
 		case "Matthew":
 			bookAbbreviation = "MAT";
 			break;

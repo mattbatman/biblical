@@ -121,6 +121,12 @@ function convertReferenceObjectToId({
 		case "Zephaniah":
 			bookAbbreviation = "ZEP";
 			break;
+		case "Zechariah":
+			bookAbbreviation = "ZEC";
+			break;
+		case "Malachi":
+			bookAbbreviation = "MAL";
+			break;
 		case "Matthew":
 			bookAbbreviation = "MAT";
 			break;

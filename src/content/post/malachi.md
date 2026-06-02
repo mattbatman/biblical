@@ -7,6 +7,8 @@ people: []
 outline: []
 ---
 
+## World English Bible Text
+
 The Book of Malachi
 
 ### 1

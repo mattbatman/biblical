@@ -2,7 +2,7 @@
 title: "Matthew"
 publishDate: "5 March 2026"
 pageType: "bibleChapter"
-tags: []
+tags: ["new testament"]
 people: []
 outline: []
 ---

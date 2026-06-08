@@ -97,11 +97,26 @@ export function filterForOtherPosts(posts: Array<CollectionEntry<"post">>) {
 
 export function sortBibleChapterPosts(posts: Array<CollectionEntry<"post">>) {
 	// sort the list of posts by title in order of BIBLE_BOOKS
-	return posts.sort((a, b) => {
+	const sortedPosts = posts.sort((a, b) => {
 		const aIndex = BIBLE_BOOKS.indexOf(a.data.title);
 		const bIndex = BIBLE_BOOKS.indexOf(b.data.title);
+
 		return aIndex - bIndex;
 	});
+
+	const oldTestament = sortedPosts.filter(function (p) {
+		const hasNewTestament = p.data.tags.some((tag) => tag === "new testament");
+
+		return !hasNewTestament;
+	});
+
+	const newTestament = sortedPosts.filter(function (p) {
+		const hasNewTestament = p.data.tags.some((tag) => tag === "new testament");
+
+		return hasNewTestament;
+	});
+
+	return { oldTestament, newTestament };
 }
 
 export function sortMDByDate(posts: Array<CollectionEntry<"post">>) {

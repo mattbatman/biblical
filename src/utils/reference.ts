@@ -130,6 +130,9 @@ function convertReferenceObjectToId({
 		case "Matthew":
 			bookAbbreviation = "MAT";
 			break;
+		case "Mark":
+			bookAbbreviation = "MRK";
+			break;
 		default:
 			break;
 	}
